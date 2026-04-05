@@ -7,4 +7,4 @@ tags: [guatemala]
 
 This is my first post on the new site.
 
-If you're reading this, it works.
+If you're reading this, it works. xxx
