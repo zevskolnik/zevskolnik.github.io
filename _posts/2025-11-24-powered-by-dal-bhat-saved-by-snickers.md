@@ -2,7 +2,7 @@
 layout: post
 title: Powered by Dal Bhat, Saved by Snickers
 date: 2025-11-24
-categories: [Featured Posts, Newsletters]
+categories: [Newsletters]
 ---
 
 There are 25 people squished into this minivan, and for the past two hours I’ve been rubbing knees with a 50 year old Nepali man in a tracksuit.
