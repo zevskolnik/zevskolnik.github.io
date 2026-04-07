@@ -1,7 +1,7 @@
 ---
 title: "My First Week in Portugal (SLB! SLB! SLB!)"
 date: 2016-02-18
-categories: [newsletters]
+categories: [Newsletters]
 tags: []
 ---
 
