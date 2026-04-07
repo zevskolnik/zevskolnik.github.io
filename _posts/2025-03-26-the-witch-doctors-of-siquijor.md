@@ -2,7 +2,7 @@
 layout: post
 title: The Witch Doctors of Siquijor
 date: 2025-03-26
-categories: [Featured Posts, Newsletters]
+categories: [Newsletters]
 ---
 
 For 20 years I've wanted to travel to the Philippines.
