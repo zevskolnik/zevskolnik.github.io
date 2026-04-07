@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to the Hell of the West
 date: 2023-04-21
-categories: [Featured Posts]
+categories: [Newsletters]
 ---
 
 I’m nervous.
