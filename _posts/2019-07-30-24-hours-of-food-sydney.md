@@ -2,7 +2,7 @@
 layout: post
 title: 24 Hours of Food - Sydney
 date: 2019-07-30
-categories: [24 Hours Somewhere, Guides]
+categories: [Guides, 24 Hours Somewhere]
 ---
 
 Breakfast – Longevity Bowl at Bondi Wholefoods or Savoury Rolls at Bourke St Bakery
