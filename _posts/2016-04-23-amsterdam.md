@@ -1,7 +1,7 @@
 ---
 title: "From Dutch Shipping Containers to Irish Burritos"
 date: 2016-04-23
-categories: [newsletters]
+categories: [Newsletters]
 tags: []
 ---
 
