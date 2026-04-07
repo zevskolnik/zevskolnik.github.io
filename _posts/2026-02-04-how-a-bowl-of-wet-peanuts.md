@@ -2,7 +2,7 @@
 layout: post
 title: How a Bowl of Wet Peanuts Turned a Bad Day Around
 date: 2026-02-04
-categories: [Featured Posts, Newsletters]
+categories: [Newsletters]
 ---
 
 I’d been having a miserable day.
