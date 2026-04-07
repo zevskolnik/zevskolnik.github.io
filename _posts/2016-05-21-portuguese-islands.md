@@ -1,7 +1,7 @@
 ---
 title: Portuguese Island Hopping 
 date: 2016-05-21
-categories: [newsletters] 
+categories: [Newsletters] 
 tags: [] 
 ---
 
