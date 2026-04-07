@@ -2,7 +2,7 @@
 layout: post
 title: Hiking in an Active Warzone at 2AM
 date: 2026-04-05
-categories: [Featured Posts, Newsletters]
+categories: [Newsletters]
 ---
 
 Sometimes hiking means scenic mountain towns and a nice view.
