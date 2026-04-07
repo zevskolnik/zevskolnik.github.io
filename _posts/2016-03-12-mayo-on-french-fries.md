@@ -1,7 +1,7 @@
 ---
 title: "That Time I Had Mayo on French Fries"
 date: 2016-03-12
-categories: [newsletters]
+categories: [Newsletters]
 tags: []
 ---
 
