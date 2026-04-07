@@ -2,7 +2,7 @@
 layout: post
 title: Getting Steamy in Japan
 date: 2024-02-28
-categories: [Featured Posts]
+categories: [Newsletters]
 ---
 
 There’s something uniquely serene about being naked in a hot tub with 15 Japanese men.
