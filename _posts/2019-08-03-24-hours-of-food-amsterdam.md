@@ -2,7 +2,7 @@
 layout: post
 title: 24 Hours of Food – Amsterdam
 date: 2019-08-03
-categories: [24 Hours Somewhere, Guides]
+categories: [Guides, 24 Hours Somewhere]
 ---
 
 Ahh Amsterdam. The place most people know as the land of the
