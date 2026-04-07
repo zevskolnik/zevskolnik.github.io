@@ -2,7 +2,7 @@
 layout: post
 title: Life’s Better On Fiji Time
 date: 2022-05-03
-categories: [Featured Posts, Newsletters]
+categories: [Newsletters]
 ---
 
 Re-joining my life in Brisbane, I can’t help but wonder how many people I pass by everyday. On a standard metropolitan lunch break, it must be at least 500? 1000 humans?
