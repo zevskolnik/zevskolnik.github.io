@@ -2,7 +2,7 @@
 layout: post
 title: Lisbon - Food and Activity Guide
 date: 2019-08-04
-categories: [General Guides, Guides]
+categories: [Guides, General Guides]
 ---
 
 Spending nearly 8 months in the fantastic, tiny country that is Portugal, I had the chance to do a ton of activities. Even better, is that I get to share them with you! Whether you’re there for a week or a month, staying in a hostel or a hotel, this is the guide (in tandem with the Semester Abroad (and General) Guide to Lisbon) for anyone wondering what to do during their time in Lisbon.
