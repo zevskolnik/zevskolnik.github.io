@@ -2,7 +2,7 @@
 layout: post
 title: 24 Hours of Food - Lisbon
 date: 2019-07-28
-categories: [24 Hours Somewhere, Guides]
+categories: [Guides, 24 Hours Somewhere]
 ---
 
 Whether you’ve just touched down in Portugal, or you’ve lived there for years, food is of utmost importance in this capital city. Booming with pastries, bacalao (salted cod) and house wines, it’s tough to go wrong.
