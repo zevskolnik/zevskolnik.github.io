@@ -2,7 +2,7 @@
 layout: post
 title: How does a monk deal with a mosquito?
 date: 2026-01-20
-categories: [Featured Posts, Newsletters]
+categories: [Newsletters]
 ---
 
 I’m two hours into my 5 day silent meditation retreat and a bee has stung me for the second time in my life.
