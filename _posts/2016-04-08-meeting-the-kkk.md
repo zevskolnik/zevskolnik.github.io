@@ -1,7 +1,7 @@
 ---
 title: "Meeting the KKK in Spain"
 date: 2016-04-08
-categories: [featured-posts, newsletters]
+categories: [newsletters]
 tags: []
 ---
 
