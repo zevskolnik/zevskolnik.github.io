@@ -2,7 +2,7 @@
 layout: post
 title: On Finding a Home
 date: 2019-08-03
-categories: [Ramblings]
+categories: [Stories]
 ---
 
 There aren’t many places in this world where I feel at home.
