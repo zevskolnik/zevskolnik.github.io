@@ -2,7 +2,7 @@
 layout: post
 title: A Semester Abroad (and General) Guide to Lisbon
 date: 2019-08-04
-categories: [General Guides, Guides]
+categories: [Guides, General Guides]
 ---
 
 Living
