@@ -2,6 +2,7 @@
 layout: post
 title: Meanwhale in Brisbane
 date: 2020-11-07
+categories: [Newsletters]
 ---
 
 After a three month debacle of gradually replacing 3 housemates (new housemate interviews are the worst), we have a wonderful new family in Brisbane. I’m happy, they’re happy, and no one ever has to move house again.
