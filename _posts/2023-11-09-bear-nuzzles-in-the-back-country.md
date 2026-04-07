@@ -2,7 +2,7 @@
 layout: post
 title: Bear Nuzzles in the Back Country
 date: 2023-11-09
-categories: [Featured Posts]
+categories: [Newsletters]
 ---
 
 It’s 3am in Killarney Provincial Park.
