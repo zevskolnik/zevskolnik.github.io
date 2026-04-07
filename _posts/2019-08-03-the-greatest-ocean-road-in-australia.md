@@ -2,7 +2,7 @@
 layout: post
 title: The Great(est) Ocean Road In Australia
 date: 2019-08-03
-categories: [General Guides, Guides]
+categories: [Guides, General Guides]
 ---
 
 This is no mere ‘good’ road. It’s not a ‘fine’ road. And it most definitely isn’t an ‘ok’ road. No. I’m talking about the Great Ocean Road – one of the most iconic trips in all of Australia.
