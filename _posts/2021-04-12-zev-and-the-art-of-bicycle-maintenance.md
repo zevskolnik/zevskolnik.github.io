@@ -1,12 +1,15 @@
 ---
-layout: post
-title: Zev and the Art of Bicycle Maintenance
-date: 2021-04-12
+title: "Zev and the Art of Bicycle Maintenance"
+date: 2021-04-12 02:14:53
+categories: [Newsletters]
+image:
+  path: /assets/img/posts/zev-and-the-art-of-bicycle-maintenance/img-7906.webp
+  alt: "Zev and the Art of Bicycle Maintenance"
 ---
 
 It was all planned perfectly.
 
-A coastal road trip that started with three days in a canoe, followed by stops to snorkel, climb rocks, and explore national parks. We’d drop into Sydney to say hello to some friends and meander our way down to Australia’s capital, Canberra, where the frisbee tournament we’d been training for the past four months was being held. 
+A coastal road trip that started with three days in a canoe, followed by stops to snorkel, climb rocks, and explore national parks. We’d drop into Sydney to say hello to some friends and meander our way down to Australia’s capital, Canberra, where the frisbee tournament we’d been training for the past four months was being held.
 
 However, as the familiar story goes, COVID had other plans…
 
@@ -16,17 +19,21 @@ The birds once more chirp, live music has strummed its way back to life, and I a
 
 With free reign inside of Queensland, it’s been a good stretch of time to continue chasing down life goals. One of the big hopes for the year was to get more involved in my hobbies, which is why I happily accepted the offer of both Captain and Treasurer of my Ultimate Frisbee club, Extinction.
 
-Extinction was off to the Australian Ultimate Frisbee Nationals Tournament.  
+Extinction was off to the Australian Ultimate Frisbee Nationals Tournament.
 
 21 of us, ready to run our hearts out to catch every disc that was thrown. We’d be playing the best teams in the country (albeit, in Division 2), and were excited to put our training to the test.
 
-Sadly, a snap lockdown from a case that involved a nurse, a stripper (news story), and a dastardly UK variant quickly dashed our hopes of competing. With an official decision from the Australian Flying Disc Association, we were told all Brisbane teams were unable to participate in the tournament. To add insult to injury, one day later the lockdown was lifted due to fast response from the government, and cooperation from the aforementioned exotic dancer.
+Sadly, a snap lockdown from a case that involved a nurse, a stripper ([news story](https://www.dailymail.co.uk/news/article-9420345/Male-entertainer-Covid-visited-11-Queensland-venues-including-surfing-competition.html)), and a dastardly UK variant quickly dashed our hopes of competing. With an official decision from the Australian Flying Disc Association, we were told all Brisbane teams were unable to participate in the tournament. To add insult to injury, one day later the lockdown was lifted due to fast response from the government, and cooperation from the aforementioned exotic dancer.
 
 While I wallowed in a few days’ worth of misery, I had zero interest wasting my Easter long weekend.
 
 Thinking along similar lines, the road trip crew came up with a Plan C (Plan B, the canoe trip, went south when El Niño brought the worst floods in 50 years to Australia). We would bike 161km along the Brisbane Valley Rail Trail, an abandoned rail line that’s turned into a beautiful mountain bike track an hour’s train ride from Brisbane.
 
 Long on my Aussie bucket list, my four friends and I grabbed a few bikes and hopped on the tram, seeking refuge from the city life.
+
+![](/assets/img/posts/zev-and-the-art-of-bicycle-maintenance/img-7906.webp){: w="604" h="666" }
+
+Ready to ride
 
 After getting up to the start of the track, the next few days, while wet, were ones of bliss. It’s you, your bike, and the road. No cars, no worries.
 
@@ -46,6 +53,10 @@ Cruising through town after town, earning those toasties, we made it 90kms. More
 
 The beautiful scenery between the endless paddocks and happy birdlife was an awesome view, accompanied only by the crunch of our tires on gravel.
 
+![](/assets/img/posts/zev-and-the-art-of-bicycle-maintenance/img-7911.webp){: w="750" h="526" }
+
+The occasional local blocking our path
+
 Eventually pulling into our campsite, we celebrated our long ride and looked forward to the cruisey remainder of the trip, which went by with barely a hitch.
 
 While my physio would probably say otherwise, I could see myself doing a lot more of this bike-packing style of trip. All you need is a bike, some panniers and a bit of knowledge on maintenance (which I’m still very much lacking).
@@ -59,3 +70,17 @@ Hope you’ve been keeping life interesting in your own way. Would love to hear 
 All the best,
 
 Zev
+
+<div class="gallery" markdown="1">
+
+![Luxury campsite for night 2](/assets/img/posts/zev-and-the-art-of-bicycle-maintenance/img-7909.webp){: w="750" h="531" }
+
+![Awesome tunnel](/assets/img/posts/zev-and-the-art-of-bicycle-maintenance/img-7908.webp){: w="750" h="1334" }
+
+![A mountain bike’s happy place](/assets/img/posts/zev-and-the-art-of-bicycle-maintenance/img-7859.webp){: w="1500" h="2000" }
+
+![Finally finished](/assets/img/posts/zev-and-the-art-of-bicycle-maintenance/img-7905.webp){: w="750" h="546" }
+
+![Disability and/or bike seating](/assets/img/posts/zev-and-the-art-of-bicycle-maintenance/img-7865.webp){: w="1500" h="2000" }
+
+</div>

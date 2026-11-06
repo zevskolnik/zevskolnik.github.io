@@ -1,7 +1,10 @@
 ---
-layout: post
-title: '2020 Triathlon: 1.5km Swim, 40km Bike, 6 Month Quarantine'
-date: 2020-05-30
+title: "2020 Triathlon: 1.5km Swim, 40km Bike, 6 Month Quarantine"
+date: 2020-05-30 06:33:49
+categories: [Newsletters]
+image:
+  path: /assets/img/posts/2020-triathlon-1-5km-swim-40km-bike-6-month-quarantine/pretriwithcaps.webp
+  alt: "2020 Triathlon: 1.5km Swim, 40km Bike, 6 Month Quarantine"
 ---
 
 What a hectic time March 2020 was. Who would have thought that the latter half of the month would have 7 billion people’s day-to-day filled with existential crises, economic uncertainty, and toilet paper memes?
@@ -20,6 +23,10 @@ I’d finished off my half marathon and was ready for a new physical challenge. 
 
 After convincing my flatmate Olivia to sign up with me, I realized what triathlon distances really meant. A 1.5km swim, 40km bike, 10km run. Individually, I can understand what that entails. An afternoon’s exercise for your average athlete. The issue, was doing those three items in succession.
 
+![](/assets/img/posts/2020-triathlon-1-5km-swim-40km-bike-6-month-quarantine/no-idea-what-were-getting-into-min.webp){: w="1600" h="1200" }
+
+No idea what we’re getting into
+
 Don’t get me wrong, it’s no Ironman (4km swim, 180km ride, 42km run. Oh my). But for someone who’d just gotten used to going for a casual hour long run, this was a big step up. Not to mention the furthest I’d gone on my bike in the past year was a leisurely ride to a friend’s house a few suburbs over.
 
 Fun times ahead.
@@ -34,9 +41,9 @@ Enough training or not, I was doing this. And after a brief night’s sleep for 
 
 While I won’t bore your with the minute by minute details, here are the highlights:
 
-The swim was relatively enjoyable. As it was open water, I got lucky and caught a wave, bodysurfing in for a big finish
-The bike was the toughest mental challenge I’d had in a while. I struggled around the halfway mark, pushing against 30km/hr headwinds. My lack of butt pads (and cheap bike) didn’t help either. Worthy investment for next time
-Finally, the run! While I was low on energy, I was ready to finish off strong. Left foot, right foot. Easy. The first bit went great, happily trotting along. However, as I slowly ticked off kilometre by kilometre, I had shoulder pain, chest pain, and of course had my hat blown off. Twice. I wasn’t going to let that stop me though
+-   The swim was relatively enjoyable. As it was open water, I got lucky and caught a wave, bodysurfing in for a big finish
+-   The bike was the toughest mental challenge I’d had in a while. I struggled around the halfway mark, pushing against 30km/hr headwinds. My lack of butt pads (and cheap bike) didn’t help either. Worthy investment for next time
+-   Finally, the run! While I was low on energy, I was ready to finish off strong. Left foot, right foot. Easy. The first bit went great, happily trotting along. However, as I slowly ticked off kilometre by kilometre, I had shoulder pain, chest pain, and of course had my hat blown off. Twice. I wasn’t going to let that stop me though
 
 After 3 hours of non-stop torturous cardio, I sprinted towards the finish line, giving everything I possibly could. Hands raised in triumph, I smiled as the announcer called out “Jeff Skolnik, bringing it home”.
 
@@ -52,10 +59,24 @@ I never would have thought I’d be the type to get up every morning to look at 
 
 With my groceries, I have created life.
 
-Powerful stuff.  
+Powerful stuff.
 
 Hope everyone’s been coping alright and summer starts to show its face. As always, would love to hear about what’s new and catch up on all things life.
 
 Zev
 
-PS I wrote a tune about coronavirus for a contest a month ago. While I didn’t end up winning, I thought some of you might enjoy. Find it here https://www.youtube.com/watch?v=p3J6BowA2SA
+PS I wrote a tune about coronavirus for a contest a month ago. While I didn’t end up winning, I thought some of you might enjoy. Find it here [https://www.youtube.com/watch?v=p3J6BowA2SA](https://gmail.us3.list-manage.com/track/click?u=001a1df06423a9d1c166f620e&id=abff5e03bb&e=2f4fbe2771)
+
+<div class="gallery" markdown="1">
+
+![Bike Repair Shop](/assets/img/posts/2020-triathlon-1-5km-swim-40km-bike-6-month-quarantine/fixingthebike.webp){: w="1242" h="1242" }
+
+![The best part is when it&#039;s over](/assets/img/posts/2020-triathlon-1-5km-swim-40km-bike-6-month-quarantine/posttrihappies.webp){: w="1600" h="900" }
+
+![About to begin](/assets/img/posts/2020-triathlon-1-5km-swim-40km-bike-6-month-quarantine/pretriwithcaps.webp){: w="1200" h="1200" }
+
+![The result](/assets/img/posts/2020-triathlon-1-5km-swim-40km-bike-6-month-quarantine/tritime.webp){: w="1200" h="1200" }
+
+![Franky St Brewing Co](/assets/img/posts/2020-triathlon-1-5km-swim-40km-bike-6-month-quarantine/franky-st-brewing-co-min-1.webp){: w="1600" h="1200" }
+
+</div>

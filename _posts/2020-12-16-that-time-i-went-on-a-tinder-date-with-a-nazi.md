@@ -1,8 +1,10 @@
 ---
-layout: post
-title: That Time I Went On A Tinder Date With A Nazi
-date: 2020-12-16
+title: "That Time I Went On A Tinder Date With A Nazi"
+date: 2020-12-16 10:28:00
 categories: [Stories]
+image:
+  path: /assets/img/posts/that-time-i-went-on-a-tinder-date-with-a-nazi/mika-baumeister-4xchyrlbywm-unsplash.webp
+  alt: "That Time I Went On A Tinder Date With A Nazi"
 ---
 
 During my exchange in Portugal, I kept a daily journal filled with the things I did that day, from what happened at school to the travel stories I accumulated. Reading back on that journal, there are some standout days that I’m glad to have records of.
@@ -11,7 +13,7 @@ Some of my favourite entries are those entailing my dating life. The romantic, t
 
 Below is my recollection of that odd day.
 
-______________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 The day I went on a Tinder date with a Nazi
 
@@ -21,7 +23,7 @@ I woke up today feeling even worse than I have the past few days. Something I at
 
 Mornings have been especially bad, waking up feeling like my insides would rather be outside. While food hasn’t been going down easily, I know that I need to eat for some energy.
 
-A couple of eggs on toast, a handful of extra strength ibuprofen, and a cold shower. All the things I need to get me from feeling like I want to die into the happy petunia I’m striving to be. 
+A couple of eggs on toast, a handful of extra strength ibuprofen, and a cold shower. All the things I need to get me from feeling like I want to die into the happy petunia I’m striving to be.
 
 Just what the doctor ordered.
 
@@ -49,49 +51,31 @@ Ah, so I guess that’s where were taking this conversation.
 
 It’s amazing how quickly your entire perspective of a person changes once you realize they’re a complete bigot. And I was only brushing the surface of how ridiculous this girl was.
 
-The following is a catalog of merely some of the things she brought up, that I learned about her, or that I noticed during our date, which ended up lasting from 3 in the afternoon until 1am:
+The following is a catalog of merely _some_ of the things she brought up, that I learned about her, or that I noticed during our date, which ended up lasting from 3 in the afternoon until 1am:
 
-Excessively used the 'C' word
-
-Has a tattoo of a backwards B on the inside of her lip
-
-She goes by B because it’s the first letter of her middle name
-
-Says the ‘N’ word without any remorse. Or, as it turns out, is just a total racist. See next point
-
-Doesn’t think the Nazis did anything wrong. Her words. Apparently she’s their biggest supporter in 2016
-
-Tried telling me I’m not fully Jewish, because ‘we had to fuck up somewhere down the line’
-
-Was planning on voting for Trump, because she’ll get some extra money from a lawsuit she won a while back (???) and agrees with most of his policies. However, she shares the same horoscope with Bernie, so how could she not vote for him
-
-A year or so ago, she quit her job and spent 3 months taking care of her best friend who was in the hospital. Apparently the doctors couldn’t figure it out, and they thought he had a form of contagious AIDS, and expected her to get sick as well
-
-At least she cares about her friends?
-
-She routinely gives away or throws away her entire wardrobe because she gets bored of wearing the same clothes
-
-Mentioned that she’d done every drug (especially the hard stuff). When I asked her about what some of them were like, her answers didn’t make much sense. For instance, she mentioned snorting heroin and feeling weird for an hour then wanting to clean. Not that I’ve ever seen a heroin den, but I don’t think of them as particularly tidy environments
-
-She speaks fluent Spanish and Portuguese but doesn’t try speaking them here because she gets too shy. Maybe she’s unsure what fluent means
-
-She’s renting out 3 apartments at the moment. Not apartments that she or her family owns. Paying rent for 3 apartments. She’d left the other two because the landlord was creeping her out, but still paying rent for some reason
-
-Casually mentioned a few times that she was on the cover of some magazine. When I asked about it, she wouldn’t show me or go into details
-
-Throughout the date she got maybe 150 messages. No idea who they were from but they kept popping up. She kept checking her phone. Because she’s the worst. And, you know, a Nazi
-
-She mentioned that she enjoys sleeping with Asian women, and having them pose in her handmade thongs (she makes a lot of things). I asked her if she was bisexual. She spat the word back at me, saying absolutely not. Obviously, I’m unclear on what bisexuality is. We didn’t get a lot further on the subject
-
-Calls herself the Priestess of Darkness every once in a while (I nicknamed her the Maid of Darkness after that)
-
-Turns out that she came to Lisbon to visit schools, with the plan to walk into a school and apply. Was disheartened when a German guy told her that wasn’t a great idea, and instead she decided to do nothing for the past 2 months. Yup, makes sense
-
-Doesn’t have a good relationship with her brother or mother. What a surprise!
+-   Excessively used the ‘C’ word
+-   Has a tattoo of a backwards B on the inside of her lip
+    -   She goes by B because it’s the first letter of her middle name
+-   Says the ‘N’ word without any remorse. Or, as it turns out, is just a total racist. See next point
+-   Doesn’t think the Nazis did anything wrong. Her words. Apparently she’s their biggest supporter in 2016
+-   Tried telling me I’m not fully Jewish, because ‘we had to fuck up somewhere down the line’
+-   Was planning on voting for Trump, because she’ll get some extra money from a lawsuit she won a while back (???) and agrees with most of his policies. However, she shares the same horoscope with Bernie, so how could she not vote for him
+-   A year or so ago, she quit her job and spent 3 months taking care of her best friend who was in the hospital. Apparently the doctors couldn’t figure it out, and they thought he had a form of contagious AIDS, and expected her to get sick as well
+    -   At least she cares about her friends?
+-   She routinely gives away or throws away her entire wardrobe because she gets bored of wearing the same clothes
+-   Mentioned that she’d done every drug (especially the hard stuff). When I asked her about what some of them were like, her answers didn’t make much sense. For instance, she mentioned snorting heroin and feeling weird for an hour then wanting to clean. Not that I’ve ever seen a heroin den, but I don’t think of them as particularly tidy environments
+-   She speaks fluent Spanish and Portuguese but doesn’t try speaking them here because she gets too shy. Maybe she’s unsure what fluent means
+-   She’s renting out 3 apartments at the moment. Not apartments that she or her family owns. Paying rent for 3 apartments. She’d left the other two because the landlord was creeping her out, but still paying rent for some reason
+-   Casually mentioned a few times that she was on the cover of some magazine. When I asked about it, she wouldn’t show me or go into details
+-   Throughout the date she got maybe 150 messages. No idea who they were from but they kept popping up. She kept checking her phone. Because she’s the worst. And, you know, a Nazi
+-   She mentioned that she enjoys sleeping with Asian women, and having them pose in her handmade thongs (she makes a lot of things). I asked her if she was bisexual. She spat the word back at me, saying absolutely not. Obviously, I’m unclear on what bisexuality is. We didn’t get a lot further on the subject
+-   Calls herself the Priestess of Darkness every once in a while (I nicknamed her the Maid of Darkness after that)
+-   Turns out that she came to Lisbon to visit schools, with the plan to walk into a school and apply. Was disheartened when a German guy told her that wasn’t a great idea, and instead she decided to do nothing for the past 2 months. Yup, makes sense
+-   Doesn’t have a good relationship with her brother or mother. What a surprise!
 
 I don’t think I’ve ever gone through so many emotions during a first impression. From horrified, to containing my laughter, to thinking “did you really just say that?”, I was amused and bewildered at how this human being could exist.
 
-Throughout the evening, I continued to tell her that she couldn't say these things; that not only were they bigoted but it was a hateful way to go about living life. I don't think I got very far.
+Throughout the evening, I continued to tell her that she couldn’t say these things; that not only were they bigoted but it was a hateful way to go about living life. I don’t think I got very far.
 
 While normally on a date just one of these comments would have me leaving, I knew the absurdity of the conversations we were having would make for a ridiculous story, so I continued to soldier on.
 

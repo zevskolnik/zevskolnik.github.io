@@ -1,8 +1,10 @@
 ---
-layout: post
-title: Powered by Dal Bhat, Saved by Snickers
-date: 2025-11-24
+title: "Powered by Dal Bhat, Saved by Snickers"
+date: 2025-11-24 11:15:45
 categories: [Newsletters]
+image:
+  path: /assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4978-1-rotated.webp
+  alt: "Powered by Dal Bhat, Saved by Snickers"
 ---
 
 There are 25 people squished into this minivan, and for the past two hours I’ve been rubbing knees with a 50 year old Nepali man in a tracksuit.
@@ -15,64 +17,85 @@ Roughly 60% of my last 35 meals have been dal bhat.
 
 My heart is full of gratitude, and despite the chaos and cramped limbs, I’m excited for whatever’s next.
 
+![](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4354.webp){: w="1500" h="2000" }
+
+Dal Bhat, eaten twice daily by 80% of Nepal
+
 I’ve just completed the Manaslu Circuit in Nepal’s Himalayas. Getting to the trailhead involved driving through rock-slide corridors in a bus and waiting three hours while an excavator rebuilt the road in front of us.
 
 Followed by 11 days of walking.
 
 11 days of serene views, serendipitous friendships, extreme altitude sports, and embracing the moniker “banana man”.
 
-Days 1 - 3
+![](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4978.webp){: w="1500" h="2000" }
 
-I meet my group of four walkers + guide + two porters. Gradually ease into the wonderful routine of trekking.
+On Tuesdays we wear yellow
 
-One woman, Lily, has no interest in my overflowing “new adventure energy.” Sprints ahead daily to avoid humans. She’ll come around.
+Days 1 – 3
 
-The other two, a couple, seem shocked they have to hike instead of taking a cable car. The guide walks with them to ensure they remember that right foot follows left. Trekking may not be their passion.
+-   I meet my group of four walkers + guide + two porters. Gradually ease into the wonderful routine of trekking.
+-   One woman, Lily, has no interest in my overflowing “new adventure energy.” Sprints ahead daily to avoid humans. She’ll come around.
+-   The other two, a couple, seem shocked they have to hike instead of taking a cable car. The guide walks with them to ensure they remember that right foot follows left. Trekking may not be their passion.
+-   I walk solo, chatting with strangers on trail about altitude and life.
+-   Carrying my own bag (most hire porters), I roll into each teahouse happily exhausted.
+-   Views improve by the hour.
 
-I walk solo, chatting with strangers on trail about altitude and life.
+Days 4 – 5
 
-Carrying my own bag (most hire porters), I roll into each teahouse happily exhausted.
+-   The slow couple has resigned to turn around. Our guide is giddy with happiness on his newfound freedom.
+-   Lily has now (as planned) pleasantly warmed to me. We are best friends.
+-   I organize a soccer match with Nepalis and foreigners at 3,500m, epic monastery and mountains as the backdrop.
+-   We adopt a 19-year-old Nepali who overpacked by 10kg, forgot a sleeping bag, and ran out of cash. Redeemable mostly through his comedic timing. Without us, he’d currently be living among mountain goats.
 
-Views improve by the hour.
+![](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4451.webp){: w="727" h="1280" }
 
-Days 4 - 5
+Trekkers by day. Futbolistas by afternoon
 
-The slow couple has resigned to turn around. Our guide is giddy with happiness on his newfound freedom.
+Days 6 – 8
 
-Lily has now (as planned) pleasantly warmed to me. We are best friends.
+-   Climb 1,300m to Manaslu Base Camp. Unreal mountain views and incredible weather.
+-   Guide keeps buying me unwanted beers and potatoes at local drinking rooms. Lily tries to keep up but falls asleep early.
+-   Stomach bug hits. Western toilets appear during spiritually meaningful moments. Squat toilets become the enemy.
+-   Toss a frisbee I brought (poor life choice) at 4,800m.
 
-I organize a soccer match with Nepalis and foreigners at 3,500m, epic monastery and mountains as the backdrop.
+Days 9 – 11
 
-We adopt a 19-year-old Nepali who overpacked by 10kg, forgot a sleeping bag, and ran out of cash. Redeemable mostly through his comedic timing. Without us, he'd currently be living among mountain goats.
+-   3am start to cross Larke Pass (5,106m). Altitude hits me hard, but slow and steady wins. Our celebratory beers are frozen. Finally earned the Snickers bar I’ve hoarded for two weeks.
+-   Diwali in mountain villages: high school girls drag me into dancing as their friends point and laugh. Childhood-trauma-adjacent flashbacks.
+-   Friend orders “local” chicken. We meet all members of the supply chain. Gruesome but humbling.
+-   Local kid mafia blocks the road out with rope until paid. Efficient entrepreneurial model.
 
-Days 6 - 8
+![](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4899-1-edited.webp){: w="1500" h="2000" }
 
-Climb 1,300m to Manaslu Base Camp. Unreal mountain views and incredible weather.
-
-Guide keeps buying me unwanted beers and potatoes at local drinking rooms. Lily tries to keep up but falls asleep early.
-
-Stomach bug hits. Western toilets appear during spiritually meaningful moments. Squat toilets become the enemy.
-
-Toss a frisbee I brought (poor life choice) at 4,800m.
-
-Days 9 - 11
-
-3am start to cross Larke Pass (5,106m). Altitude hits me hard, but slow and steady wins. Our celebratory beers are frozen. Finally earned the Snickers bar I’ve hoarded for two weeks.
-
-Diwali in mountain villages: high school girls drag me into dancing as their friends point and laugh. Childhood-trauma-adjacent flashbacks.
-
-Friend orders “local” chicken. We meet all members of the supply chain. Gruesome but humbling.
-
-Local kid mafia blocks the road out with rope until paid. Efficient entrepreneurial model.
+Wouldn’t wake up at 3am for anything less
 
 Day 12
 
-Heartfelt goodbyes. Local bus back to the “real world”.
-
-Dreaming of freshly laundered underwear.
+-   Heartfelt goodbyes. Local bus back to the “real world”.
+-   Dreaming of freshly laundered underwear.
 
 Being in the Himalayas, I couldn’t stop smiling. Being surrounded by so much beauty, the trek was as spiritual as it was physical. The mountains and people have a special place in my heart, and I already want to return.
 
 Who knows, maybe next time I try for a summit (after learning how to use an ice axe of course).
 
 Until we meet again, my dear Himalayas.
+
+<div class="gallery" markdown="1">
+
+![Getting here was hard](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4925.webp){: w="1500" h="2000" }
+
+![High altitude frisbee](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4875.webp){: w="1139" h="2000" }
+
+![Sunrise mountains in Namrung](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4480.webp){: w="1500" h="2000" }
+
+![Child mafia holding up the road](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-5059.webp){: w="1500" h="2000" }
+
+![Base camp baby!!](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/fullsizerender.webp){: w="1500" h="2000" }
+
+![Monastery backdrop during 3500m football match](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4403.webp){: w="1500" h="2000" }
+
+![My good friend Lily and I](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4632.webp){: w="1500" h="2000" }
+
+![Yaks hanging out](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4531.webp){: w="1500" h="2000" }
+
+</div>

@@ -1,8 +1,10 @@
 ---
-layout: post
-title: The Ballad of Moose Ranger and the Blue Boys
-date: 2021-10-07
+title: "The Ballad of Moose Ranger and the Blue Boys"
+date: 2021-10-07 13:24:23
 categories: [Newsletters]
+image:
+  path: /assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/with-the-blue-boys.webp
+  alt: "The Ballad of Moose Ranger and the Blue Boys"
 ---
 
 Hiking 90 kilometres is understandably not high up on most people’s bucket lists. Especially not when the destination is an eight-hour drive to the middle of nowhere, and you have 20 kilograms on your back.
@@ -11,11 +13,15 @@ Where the drinking water is questionable, the grounds mice-infested, and a sunbu
 
 Sold yet?
 
+![](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/with-the-blue-boys.webp){: w="960" h="720" }
+
+The Blue Boys and Myself
+
 I had the pleasure of doing this incredible hike called Carnarvon Gorge, located south of Emerald, Queensland.
 
 Over five days, myself and friends from my ultimate frisbee team, Casey and Corey, carried our food, shelter, and ukuleles across this Queensland Great Walk. To spend so much time in nature was an incredible refresh, with each day offering a unique buffet of scenery.
 
-Being my first major multi-day hike (I’d previously done a relatively easy 3 day and a few overnights), I did my best to prepare.1 That meant dehydrating my own meals, packing and repacking, studying the topographic map, and coming up with a rough plan for each day.
+Being my first major multi-day hike (I’d previously done a relatively easy 3 day and a few overnights), I did my best to prepare.<sup>1</sup> That meant dehydrating my own meals, packing and repacking, studying the topographic map, and coming up with a rough plan for each day.
 
 Our first night we drove six hours, reaching the small township of Injune to set up our tents at the unpleasant hour of 2am.
 
@@ -39,11 +45,21 @@ Surprisingly, a lot less people calling me Jeff on the trail.
 
 One of the biggest highlights of the area is the 4,000 year old aboriginal cave art which depicts the history of the land. A showcase of animals, tools, and interestingly, vulvas, these sacred art sites represent the creation of the gorge and all the flora and fauna within it.
 
-Cave art
+<div class="gallery" markdown="1">
+
+![](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/cave-art-3-min-3.webp){: w="1600" h="1600" }
+
+![](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/cave-art-4-min-1.webp){: w="1600" h="1599" }
+
+</div>
 
 Arriving at our first campsite, Big Bend, it was great to throw around the frisbee and swim with the lonely turtle in the stream.
 
 I also received an excellent tutorial on cooking dehydrated food, using a camping stove for the first time.
+
+![](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/big-bend-1.webp){: w="1500" h="2000" }
+
+Big Bend Campsite
 
 After a good night’s sleep, we still had a lot of walk ahead of us.
 
@@ -61,6 +77,10 @@ With that in mind, we hopped in the car and began our long drive back to Brisban
 
 Unsurprisingly, not the most popular sport in Outback Queensland.
 
+![](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/disc-golf.webp){: w="816" h="612" }
+
+Only ones on the green today
+
 With this hike being such a good time, unfortunately it’s opened up my world, and there are now a ton of walks in Australia I immediately want to go on.
 
 If you’ve been on or are planning any big hikes soon, I’d love to hear about it.
@@ -71,4 +91,26 @@ Hope life’s been great and as always, would be great to hear what’s new.
 
 Zev
 
-1Part of preparation included accidentally giving blood (for my first time) the day before the hike. While giving blood/plasma is an excellent thing to do, would not recommend doing it before a very long walk. First-hand research shows you will probably be a tired fella.
+<sup>1</sup>Part of preparation included accidentally giving blood (for my first time) the day before the hike. While giving blood/plasma is an excellent thing to do, would not recommend doing it before a very long walk. First-hand research shows you will probably be a tired fella.
+
+<div class="gallery" markdown="1">
+
+![Campfire](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/campfire.webp){: w="960" h="720" }
+
+![Bridge](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/bridge.webp){: w="1500" h="2000" }
+
+![Hiking](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/hiking.webp){: w="1500" h="2000" }
+
+![The Gorge](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/the-gorge.webp){: w="1500" h="2000" }
+
+![Dinnertime](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/dinnertime.webp){: w="1600" h="1200" }
+
+![Emus!!!](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/emus.webp){: w="1500" h="2000" }
+
+![Sunrise](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/sunrise.webp){: w="1500" h="2000" }
+
+![Ukes](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/ukes.webp){: w="960" h="720" }
+
+![Blood Donation](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/blood-donation.webp){: w="1160" h="1544" }
+
+</div>

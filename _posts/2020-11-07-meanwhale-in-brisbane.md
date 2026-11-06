@@ -1,8 +1,10 @@
 ---
-layout: post
-title: Meanwhale in Brisbane
-date: 2020-11-07
+title: "Meanwhale in Brisbane"
+date: 2020-11-07 05:30:59
 categories: [Newsletters]
+image:
+  path: /assets/img/posts/meanwhale-in-brisbane/whaleunderwater-1.webp
+  alt: "Meanwhale in Brisbane"
 ---
 
 After a three month debacle of gradually replacing 3 housemates (new housemate interviews are the worst), we have a wonderful new family in Brisbane. I’m happy, they’re happy, and no one ever has to move house again.
@@ -22,6 +24,10 @@ After learning about this opportunity and the knowledge that it was currently wh
 After driving up the coast, we hopped on a boat with 10 other whale enthusiasts and got to looking for some whale blows. After an hour and a half of searching, we had spotted a dolphin, some kelp, and the ever-elusive glare that tricks you into thinking you see something. However, just before giving up hope the skipper called out from the deck.
 
 Two whales, straight ahead!
+
+![](/assets/img/posts/meanwhale-in-brisbane/whaleunderwater-1.webp){: w="900" h="900" }
+
+The depths below
 
 Quick as we could, we flapped on our flippers and struck on our snorkels, and once given the go ahead, plopped ourselves into the ocean.
 
@@ -46,3 +52,11 @@ But in the meantime…who knows what adventures might be right by your doorstep?
 As always, I’d love to hear from you! How are things in your city? Can’t wait to chat next.
 
 Zev
+
+<div class="gallery" markdown="1">
+
+![](/assets/img/posts/meanwhale-in-brisbane/zevandkat-1.webp){: w="1200" h="1200" }
+
+![](/assets/img/posts/meanwhale-in-brisbane/dolphinfriend-1.webp){: w="1200" h="1200" }
+
+</div>

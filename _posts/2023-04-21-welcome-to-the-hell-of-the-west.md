@@ -1,8 +1,10 @@
 ---
-layout: post
-title: Welcome to the Hell of the West
-date: 2023-04-21
+title: "Welcome to the Hell of the West"
+date: 2023-04-21 08:59:21
 categories: [Newsletters]
+image:
+  path: /assets/img/posts/welcome-to-the-hell-of-the-west/goondipic4-1.webp
+  alt: "Welcome to the Hell of the West"
 ---
 
 I’m nervous.
@@ -19,11 +21,9 @@ It’s 5am, and it’s going to reach a high of 35 degrees today.
 
 There’s 6 hours of cardio in front of me.
 
-Welcome to the Hell of the West.  
+Welcome to the Hell of the West.
 
- 
-
-Anyone who’s spoken to me in 2023 has heard me share ad nauseum that I’d been training 5-6 days a week in preparation for a half iron man race* at the end of March.
+Anyone who’s spoken to me in 2023 has heard me share ad nauseum that I’d been training 5-6 days a week in preparation for a half iron man race\* at the end of March.
 
 With a 2km swim, 80km bike and 20km run, this would be the most difficult event I’ve ever participated in.
 
@@ -37,15 +37,23 @@ Am I excited?
 
 Absolutely.
 
+![](/assets/img/posts/welcome-to-the-hell-of-the-west/goondipic1-1.webp){: w="920" h="676" }
+
+Much too chirpy pre 6am
+
 After persuading a group of 6 friends to sign up with me, my life became training. Every day except Friday, I’d be riding up Brisbane’s local Mount Cootha, running up and down the steepest streets I could find, or at minimum playing an hour of ultimate frisbee.
 
 Getting intimate with protein shakes and energy gels, I did my best to make 6am cardio sound like a fun date for my girlfriend (semi-successfully!).
 
 Over 12 weeks, I rarely missed a session, although did give myself a few days to check out Heron Island with my parents, and maybe took off a sick day or two.
 
+![](/assets/img/posts/welcome-to-the-hell-of-the-west/goondipic2.webp){: w="749" h="621" }
+
+My training plan
+
 I sweat enough to fill a well, and eat enough to worry an Italian grandmother.
 
-Eventually, it’s race week, and after being barely cleared by my physio, I taper off my workouts and rest up for the big day.
+Eventually, it’s race week, and after being _barely_ cleared by my physio, I taper off my workouts and rest up for the big day.
 
 Alongside friends Cheryl and Tim, we load up the bike rack, hop in my car, and drive off to Goondiwindi, ready for whatever happens come race day.
 
@@ -101,8 +109,14 @@ Would I do it again? Probably not.
 
 At least, not until next year 😉
 
-*A half iron man is usually 1.9km swim 90km bike 21km run, but HOTW for some reason is mildly different
+\*A half iron man is usually 1.9km swim 90km bike 21km run, but HOTW for some reason is mildly different
 
 ^I know the video says 6:01, but that was since the gun went off for the pro athletes. I started a few minutes later
 
-Video of my finish: https://vimeo.com/819770712?share=copy
+Video of my finish: [https://vimeo.com/819770712?share=copy](https://vimeo.com/819770712?share=copy)
+
+![](/assets/img/posts/welcome-to-the-hell-of-the-west/goondipic5.webp){: w="750" h="851" }
+
+![](/assets/img/posts/welcome-to-the-hell-of-the-west/goondipic3.webp){: w="1024" h="768" }
+
+![](/assets/img/posts/welcome-to-the-hell-of-the-west/goondipic4.webp){: w="748" h="849" }

@@ -1,17 +1,21 @@
 ---
-layout: post
-title: The Witch Doctors of Siquijor
-date: 2025-03-26
+title: "The Witch Doctors of Siquijor"
+date: 2025-03-26 08:08:54
 categories: [Newsletters]
+image:
+  path: /assets/img/posts/the-witch-doctors-of-siquijor/2-1.webp
+  alt: "The Witch Doctors of Siquijor"
 ---
 
-For 20 years I've wanted to travel to the Philippines.
+For 20 years I’ve wanted to travel to the Philippines.
 
 I’d heard of the thousands of islands to explore, the white sand beaches, the incredible hospitality of its people. I loved that few of my friends had been there.
 
 Having grown up with many Filipino friends, it had been on my bucket list for years to see where their warmth and generosity came from.
 
 So with a remote job in hand, I jumped on a plane to explore the Pearl of the Orient.
+
+![](/assets/img/posts/the-witch-doctors-of-siquijor/image.webp){: w="1200" h="1200" }
 
 After an excessive number of planes (4!), I’d landed at my destination – Siargao island.
 
@@ -21,6 +25,10 @@ Even after a rough start on the island (my bags got lost, someone hit my car bac
 
 I jumped on the back of a scooter with a guy I had just met, and we went to the Sunset Bridge to find some balut – fertilized developing duck embryo.
 
+![](/assets/img/posts/the-witch-doctors-of-siquijor/image-2.webp){: w="1500" h="2000" }
+
+Well known cure for hard times
+
 Spending my days working in the sunshine, surfing whenever possible, and eating surprisingly amazing food (so much barbecue!), I spent two weeks having an incredible time on Siargao.
 
 I’d made a little family of friends who did everything together, from planning home cooked dinners to exploring every corner of the island.
@@ -28,6 +36,14 @@ I’d made a little family of friends who did everything together, from planning
 It will never cease to amaze me how sharing a few laughs and a dance can turn people you didn’t know into best friends. You look up, and all of a sudden you’re having a toothbrushing party during a monsoon, hundreds of kilometres and innumerable stories from where you were the night before.
 
 A stranger truly is a friend you haven’t met yet.
+
+<div class="gallery" markdown="1">
+
+![](/assets/img/posts/the-witch-doctors-of-siquijor/1-6.webp){: w="1500" h="2000" }
+
+![](/assets/img/posts/the-witch-doctors-of-siquijor/2.webp){: w="1500" h="2000" }
+
+</div>
 
 After a few weeks in Siargao, I’d decided it was time to see some other parts of the Philippines. I’d heard of the mystical island Siquijor, where iridescent blue waterfalls flow and witch doctors practice their ancient magic. Apparently many Filipinos won’t go there as they’re nervous about the shamanistic practices on the island.
 
@@ -49,6 +65,10 @@ Taking pause, I considered whether this was a bad idea or not. A. I might be get
 
 But hey. Sometimes, you need to live a little!
 
+![](/assets/img/posts/the-witch-doctors-of-siquijor/image-4.webp){: w="1600" h="1600" }
+
+Jungle rules out here friends
+
 Safely arriving at the house, I was welcomed in by a woman who spoke English and met her dad, the healer of the village. An ancient man clad in fake Louis Vitton, excitedly showing me his ‘certificates of appreciation’ from the tourism board. Not what I expected, but pretty fun nevertheless.
 
 I was then placed on a bench, robed in a musty blanket, and a small cauldron was lit on fire underneath my seat. The spiritual cleansing had begun.
@@ -57,11 +77,15 @@ The next few minutes involved ancient words mumbled behind me, and my shirt coll
 
 The energy in the room was fascinating. When I closed my eyes, there was a trance-like something that made me feel a need to sit up straight and lean back.
 
-A bit out of my element, but that's what we're here for.
+A bit out of my element, but that’s what we’re here for.
 
 After the experience, the blanket was shook out, and the daughter excitedly told me there were no ants and no flies on it, meaning all the bad spirits had been cleansed. Excellent!
 
 I walked away from the house with my shoulders covered in geriatric spittle, and as spiritually free of flies as one can be.
+
+![](/assets/img/posts/the-witch-doctors-of-siquijor/image-5.webp){: w="900" h="900" }
+
+Spirits won’t talk to you unless you’re clad in LV and Gucci
 
 Healer #2 – Bolo-Bolo
 
@@ -81,13 +105,31 @@ You know, just like traditional medicine.
 
 Luckily (?) I only had a single black dot/bad spirit in my bowl. It continued to show up for another two cleansings, and then was finally purged. Apparently some people’s bowls come out completely black, while others are good to go after one round.
 
+![](/assets/img/posts/the-witch-doctors-of-siquijor/image-7.webp){: w="1500" h="2000" }
+
+One way to spend a vacation
+
 This felt about as traditional as it could get. I happily left my donation for the procedure, and went about my day sans evil spirits.
 
 With so many islands to explore, it’s nearly impossible to see all of the Philippines in one trip. One month was enough time to just experience some beautiful culture and meet some amazing people, but you could easily spend years trekking through all its landscapes.
 
-This incredible bucket list destination gave me unforgettable memories - but more importantly, it renewed my sense of adventure, introduced me to a new family, and left me with a deep appreciation for having a 55-year-old man’s belly in my face while he cleansed my spirit.
+This incredible bucket list destination gave me unforgettable memories – but more importantly, it renewed my sense of adventure, introduced me to a new family, and left me with a deep appreciation for having a 55-year-old man’s belly in my face while he cleansed my spirit.
 
 I’ll be back.
 
-https://youtube.com/shorts/JkJ1KiZgZqw?feature=share
+[https://youtube.com/shorts/JkJ1KiZgZqw?feature=share](https://youtube.com/shorts/JkJ1KiZgZqw?feature=share)
 Video of the full bolo-bolo experience
+
+<div class="gallery" markdown="1">
+
+![](/assets/img/posts/the-witch-doctors-of-siquijor/3.webp){: w="1200" h="900" }
+
+![](/assets/img/posts/the-witch-doctors-of-siquijor/7.webp){: w="900" h="1200" }
+
+![](/assets/img/posts/the-witch-doctors-of-siquijor/6.webp){: w="1132" h="1509" }
+
+![](/assets/img/posts/the-witch-doctors-of-siquijor/5.webp){: w="586" h="780" }
+
+![](/assets/img/posts/the-witch-doctors-of-siquijor/4.webp){: w="1500" h="2000" }
+
+</div>

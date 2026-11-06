@@ -1,8 +1,10 @@
 ---
-layout: post
-title: Life’s Better On Fiji Time
-date: 2022-05-03
+title: "Life’s Better On Fiji Time"
+date: 2022-05-03 05:05:45
 categories: [Newsletters]
+image:
+  path: /assets/img/posts/lifes-better-on-fiji-time/bula-boy-cropped-1.webp
+  alt: "Life’s Better On Fiji Time"
 ---
 
 Re-joining my life in Brisbane, I can’t help but wonder how many people I pass by everyday. On a standard metropolitan lunch break, it must be at least 500? 1000 humans?
@@ -13,7 +15,11 @@ In Fiji, life is a little bit different.
 
 Whether it’s from construction workers digging a hole, a roadside barbecue stand, or schoolchildren on their way home, you can’t escape the friendly call of this nation.
 
-“Bula!”*
+“Bula!”\*
+
+![](/assets/img/posts/lifes-better-on-fiji-time/bula-boy.webp){: w="1500" h="2000" }
+
+Blending in with the locals
 
 With annual leave burning a hole in my corporate pocket, I spent 12 days over Easter exploring the islands. A country that is run on “Fiji time”, I was told in multiple instances to slow down and relax my pace, no need to rush. As a fast walker and chronic ‘do-er’, this took some adjustment.
 
@@ -29,17 +35,17 @@ Staying in a small village up the valley from the town of Sigatoka, I stayed wit
 
 Sitting on the porch, Assy and me would watch as village people passed by and went about their errands. Assy would whisper in my ear words from her dialect, giggling all the while. I’d shout out the phrases, having no idea what they meant, loving the look of confusion at where this white guy found a Fijian dictionary.
 
-“Tai Cielo, hotche llame!”1
+“Tai Cielo, hotche llame!”<sup>1</sup>
 
-“Bowl-eh bowl-eh a ico!”2
+“Bowl-eh bowl-eh a ico!”<sup>2</sup>
 
 I learned afterwards some of what was happening.
 
-To the grandma next door (Tai Cielo), I called her a young fox, and told her to wake up and come over for some tea.1
+To the grandma next door (Tai Cielo), I called her a young fox, and told her to wake up and come over for some tea.<sup>1</sup>
 
 A woman walking by, I apparently asked why she was still single, and that I could help with that problem. Got a good grin from both her and some kids up the road.
 
-A large man chopping wood across the village was understandably confused as to why I “challenged him”. 2 Thankfully he didn’t ask me to follow through with the challenge…whatever that means.
+A large man chopping wood across the village was understandably confused as to why I “challenged him”. <sup> 2</sup> Thankfully he didn’t ask me to follow through with the challenge…whatever that means.
 
 Impressed with my pronunciation, this hollering about town provided hours of entertainment.
 
@@ -51,9 +57,13 @@ As a visitor, it’s customary to bring kava root, called waka, to be given to t
 
 Afterwards, the waka gets pounded to a white powder and the nightly kava ritual begins. As a guest of honour, I was usually first to drink and quickly was taught the customs on how to accept the mud-water looking beverage.
 
+![](/assets/img/posts/lifes-better-on-fiji-time/waka-1.webp){: w="750" h="973" }
+
+Pounding the waka
+
 Presented with the coconut bowl, you open-palm clap once, proclaim “Bula!”, and drink up in one go. Subsequently, you hand back the bowl, and open-palm clap thrice. When other people have clapped once, you can also clap to acknowledge them.
 
-Usually tourists are given an option regarding how heavy a pour they get, either high-tide (“va levu”) or low-tide ("va hewa”).
+Usually tourists are given an option regarding how heavy a pour they get, either high-tide (“va levu”) or low-tide (“va hewa”).
 
 Unfortunately the villagers took a liking to me and I seemed to have consistent high-tide in my bowl, despite my request for va hewa.
 
@@ -67,14 +77,30 @@ Being Jewish aside, I’m not much of a church guy, but I did have a great time 
 
 A first for me that I found absolutely hilarious.
 
-Post village living, I completed my Advanced Open Water course (scuba), which included the opportunity to dive with bull sharks. Sadly no footage from me, but here’s someone else’s video of the dive spot if you’re interested: https://www.youtube.com/watch?v=sba44OxBgfc&amp;t=130s
+Post village living, I completed my Advanced Open Water course (scuba), which included the opportunity to dive with bull sharks. Sadly no footage from me, but here’s someone else’s video of the dive spot if you’re interested: [https://www.youtube.com/watch?v=sba44OxBgfc&t=130s](https://www.youtube.com/watch?v=sba44OxBgfc&t=130s)
 
 Lastly, I got to spend my birthday visiting a friend I’d made in a Brisbane salsa class a few weeks prior. She was amazed that I was travelling to her country, so of course I had to visit her in Lautoka, where we grabbed a bite, a couple drinks, and walked around the city.
 
 Amazing how small of a world it can be sometimes.
 
-Fiji was an incredible country to visit, filled with unrivalled hospitality, undeniably delicious food, and beautiful surprises around every corner. Visiting only 3 of the 300+ islands, I hope I get the chance to go back one day, and again wake up Tai Cielo for some tea.  
+Fiji was an incredible country to visit, filled with unrivalled hospitality, undeniably delicious food, and beautiful surprises around every corner. Visiting only 3 of the 300+ islands, I hope I get the chance to go back one day, and again wake up Tai Cielo for some tea.
 
-PS. I'll be visiting Toronto mid June. If you're around, would love to catch up in person for the first time in 3 years!
+PS. I’ll be visiting Toronto mid June. If you’re around, would love to catch up in person for the first time in 3 years!
 
-*Bula means hello and literally everyone says it. All day, every day.
+\*Bula means hello and literally everyone says it. All day, every day.
+
+<div class="gallery" markdown="1">
+
+![Standard Fijian meal. Way too much food!](/assets/img/posts/lifes-better-on-fiji-time/standard-fijian-meal-way-too-much-food.webp){: w="1331" h="998" }
+
+![Hanging out with the Fijian children](/assets/img/posts/lifes-better-on-fiji-time/hanging-out-with-the-fijian-children.webp){: w="812" h="1081" }
+
+![Fijian birthday party](/assets/img/posts/lifes-better-on-fiji-time/fijian-birthday-party.webp){: w="756" h="1008" }
+
+![5 star lamb shank](/assets/img/posts/lifes-better-on-fiji-time/5-star-lamb-shank.webp){: w="768" h="1024" }
+
+![Triton&amp;#8217;s Trumpet](/assets/img/posts/lifes-better-on-fiji-time/tritons-trumpet.webp){: w="756" h="1008" }
+
+![Enjoying the Fijian view](/assets/img/posts/lifes-better-on-fiji-time/enjoying-the-fijian-view.webp){: w="756" h="1008" }
+
+</div>

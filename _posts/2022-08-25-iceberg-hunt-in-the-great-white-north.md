@@ -1,8 +1,10 @@
 ---
-layout: post
-title: Iceberg Hunt in the Great White North
-date: 2022-08-25
+title: "Iceberg Hunt in the Great White North"
+date: 2022-08-25 02:48:19
 categories: [Newsletters]
+image:
+  path: /assets/img/posts/iceberg-hunt-in-the-great-white-north/icebergwithmom-2.webp
+  alt: "Iceberg Hunt in the Great White North"
 ---
 
 It was a surprisingly sunny, brisk day, and we were stopped at a gas station to fill up the tank. My dad was inside paying, leaving me to my lazy vacation daydreams, when an impeccably dressed gentleman stepped in front of the car and waved for my attention.
@@ -29,13 +31,25 @@ He requested a photo, gave me a blessing, and we parted ways.
 
 Only in Newfoundland.
 
-Newfoundland &amp; Labrador is a province lying off the east coast of Canada, known to Canucks as ‘The Rock’. If you’re unfamiliar with Canadian geography, you likely haven’t heard of Newfoundland, unless of course you’ve seen the (phenomenal) musical Come From Away.
+![](/assets/img/posts/iceberg-hunt-in-the-great-white-north/with-the-salvos-major.webp){: w="1500" h="2000" }
 
-The Rock isn’t the most exciting of places. Lots of grey skies, and deep forests, it’s known mostly for being cold, and filled with herds of both moose and friendly Canucks who will inevitably get you to drink their homemade rum, AKA Screech. If you drink enough Screech, there's a high likelihood you'll be 'Screeched in', and end up locking lips with a codfish and dancing a jig with an ugly stick. 
+I am the very model of a modern major-general
 
-It's basically Canadian Disneyland.
+Newfoundland & Labrador is a province lying off the east coast of Canada, known to Canucks as ‘The Rock’. If you’re unfamiliar with Canadian geography, you likely haven’t heard of Newfoundland, unless of course you’ve seen the (phenomenal) musical Come From Away.
 
-My parents and I were visiting the province to explore Quirpon Island. A desolate rock off the northernmost part of Newfoundland, it's a place rich in icebergs, humpback whales, and endless horizons.
+The Rock isn’t the most exciting of places. Lots of grey skies, and deep forests, it’s known mostly for being cold, and filled with herds of both moose and friendly Canucks who will inevitably get you to drink their homemade rum, AKA Screech. If you drink enough Screech, there’s a high likelihood you’ll be ‘Screeched in’, and end up locking lips with a codfish and dancing a jig with an ugly stick.
+
+It’s basically Canadian Disneyland.
+
+My parents and I were visiting the province to explore Quirpon Island. A desolate rock off the northernmost part of Newfoundland, it’s a place rich in icebergs, humpback whales, and endless horizons.
+
+<div class="gallery" markdown="1">
+
+![An idyllic lack of everything in Quirpon](/assets/img/posts/iceberg-hunt-in-the-great-white-north/genericquirpon.webp){: w="1500" h="2000" }
+
+![Yes, the ice was licked. It was cold](/assets/img/posts/iceberg-hunt-in-the-great-white-north/icebergwithmom-1.webp){: w="1280" h="960" }
+
+</div>
 
 I went on a few hikes, made friends with a playful fox and, of course, embraced the cold with a polar dip. Swimming amongst the icebergs and seals, you couldn’t wish for a more tranquil location to nearly get hypothermia.
 
@@ -66,3 +80,25 @@ Happy travels, and thank you so much for reading.
 Zev
 
 PS. If anyone is in Newfoundland or Nova Scotia sometime soon, I very sadly didn’t get the chance to try the iceberg beer very popular there. If you find one and hold onto it until I’m back in town, I will be forever in your debt!
+
+<div class="gallery" markdown="1">
+
+![wellmaintainedhike](/assets/img/posts/iceberg-hunt-in-the-great-white-north/wellmaintainedhike.webp){: w="1500" h="2000" }
+
+![humpbacks](/assets/img/posts/iceberg-hunt-in-the-great-white-north/humpbacks.webp){: w="1600" h="1200" }
+
+![slowdeathoficeberg](/assets/img/posts/iceberg-hunt-in-the-great-white-north/slowdeathoficeberg.webp){: w="1600" h="1200" }
+
+![gettinginajam](/assets/img/posts/iceberg-hunt-in-the-great-white-north/gettinginajam.webp){: w="1600" h="1200" }
+
+![flyfishing](/assets/img/posts/iceberg-hunt-in-the-great-white-north/flyfishing.webp){: w="1500" h="2000" }
+
+![friendlyfox](/assets/img/posts/iceberg-hunt-in-the-great-white-north/friendlyfox.webp){: w="1500" h="2000" }
+
+![exchangebuddies](/assets/img/posts/iceberg-hunt-in-the-great-white-north/exchangebuddies.webp){: w="1600" h="1200" }
+
+![homenote](/assets/img/posts/iceberg-hunt-in-the-great-white-north/homenote.webp){: w="1500" h="2000" }
+
+</div>
+
+[](https://nonotjeff.com/wp-admin/post.php?post=991&action=edit#)
