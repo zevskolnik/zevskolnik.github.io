@@ -23,7 +23,7 @@ description: "Stories from my travels around the world" # used by seo meta and t
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://zevskolnik.github.io" # switch to https://nonotjeff.com when the domain moves
+url: "https://nonotjeff.com"
 
 github:
   username: zevskolnik # change to your GitHub username
