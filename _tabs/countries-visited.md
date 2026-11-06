@@ -9,7 +9,7 @@ order: 4
 <script src="https://cdn.jsdelivr.net/npm/jsvectormap@1.6.0/dist/jsvectormap.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/jsvectormap@1.6.0/dist/maps/world.js"></script>
 <script>
-  // Add a country by adding its two-letter code to this list
+  /* Add a country by adding its two-letter code to this list */
   const visited = ["NZ","MX","LK","SG","EC","NI","JM","BZ","PA","CR","CU","MA","AT","NL","CZ","IE","PT","IT","BA","HR","DE","ES","FR","BE","HU","AU","CA","US"];
   new jsVectorMap({
     selector: '#visited-map',
