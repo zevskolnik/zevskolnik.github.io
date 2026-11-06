@@ -101,4 +101,3 @@ Canada’s an amazing place to explore and I hope to be back again soon to see m
 
 </div>
 
-[](https://nonotjeff.com/wp-admin/post.php?post=1073&action=edit#)

@@ -55,5 +55,3 @@ Zev
 
 </div>
 
-[
-](https://nonotjeff.com/wp-admin/edit.php?post_type=envira#)

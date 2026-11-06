@@ -31,5 +31,3 @@ Love,
 
 Zev
 
-[
-](https://nonotjeff.com/wp-admin/post.php?post=549&action=edit#)

@@ -19,7 +19,7 @@ As a heads up, you’ll be taking the metro a whole bunch and also walking a ton
 
 I was personally with a company called UHub, which has a residence that’s mostly students from all over Lisbon. However, there were also some randoms (I had two 40 year old Brazilians living across from me), but everyone meshed really well. Beautiful new residence (built 2015) at the Picoas subway stop. I think I paid 425€ a month. All single rooms, kitchen is shared with 8 people with a huge kitchen / terrace upstairs.
 
-Another great company is Livin’ Lisbon ([http://www.livinlisbon.com/marques/](http://www.livinlisbon.com/marques/)), who I hear great things about, but they were sold out by the time I tried booking. Little bit cheaper, bit better on location, not necessarily as nice.
+Another great company is Livin’ Lisbon (http://www.livinlisbon.com/marques/), who I hear great things about, but they were sold out by the time I tried booking. Little bit cheaper, bit better on location, not necessarily as nice.
 
 ### **School**
 

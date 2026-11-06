@@ -7,7 +7,7 @@ image:
   alt: "Lisbon – Food and Activity Guide"
 ---
 
-Spending nearly 8 months in the fantastic, tiny country that is Portugal, I had the chance to do a ton of activities. Even better, is that I get to share them with you! Whether you’re there for a week or a month, staying in a hostel or a hotel, this is the guide (**in tandem with the [Semester Abroad (and General) Guide to Lisbon](https://nonotjeff.com/wp-admin/post.php?post=324&action=edit)**) for anyone wondering what to do during their time in Lisbon.
+Spending nearly 8 months in the fantastic, tiny country that is Portugal, I had the chance to do a ton of activities. Even better, is that I get to share them with you! Whether you’re there for a week or a month, staying in a hostel or a hotel, this is the guide (**in tandem with the [Semester Abroad (and General) Guide to Lisbon](/a-semester-abroad-and-general-guide-to-lisbon/)**) for anyone wondering what to do during their time in Lisbon.
 
 ### **Living**
 
@@ -24,7 +24,7 @@ You may or may not get the chance to do this stuff – I’d recommend just goin
 
 Surfing
 
--   If you’ve never gone before, Portugal is one of the best places in the world to surf. I’d recommend taking a train down to Carcavelos or Cascais (it’s not too far) and hopping over to the beach. Some days it’s packed with amazing waves, other days it’s better for beginner learning. Can always check online, or call up one of the companies ([Angel’s Surf School](http://www.angelsurfschool.com/en/))
+-   If you’ve never gone before, Portugal is one of the best places in the world to surf. I’d recommend taking a train down to Carcavelos or Cascais (it’s not too far) and hopping over to the beach. Some days it’s packed with amazing waves, other days it’s better for beginner learning. Can always check online, or call up one of the companies ([Angel’s Surf School](https://www.angelsurfschool.com/en/))
 
 Castle
 

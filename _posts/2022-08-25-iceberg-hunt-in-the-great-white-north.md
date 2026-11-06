@@ -101,4 +101,3 @@ PS. If anyone is in Newfoundland or Nova Scotia sometime soon, I very sadly didn
 
 </div>
 
-[](https://nonotjeff.com/wp-admin/post.php?post=991&action=edit#)
