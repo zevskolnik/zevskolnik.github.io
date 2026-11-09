@@ -35,3 +35,52 @@
     margin: 0 !important;
   }
 }
+
+/* Newsletter signup (posts to Mailchimp) */
+.subscribe-form {
+  margin: 1.5rem 0 2rem;
+  padding: 1.25rem;
+  border: 1px solid var(--main-border-color, rgba(0, 0, 0, 0.1));
+  border-radius: 10px;
+
+  .subscribe-fields {
+    display: grid;
+    grid-template-columns: 1fr 1.4fr;
+    gap: 0.75rem;
+    margin-bottom: 0.9rem;
+
+    @media (max-width: 576px) {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  label {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    margin: 0;
+    font-size: 0.9rem;
+  }
+
+  input {
+    padding: 0.55rem 0.7rem;
+    border: 1px solid var(--main-border-color, rgba(0, 0, 0, 0.15));
+    border-radius: 6px;
+    background: var(--main-bg, #fff);
+    color: inherit;
+  }
+
+  button {
+    padding: 0.55rem 1.4rem;
+    border: 0;
+    border-radius: 6px;
+    background: #2a9d8f;
+    color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+
+    &:hover {
+      filter: brightness(0.92);
+    }
+  }
+}

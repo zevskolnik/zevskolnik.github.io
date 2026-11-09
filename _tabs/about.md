@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 5
+order: 6
 ---
 
 I’m Zev. But some of you might know me as Jeff.
@@ -51,3 +51,11 @@ I’m looking to share some of my travel stories, guides and adventures with the
 Hopefully some of what I write helps other people with their travels.
 
 So, welcome and happy reading! Especially if you’re also not Jeff.
+
+## Stay in touch
+
+Want the next story in your inbox?
+
+{% include subscribe-form.html %}
+
+Or say hi at [hello@nonotjeff.com](mailto:hello@nonotjeff.com).
