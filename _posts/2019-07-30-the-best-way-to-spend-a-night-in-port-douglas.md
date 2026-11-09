@@ -18,8 +18,7 @@ Lots to see and do, and so little time!
 My first night in Cairns can be summed up in two words: jelly wrestling. While I thought I had seen it all during my time at Western University, apparently Gilligan’s Hostel takes it up to a whole other level. Reminiscent of the movie Old School, the club/hostel has crazy party themed activities each night. While it’s not something I’d like to see my hypothetical daughter involved in, watching people wrestle in an inflatable pool full of jelly was a new one for the books, and fun for all involved.
 
 ![](/assets/img/posts/the-best-way-to-spend-a-night-in-port-douglas/img-7466.webp){: width="1500" height="2000" loading="lazy" }
-
-As sanitary as it gets.
+_As sanitary as it gets._
 
 While the hostel was thankfully cheap, the club atmosphere isn’t much my scene. I happily hopped on the shuttle the morning after to get myself to Port Douglas, famous for access to the Great Barrier Reef and Daintree Rainforest – two incredible UNESCO world heritage sites.
 
@@ -76,8 +75,7 @@ As the box is lifted, each racer is given a party blower to make noise and encou
 Incredible.
 
 ![](/assets/img/posts/the-best-way-to-spend-a-night-in-port-douglas/img-7483.webp){: width="1500" height="2000" loading="lazy" }
-
-Absolute mayhem.
+_Absolute mayhem._
 
 Finally, one by one the toads end up in the bucket, with first and second place being given a prize. There’s a 6 year old who excitedly holds up the bottle of wine he won, and runs to his dad to ask if he can drink it.
 

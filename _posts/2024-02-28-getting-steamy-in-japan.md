@@ -28,8 +28,7 @@ Ahhh…serenity.
 \*if you have tattoos there are many onsens which won’t allow you entrance unless you can cover them up with a patch
 
 ![](/assets/img/posts/getting-steamy-in-japan/making-friends-in-zen.webp){: width="1497" height="1857" loading="lazy" }
-
-Making friends in Zen
+_Making friends in Zen_
 
 Other than fawning over the opportunity to not wear pants in semi-public, Japan was great.
 
@@ -48,8 +47,7 @@ Speaking of uniqueness, the snow! Japan gets snowfall dumps like no other, and i
 Myself and 8 friends were based in Niseko, 2 hours out from Sapporo. Exploring the 4 areas of Niseko and doing a day trip to Rutsusu (my favourite day of snowboarding ever), I spent the week doing 95% off-piste runs, carving through trees and hiking through snowy backcountry.
 
 ![](/assets/img/posts/getting-steamy-in-japan/rowan-in-powder.webp){: width="1500" height="2000" loading="lazy" }
-
-My friend Rowan after snowboarding into a hole
+_My friend Rowan after snowboarding into a hole_
 
 The most picturesque run we did involved 3 chairlifts to get to the top, the last being my favourite; the rickety single Pizza Box Chair.
 

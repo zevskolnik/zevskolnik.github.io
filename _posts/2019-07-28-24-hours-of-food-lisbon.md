@@ -36,8 +36,7 @@ For the 8 months I spent in Portugal, this small shop was my happy place.
 Note: when you visit Lisbon, some people will say that you HAVE to try the Pasteis de Belem (below). I never found them to be as good, but to each their own!
 
 ![](/assets/img/posts/24-hours-of-food-lisbon/img-2432.webp){: width="1600" height="1200" loading="lazy" }
-
-Still delicious. But why settle when you deserve the best?
+_Still delicious. But why settle when you deserve the best?_
 
 ### **Lunch** – O Eurico
 
@@ -66,8 +65,7 @@ This steakhouse is a little non-traditional, in the sense that you’re the gril
 Much like a Korean BBQ restaurant, you’re in charge of the grilling and ensuring that the steak comes out to your liking. If you need some help to get that perfect level of cooking, I’d say call a friend as the waiter are extremely busy heating up stones and cleaning tables in this packed restaurant. I’m also not sure if the word for “medium rare” translates very well.
 
 ![](/assets/img/posts/24-hours-of-food-lisbon/img-4227-1.webp){: width="1500" height="2000" loading="lazy" }
-
-Give me a grill and I’m ok. A hot stone, and I only hope we don’t get salmonella
+_Give me a grill and I’m ok. A hot stone, and I only hope we don’t get salmonella_
 
 Served with two sauces and a bowl of salt, this place is perfect for a sit down experience. Come with some friends, get some house wine, fries and salad, and you’ll be sure to leave happy.
 
@@ -84,8 +82,7 @@ I’ve had a lot of chicken. This place is top.
 Just a small kitchen, this place has no room for seating and serves you a meal in a bucket, filled to the brim with a combination of chicken, ribs and sausage. All slathered in their perfectly spicy and oily BBQ sauce. If I were a vegetarian and looking to convert for one meal, this would be a great place to do it.
 
 ![](/assets/img/posts/24-hours-of-food-lisbon/img-4202.webp){: width="1600" height="1200" loading="lazy" }
-
-I know it doesn’t look like much. But I need you to trust me
+_I know it doesn’t look like much. But I need you to trust me_
 
 Unfortunately there’s nowhere to sit, so when my friend Steve Flaherty and I went our first time, we ate on the steps of a nearby church. Make sure to grab extra napkins, as this is a dirty meal.
 
@@ -102,8 +99,7 @@ There’s something for everyone here, especially if you’re interested in 1 eu
 If you’re interested in some culture, Fado (traditional Portuguese music), can be found nightly at the Tasca do Chico in Bairro Alto. This tiny bar gets extremely busy, so you might want to make a reservation. However, this place is a can’t miss, as the singers and guitar players don’t get much better. Perfect for a date night – especially if you try the flaming sausage on the menu!
 
 ![](/assets/img/posts/24-hours-of-food-lisbon/img-2796-3.webp){: width="1600" height="1600" loading="lazy" }
-
-One flaming serving of spicy romance
+_One flaming serving of spicy romance_
 
 Note that you might have to stand for the first bit of the performance at Tasca do Chico, but if you’re quick you can snag a table as someone gets up to leave between a set. Don’t come here with a large group, and make sure to listen during the performance – otherwise you’ll get shushed!
 
@@ -120,5 +116,4 @@ Bifanas do Afonso sells great bifanas, a Portuguese staple. A bifana is a small 
 Ramiro has the biggest shrimp I’ve ever seen in my life (below). On the expensive side of things, but it’s THE spot in town for seafood. Amazing crab, fish and anything else that lives in the ocean.
 
 ![](/assets/img/posts/24-hours-of-food-lisbon/img-2564.webp){: width="1500" height="2000" loading="lazy" }
-
-Might as well be called a lobster at this point
+_Might as well be called a lobster at this point_

@@ -32,8 +32,7 @@ Thinking along similar lines, the road trip crew came up with a Plan C (Plan B, 
 Long on my Aussie bucket list, my four friends and I grabbed a few bikes and hopped on the tram, seeking refuge from the city life.
 
 ![](/assets/img/posts/zev-and-the-art-of-bicycle-maintenance/img-7906.webp){: width="604" height="666" loading="lazy" }
-
-Ready to ride
+_Ready to ride_
 
 After getting up to the start of the track, the next few days, while wet, were ones of bliss. It’s you, your bike, and the road. No cars, no worries.
 
@@ -54,8 +53,7 @@ Cruising through town after town, earning those toasties, we made it 90kms. More
 The beautiful scenery between the endless paddocks and happy birdlife was an awesome view, accompanied only by the crunch of our tires on gravel.
 
 ![](/assets/img/posts/zev-and-the-art-of-bicycle-maintenance/img-7911.webp){: width="750" height="526" loading="lazy" }
-
-The occasional local blocking our path
+_The occasional local blocking our path_
 
 Eventually pulling into our campsite, we celebrated our long ride and looked forward to the cruisey remainder of the trip, which went by with barely a hitch.
 

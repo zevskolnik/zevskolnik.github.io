@@ -18,8 +18,7 @@ Roughly 60% of my last 35 meals have been dal bhat.
 My heart is full of gratitude, and despite the chaos and cramped limbs, I’m excited for whatever’s next.
 
 ![](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4354.webp){: width="1500" height="2000" loading="lazy" }
-
-Dal Bhat, eaten twice daily by 80% of Nepal
+_Dal Bhat, eaten twice daily by 80% of Nepal_
 
 I’ve just completed the Manaslu Circuit in Nepal’s Himalayas. Getting to the trailhead involved driving through rock-slide corridors in a bus and waiting three hours while an excavator rebuilt the road in front of us.
 
@@ -28,8 +27,7 @@ Followed by 11 days of walking.
 11 days of serene views, serendipitous friendships, extreme altitude sports, and embracing the moniker “banana man”.
 
 ![](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4978.webp){: width="1500" height="2000" loading="lazy" }
-
-On Tuesdays we wear yellow
+_On Tuesdays we wear yellow_
 
 Days 1 – 3
 
@@ -48,8 +46,7 @@ Days 4 – 5
 -   We adopt a 19-year-old Nepali who overpacked by 10kg, forgot a sleeping bag, and ran out of cash. Redeemable mostly through his comedic timing. Without us, he’d currently be living among mountain goats.
 
 ![](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4451.webp){: width="727" height="1280" loading="lazy" }
-
-Trekkers by day. Futbolistas by afternoon
+_Trekkers by day. Futbolistas by afternoon_
 
 Days 6 – 8
 
@@ -66,8 +63,7 @@ Days 9 – 11
 -   Local kid mafia blocks the road out with rope until paid. Efficient entrepreneurial model.
 
 ![](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4899-1-edited.webp){: width="1500" height="2000" loading="lazy" }
-
-Wouldn’t wake up at 3am for anything less
+_Wouldn’t wake up at 3am for anything less_
 
 Day 12
 

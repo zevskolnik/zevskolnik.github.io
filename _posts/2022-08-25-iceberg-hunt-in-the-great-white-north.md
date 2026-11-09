@@ -32,8 +32,7 @@ He requested a photo, gave me a blessing, and we parted ways.
 Only in Newfoundland.
 
 ![](/assets/img/posts/iceberg-hunt-in-the-great-white-north/with-the-salvos-major.webp){: width="1500" height="2000" loading="lazy" }
-
-I am the very model of a modern major-general
+_I am the very model of a modern major-general_
 
 Newfoundland & Labrador is a province lying off the east coast of Canada, known to Canucks as ‘The Rock’. If you’re unfamiliar with Canadian geography, you likely haven’t heard of Newfoundland, unless of course you’ve seen the (phenomenal) musical Come From Away.
 

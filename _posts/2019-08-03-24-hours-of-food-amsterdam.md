@@ -18,8 +18,7 @@ With markets and restaurants galore, Amsterdam has a lot happening in the food s
 One of my first meals was a pastrami, walnut, brie, and pickle sandwich. No, that wasn’t me roaming through a fridge at 3AM hacking a Frankenstein sandwich together. That was on a menu. In a restaurant.
 
 ![](/assets/img/posts/24-hours-of-food-amsterdam/image-2.webp){: width="914" height="872" loading="lazy" }
-
-I mean it wasn’t bad…
+_I mean it wasn’t bad…_
 
 By no means an American standard, but when in Rome. Right?
 
@@ -30,8 +29,7 @@ While that wouldn’t be the first restaurant I’d check out, there’s a ton o
 If you’re lucky enough to have a Dutch friend that you’re staying with, you have to get them to make you a hakeshlacke. Comprising white bread, butter and sprinkles, this is as traditional Dutch as it gets. I thought my friend was joking when she served this to me for breakfast, but then she pulled out the box. These sprinkles are _specifically for_ breakfast. I repeat: the Dutch have breakfast sprinkles.
 
 ![](/assets/img/posts/24-hours-of-food-amsterdam/image-3.webp){: width="526" height="767" loading="lazy" }
-
-Doing brekkie like a local
+_Doing brekkie like a local_
 
 When you don’t have a friendly Dutchman or Duchess to whip up breakfast, no need to fret! Omelegg is the place to go. With a few locations in the city, this cheap brekkie will be way under 10 euros, and fill you right up to start your day.
 
@@ -46,8 +44,7 @@ Here you can find amazing spicy chicken wings, pizza, and a flurry of other good
 Found at the Zeevishandel De Graaf Roos stall, this fish shop takes everything you could find in the ocean, tosses it in their amazing batter and throws it into the deep fryer. You’ll smell the stall way before you see it, but with a constant quick moving line, this is the place to eat.
 
 ![](/assets/img/posts/24-hours-of-food-amsterdam/image-4.webp){: width="919" height="920" loading="lazy" }
-
-You’ll scarf this down faster than you can say Zeevishandel De Graaf Roos
+_You’ll scarf this down faster than you can say Zeevishandel De Graaf Roos_
 
 Yes, I know it’s all fried and not particularly good for you. But trust me, this is the place to spend your cheat day.
 
@@ -64,8 +61,7 @@ Visiting the Cheese Museum, you’ll have the chance to give your lactose intole
 Did I mention it’s free?
 
 ![](/assets/img/posts/24-hours-of-food-amsterdam/image-5.webp){: width="938" height="871" loading="lazy" }
-
-Exotic and freeeee!
+_Exotic and freeeee!_
 
 So sample your heart out and buy something if you love it. Cheese sampling just puts the biggest smile on my face.
 
@@ -78,8 +74,7 @@ Now, onto dinner.
 With an exceptional amount of restaurants to choose from in this world class city, one of my favourites was a middle eastern restaurant called Bazar. Situated in what looks like a converted synagogue, this place does a mean (and beautifully presented) chicken.
 
 ![](/assets/img/posts/24-hours-of-food-amsterdam/image-6.webp){: width="939" height="843" loading="lazy" }
-
-Kleurrijk en lekker (colourful and delicious)
+_Kleurrijk en lekker (colourful and delicious)_
 
 The restaurant itself is hectic. Tons of tables, two floors, and families running around, all centred around a circular bar in the middle.
 
@@ -90,8 +85,7 @@ With fantastic hummus, great portions and cheap prices, this place serves up an 
 All over the city are 24 hour food slots that operate like vending machines but for hot food. There’s a wall filled with various options (burgers, fishsticks, etc.), and on the other side are people cooking away. You pay for the meal, unlock your little door and gnosh away!
 
 ![](/assets/img/posts/24-hours-of-food-amsterdam/image-8.webp){: width="922" height="728" loading="lazy" }
-
-Something about this feels dystopian
+_Something about this feels dystopian_
 
 So, if the introvert in you in craving some nourishment at 2AM but you can’t be bothered to talk to another human, then find yourself one of these snackbars.
 
@@ -100,5 +94,4 @@ So, if the introvert in you in craving some nourishment at 2AM but you can’t b
 Hopefully one day you can come back to this city and experience it for all of it’s deliciousness, one kibbling at a time.
 
 ![](/assets/img/posts/24-hours-of-food-amsterdam/image-9.webp){: width="691" height="794" loading="lazy" }
-
-Honourable mention: the hot dogs here are funny
+_Honourable mention: the hot dogs here are funny_

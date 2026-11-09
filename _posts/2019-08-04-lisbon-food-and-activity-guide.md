@@ -48,8 +48,7 @@ Belem
 -   My favourite part of Belem is the pasteis de belem. Basically these little Portuguese custard tarts that you’ll be eating all over. These are delicious, and the Belem bakery is famous for their take on them. However, my heart (and stomach) still side with Manteigaria in Lisbon when it comes to Portuguese tarts (the pasteis de nata)
 
 ![](/assets/img/posts/lisbon-food-and-activity-guide/pasteis-de-belem.webp){: width="640" height="480" loading="lazy" }
-
-Pasteis de Belem (good, but not as good as de nata)
+_Pasteis de Belem (good, but not as good as de nata)_
 
 Praca de Camoes
 
@@ -68,8 +67,7 @@ Football game
 -   Make sure to buy a scarf for 5 euros in the tunnel!
 
 ![](/assets/img/posts/lisbon-food-and-activity-guide/soccorguyyelling.webp){: width="1232" height="829" loading="lazy" }
-
-This was 3 minutes into the game. Things escalated quickly
+_This was 3 minutes into the game. Things escalated quickly_
 
 Walking Tour
 
@@ -119,8 +117,7 @@ Manteigaria
 -   Go in the back to see how they’re made
 
 ![](/assets/img/posts/lisbon-food-and-activity-guide/img-4230.webp){: width="1600" height="1600" loading="lazy" }
-
-Completely different to the pasteis de belem!
+_Completely different to the pasteis de belem!_
 
 Time Out Market / Mercado da Ribiera
 
@@ -134,8 +131,7 @@ Frangasqueira Nacional
 -   Make sure to also get all the sides, especially the rice!
 
 ![](/assets/img/posts/lisbon-food-and-activity-guide/img-4202.webp){: width="1600" height="1200" loading="lazy" }
-
-What dreams are made of
+_What dreams are made of_
 
 Eurico
 
@@ -153,8 +149,7 @@ Ramiros
 -   The waiter may want you to try barnacles. I wasn’t a huge fan.
 
 ![](/assets/img/posts/lisbon-food-and-activity-guide/img-2564.webp){: width="1500" height="2000" loading="lazy" }
-
-Massive!
+_Massive!_
 
 Gelado Santini
 

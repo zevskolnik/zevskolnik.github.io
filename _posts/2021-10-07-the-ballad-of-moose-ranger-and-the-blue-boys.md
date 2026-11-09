@@ -14,8 +14,7 @@ Where the drinking water is questionable, the grounds mice-infested, and a sunbu
 Sold yet?
 
 ![](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/with-the-blue-boys.webp){: width="960" height="720" loading="lazy" }
-
-The Blue Boys and Myself
+_The Blue Boys and Myself_
 
 I had the pleasure of doing this incredible hike called Carnarvon Gorge, located south of Emerald, Queensland.
 
@@ -58,8 +57,7 @@ Arriving at our first campsite, Big Bend, it was great to throw around the frisb
 I also received an excellent tutorial on cooking dehydrated food, using a camping stove for the first time.
 
 ![](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/big-bend-1.webp){: width="1500" height="2000" loading="lazy" }
-
-Big Bend Campsite
+_Big Bend Campsite_
 
 After a good night’s sleep, we still had a lot of walk ahead of us.
 
@@ -78,8 +76,7 @@ With that in mind, we hopped in the car and began our long drive back to Brisban
 Unsurprisingly, not the most popular sport in Outback Queensland.
 
 ![](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/disc-golf.webp){: width="816" height="612" loading="lazy" }
-
-Only ones on the green today
+_Only ones on the green today_
 
 With this hike being such a good time, unfortunately it’s opened up my world, and there are now a ton of walks in Australia I immediately want to go on.
 

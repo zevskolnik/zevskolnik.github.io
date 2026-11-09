@@ -26,8 +26,7 @@ What could go wrong?
 After a good night’s rest, we threw our bags into storage and made our way through a chaotic series of vans and chicken buses to get us towards our mountain.
 
 ![](/assets/img/posts/hiking-in-an-active-warzone-at-2am/chicken-bus-chaos-1.webp){: width="1438" height="1438" loading="lazy" }
-
-50/50 chance of getting on the right chicken bus
+_50/50 chance of getting on the right chicken bus_
 
 What should have been a 3 hour journey took closer to 6.
 
@@ -66,8 +65,7 @@ Note that this is all happening in Spanish, and while Victor knows what’s goin
 Victor and I decide that gangsters like to sleep in, especially after a big day of shooting the rival gang, and so we set our alarms for 2am and say good night.
 
 ![](/assets/img/posts/hiking-in-an-active-warzone-at-2am/heading-out-into-the-night.webp){: width="1438" height="1438" loading="lazy" }
-
-Don’t mind us, were just some friendly gringos
+_Don’t mind us, were just some friendly gringos_
 
 Alarms blaring, we get dressed, brush our teeth, and put on our best innocent gringo looking faces.
 
@@ -98,8 +96,7 @@ Further up the trail, we see other groups hiking for the awaiting sunrise.
 Finally making it to the summit, we enjoy the beauty of morning, greeting us and our new friends. Sharing snacks and a view, alongside our valuables happily still in our pockets, I’m glad I said yes to the forward German man at the hostel.
 
 ![](/assets/img/posts/hiking-in-an-active-warzone-at-2am/sunrises-are-the-best.webp){: width="1438" height="1506" loading="lazy" }
-
-Vale la pena (worth it)
+_Vale la pena (worth it)_
 
 Thankfully we made it down without reason to jump behind any other bushes, and proceeded to get out of town as quick as possible.
 

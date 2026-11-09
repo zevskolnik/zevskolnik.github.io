@@ -63,8 +63,7 @@ Some free-loving folk decided to use the opportunity to get nude, take a mud bat
 Each person puts on a sock. Last one with their sock on wins.
 
 ![](/assets/img/posts/naked-hippie-mud-wrestling/sock-wrestling-pit.webp){: width="288" height="286" loading="lazy" }
-
-The sock wrestling pit. Hippies not pictured (Keeping it PG-13)
+_The sock wrestling pit. Hippies not pictured (Keeping it PG-13)_
 
 As I said…not exactly like Coachella.
 
@@ -77,8 +76,7 @@ Two massive structures that get built for the sole purpose of being burned down.
 It’s difficult to put into words, but there’s an amazing power in having 600 people stand around a house sized bonfire, creating atmospheres of both wild, loud fun for the Bug, and quiet contemplation for the Temple.
 
 ![](/assets/img/posts/naked-hippie-mud-wrestling/the-bug-and-the-temple.webp){: width="791" height="379" loading="lazy" }
-
-The Bug (left) and the Temple (right)
+_The Bug (left) and the Temple (right)_
 
 An incredible juxtaposition.
 

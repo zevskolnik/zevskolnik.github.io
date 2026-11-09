@@ -76,8 +76,7 @@ One of my all time favourite snacks that I stumbled upon was this tiny Chinatown
 I have no idea what he puts on it or what it’s made actually of, but damn that’s some good pork.
 
 ![](/assets/img/posts/24-hours-of-food-sydney/img-7174.webp){: width="1500" height="2000" loading="lazy" }
-
-I only eat meat with 4 corners.
+_I only eat meat with 4 corners._
 
 As a side note, while you’re in Chinatown be sure to check out the famous Paddy’s Markets! This huge market has a food section and what I like to call a ‘chachka’ section, where you can buy all your souvenirs, sunglasses, phone cases, etc. on the cheap.
 

@@ -26,8 +26,7 @@ Even after a rough start on the island (my bags got lost, someone hit my car bac
 I jumped on the back of a scooter with a guy I had just met, and we went to the Sunset Bridge to find some balut – fertilized developing duck embryo.
 
 ![](/assets/img/posts/the-witch-doctors-of-siquijor/image-2.webp){: width="1500" height="2000" loading="lazy" }
-
-Well known cure for hard times
+_Well known cure for hard times_
 
 Spending my days working in the sunshine, surfing whenever possible, and eating surprisingly amazing food (so much barbecue!), I spent two weeks having an incredible time on Siargao.
 
@@ -66,8 +65,7 @@ Taking pause, I considered whether this was a bad idea or not. A. I might be get
 But hey. Sometimes, you need to live a little!
 
 ![](/assets/img/posts/the-witch-doctors-of-siquijor/image-4.webp){: width="1600" height="1600" loading="lazy" }
-
-Jungle rules out here friends
+_Jungle rules out here friends_
 
 Safely arriving at the house, I was welcomed in by a woman who spoke English and met her dad, the healer of the village. An ancient man clad in fake Louis Vitton, excitedly showing me his ‘certificates of appreciation’ from the tourism board. Not what I expected, but pretty fun nevertheless.
 
@@ -84,8 +82,7 @@ After the experience, the blanket was shook out, and the daughter excitedly told
 I walked away from the house with my shoulders covered in geriatric spittle, and as spiritually free of flies as one can be.
 
 ![](/assets/img/posts/the-witch-doctors-of-siquijor/image-5.webp){: width="900" height="900" loading="lazy" }
-
-Spirits won’t talk to you unless you’re clad in LV and Gucci
+_Spirits won’t talk to you unless you’re clad in LV and Gucci_
 
 Healer #2 – Bolo-Bolo
 
@@ -106,8 +103,7 @@ You know, just like traditional medicine.
 Luckily (?) I only had a single black dot/bad spirit in my bowl. It continued to show up for another two cleansings, and then was finally purged. Apparently some people’s bowls come out completely black, while others are good to go after one round.
 
 ![](/assets/img/posts/the-witch-doctors-of-siquijor/image-7.webp){: width="1500" height="2000" loading="lazy" }
-
-One way to spend a vacation
+_One way to spend a vacation_
 
 This felt about as traditional as it could get. I happily left my donation for the procedure, and went about my day sans evil spirits.
 

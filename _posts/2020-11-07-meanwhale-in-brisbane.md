@@ -27,8 +27,7 @@ After driving up the coast, we hopped on a boat with 10 other whale enthusiasts 
 Two whales, straight ahead!
 
 ![](/assets/img/posts/meanwhale-in-brisbane/whaleunderwater-1.webp){: width="900" height="900" loading="lazy" }
-
-The depths below
+_The depths below_
 
 Quick as we could, we flapped on our flippers and struck on our snorkels, and once given the go ahead, plopped ourselves into the ocean.
 

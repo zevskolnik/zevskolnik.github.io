@@ -58,8 +58,7 @@ Story 3 (The most important)
 With plans to do the famous Tongaririo Crossing, a 20km day hike, my Scottish friend Emel and I found a cute organic farm to stay at for a few nights. Filled with WWOOFers (farm hands who work in exchange for food and accommodation) and the best stars I’d ever seen, the farm was a beautiful breath of fresh air.
 
 ![](/assets/img/posts/a-month-in-new-zealand/halfway-through-the-tongariro-crossing-at-emerald-lake-1.webp){: width="1600" height="1200" loading="lazy" }
-
-Emerald Lake. Halfway through the Tongariro Crossing
+_Emerald Lake. Halfway through the Tongariro Crossing_
 
 Even better were the animals, Honey and Kune. Honey was the farm dog, who got jealous any time you didn’t pay attention to her, constantly swatting at my leg to get pats. Unfortunately for Honey, my pat quota was reserved for Kune.
 

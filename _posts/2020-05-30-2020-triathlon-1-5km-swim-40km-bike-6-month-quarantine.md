@@ -24,8 +24,7 @@ I’d finished off my half marathon and was ready for a new physical challenge. 
 After convincing my flatmate Olivia to sign up with me, I realized what triathlon distances really meant. A 1.5km swim, 40km bike, 10km run. Individually, I can understand what that entails. An afternoon’s exercise for your average athlete. The issue, was doing those three items in succession.
 
 ![](/assets/img/posts/2020-triathlon-1-5km-swim-40km-bike-6-month-quarantine/no-idea-what-were-getting-into-min.webp){: width="1600" height="1200" loading="lazy" }
-
-No idea what we’re getting into
+_No idea what we’re getting into_
 
 Don’t get me wrong, it’s no Ironman (4km swim, 180km ride, 42km run. Oh my). But for someone who’d just gotten used to going for a casual hour long run, this was a big step up. Not to mention the furthest I’d gone on my bike in the past year was a leisurely ride to a friend’s house a few suburbs over.
 

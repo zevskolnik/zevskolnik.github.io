@@ -32,7 +32,7 @@ layout: default
     </a>
   </section>
 
-  {%- assign sections = "Newsletters|Letters from the road, sent to friends and family.,Stories|The ones that needed more than a newsletter.,Guides|Where to eat, sleep and get lost." | split: "," -%}
+  {%- assign sections = "Newsletters|Letters from the road, sent to friends and family.;Stories|The ones that needed more than a newsletter.;Guides|Where to eat, sleep and get lost." | split: ";" -%}
   {%- for s in sections -%}
     {%- assign parts = s | split: "|" -%}
     {%- assign cat = parts[0] -%}

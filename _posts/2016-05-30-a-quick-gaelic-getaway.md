@@ -50,8 +50,7 @@ After meeting up with my couchsurfing host, I learned that she was also hosting 
 While I barely had a recollection of the night, I thought the idea sounded like fun! So, the next morning we drew up some signs on cardboard and pitched our thumbs by the highway.
 
 ![](/assets/img/posts/a-quick-gaelic-getaway/img-3748.webp){: width="1600" height="1200" loading="lazy" }
-
-A smile might have helped
+_A smile might have helped_
 
 As expected, it took some time for the three of us to get picked up, and no less than 3 separate cars for us to make it all the way. One friendly woman picked us up as she was going to work, recounting her days as a vagrant. A man at a gas station felt pity for us standing in the rain and took us a couple kilometres to the next gas station. Finally, a friendly German tourist named Phil drove us the rest of the way (taking the scenic route), we made it to the town of Doolin.
 
@@ -62,16 +61,14 @@ Jumping over fences, walking alongside creeks, and getting stared down by angry 
 So cool. Of course I had to snap a pic with the uke.
 
 ![This image has an empty alt attribute; its file name is IMG_3855-991x1024.jpg](/assets/img/posts/a-quick-gaelic-getaway/img-3855.webp){: width="1600" height="1654" loading="lazy" }
-
-They’re after me lucky charms!
+_They’re after me lucky charms!_
 
 Happy and fed, we kept on our walk until eventually making it to the legendary Cliffs. The rockface exceeded our expectations, and it felt well earned after a tiring hike. Walking along the trail and peering over the 400ft edge, we spent the next hour taking pictures and hanging out.
 
 With the sun out and sky blue, there was an abundance of tourists who had bussed up to the cliffs that afternoon. I feel a busy place flush with stereotypical group tours tends to cheapen the beauty of whatever you’re looking at, but thankfully we had enough space to keep to our own.
 
 ![](/assets/img/posts/a-quick-gaelic-getaway/img-3823.webp){: width="1600" height="1200" loading="lazy" }
-
-Just barely enough cliffs to go around
+_Just barely enough cliffs to go around_
 
 After taking our time on the cliffs, we realized we needed to somehow travel the 80km back to Galway. As the group’s self-proclaimed hitch-hiking connoisseur, the Finnish couple turned to me to figure out how we’d be getting home. Tired and not much in the mood to approach families in the car park, I figured that we might have better luck hitching back with one of the tour buses.
 

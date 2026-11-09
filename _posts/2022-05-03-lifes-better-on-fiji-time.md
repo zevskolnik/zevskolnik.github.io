@@ -18,8 +18,7 @@ Whether it’s from construction workers digging a hole, a roadside barbecue sta
 “Bula!”\*
 
 ![](/assets/img/posts/lifes-better-on-fiji-time/bula-boy.webp){: width="1500" height="2000" loading="lazy" }
-
-Blending in with the locals
+_Blending in with the locals_
 
 With annual leave burning a hole in my corporate pocket, I spent 12 days over Easter exploring the islands. A country that is run on “Fiji time”, I was told in multiple instances to slow down and relax my pace, no need to rush. As a fast walker and chronic ‘do-er’, this took some adjustment.
 
@@ -58,8 +57,7 @@ As a visitor, it’s customary to bring kava root, called waka, to be given to t
 Afterwards, the waka gets pounded to a white powder and the nightly kava ritual begins. As a guest of honour, I was usually first to drink and quickly was taught the customs on how to accept the mud-water looking beverage.
 
 ![](/assets/img/posts/lifes-better-on-fiji-time/waka-1.webp){: width="750" height="973" loading="lazy" }
-
-Pounding the waka
+_Pounding the waka_
 
 Presented with the coconut bowl, you open-palm clap once, proclaim “Bula!”, and drink up in one go. Subsequently, you hand back the bowl, and open-palm clap thrice. When other people have clapped once, you can also clap to acknowledge them.
 

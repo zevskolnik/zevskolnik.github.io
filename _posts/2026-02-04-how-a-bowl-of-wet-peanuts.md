@@ -30,8 +30,7 @@ This is life in the village. This is what I travel for.
 Everything is going to be okay.
 
 ![](/assets/img/posts/how-a-bowl-of-wet-peanuts/image.webp){: width="1000" height="1000" loading="lazy" }
-
-Never too old to do what you love
+_Never too old to do what you love_
 
 The next 24 hours became one of my favourites in Vietnam.
 
@@ -48,8 +47,7 @@ Finally I made it back to my homestay for a beautiful family dinner and a goodni
 I sleep with a big smile, grateful for the day.
 
 ![](/assets/img/posts/how-a-bowl-of-wet-peanuts/image-1.webp){: width="1000" height="1000" loading="lazy" }
-
-Don’t get on the bad side of the Mu’ong So Biker Gang
+_Don’t get on the bad side of the Mu’ong So Biker Gang_
 
 **Part 2: The Wedding(s)**
 
@@ -92,8 +90,7 @@ Pumping his fists in the air, he grins.
 Through gestures and pointing at my watch, I come to the understanding that ‘bang-bang’ will happen in 30 minutes. I obviously couldn’t leave.
 
 ![](/assets/img/posts/how-a-bowl-of-wet-peanuts/image-2.webp){: width="900" height="1200" loading="lazy" }
-
-The look that says you’re sitting down until ‘bang-bang’
+_The look that says you’re sitting down until ‘bang-bang’_
 
 Another hour went by. More happy water. More food. No ‘bang-bang’.
 
@@ -116,13 +113,10 @@ Not until ‘bang-bang’.
 Today was a good day.
 
 ![](/assets/img/posts/how-a-bowl-of-wet-peanuts/image-3.webp){: width="1200" height="900" loading="lazy" }
-
- The feast at wedding #1. Could barely name an item on the table
+_ The feast at wedding #1. Could barely name an item on the table_
 
 ![](/assets/img/posts/how-a-bowl-of-wet-peanuts/image-4.webp){: width="1170" height="1300" loading="lazy" }
-
-The happy couple and the auctioneer MC. Mild pyrotechnics with the sparkler. Not many people paying attention!
+_The happy couple and the auctioneer MC. Mild pyrotechnics with the sparkler. Not many people paying attention!_
 
 ![](/assets/img/posts/how-a-bowl-of-wet-peanuts/image-5.webp){: width="1170" height="1300" loading="lazy" }
-
-Found some young people who sort of knew English at wedding #2. Note the cheeky kid with a backwards cigarette
+_Found some young people who sort of knew English at wedding #2. Note the cheeky kid with a backwards cigarette_

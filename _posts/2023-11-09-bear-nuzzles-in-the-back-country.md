@@ -22,8 +22,7 @@ Sure to bring bear spray and move our heavy-duty food barrel away from our camp,
 After all, we were 4 handsome, athletic young men. Of course we could take on whatever troubles came our way.
 
 ![](/assets/img/posts/bear-nuzzles-in-the-back-country/good-looking-fellas.webp){: width="1600" height="900" loading="lazy" }
-
-Objectively Handsome, Athletic Young Men
+_Objectively Handsome, Athletic Young Men_
 
 I had just watched the series ‘Alone’. It’s a reality show where contestants are placed somewhere extremely remote, and battle hunger, loneliness, and the environment, competing to survive the longest.
 
@@ -52,8 +51,7 @@ Oops.
  “Yep all good boys, nothing to worry about”, Steve said to the other tent, before going back to bed.
 
 ![](/assets/img/posts/bear-nuzzles-in-the-back-country/duskcanoescropped.webp){: width="745" height="411" loading="lazy" }
-
-Some tasty looking bear snacks in that canoe
+_Some tasty looking bear snacks in that canoe_
 
 Waking up bright and early we recapped what had happened last night. While hilarious for Steve and I, we realized that we didn’t tell the other tent what had actually gone down.
 

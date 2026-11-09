@@ -38,8 +38,7 @@ Am I excited?
 Absolutely.
 
 ![](/assets/img/posts/welcome-to-the-hell-of-the-west/goondipic1-1.webp){: width="920" height="676" loading="lazy" }
-
-Much too chirpy pre 6am
+_Much too chirpy pre 6am_
 
 After persuading a group of 6 friends to sign up with me, my life became training. Every day except Friday, I’d be riding up Brisbane’s local Mount Cootha, running up and down the steepest streets I could find, or at minimum playing an hour of ultimate frisbee.
 
@@ -48,8 +47,7 @@ Getting intimate with protein shakes and energy gels, I did my best to make 6am 
 Over 12 weeks, I rarely missed a session, although did give myself a few days to check out Heron Island with my parents, and maybe took off a sick day or two.
 
 ![](/assets/img/posts/welcome-to-the-hell-of-the-west/goondipic2.webp){: width="749" height="621" loading="lazy" }
-
-My training plan
+_My training plan_
 
 I sweat enough to fill a well, and eat enough to worry an Italian grandmother.
 

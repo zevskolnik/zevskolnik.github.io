@@ -31,8 +31,7 @@ However, I had other ideas.
 I thought it’d be an awesome project to make an axe. Having read Gary Paulsen’s _Hatchet_, being a bearded Canadian, and being filled with giddy thoughts of having an accessory to my flannel shirts, owning an axe seemed like the logical next step for my destiny in becoming a lumberjack.
 
 ![](/assets/img/posts/i-spent-30-minutes-as-a-suspected-terrorist/e2a14b4a-9a8a-4762-a8fe-7e7f9e392d4d.webp){: width="1440" height="1440" loading="lazy" }
-
-Crafting far beyond my skill level
+_Crafting far beyond my skill level_
 
 I posed the idea to Alex. Hesitant at first, he eventually OK’d the project, and we booked in our lesson for late August.
 
@@ -47,8 +46,7 @@ Now, onto the blacksmithing.
 The forge we were using was made up of a ceramic oven (that Alex made) that we blasted propane into, a few anvils, and various tools that people had made throughout the years. It was very cool to see something I thought had died out in medieval times alive and well. I was excited to get to work!
 
 ![](/assets/img/posts/i-spent-30-minutes-as-a-suspected-terrorist/f66a16e4-e328-464a-b81f-83be3246776f.webp){: width="1440" height="1440" loading="lazy" }
-
-Feelin’ hot hot hot
+_Feelin’ hot hot hot_
 
 While it took some serious hours and much more than the one day we thought it’d be (21 hours to be precise), over the next 3 weeks Alex and I made our axes. Going from a rectangle of steel, to an axe head, to a functioning tool, was more work than I anticipated, but a hell of a learning experience!
 
@@ -99,8 +97,7 @@ I like to think I don’t look like a terrorist. However, I suppose that the bea
 So I can’t exactly blame anyone but me for what happened.
 
 ![](/assets/img/posts/i-spent-30-minutes-as-a-suspected-terrorist/c3697719-53d7-450d-8688-7c644f75586e.webp){: width="1440" height="1440" loading="lazy" }
-
-Public enemy #1
+_Public enemy #1_
 
 That night, after regaling my tale of stupidity to Alex and having a laugh, we finally completed our projects. Beautifully crafted, and finally sharp, I now had the little hatchet I’d dreamed of making over the past month.
 
@@ -111,5 +108,4 @@ As an added bonus, it’ll serve as a reminder to not be an idiot, and most defi
 Even if it’s only for 30 minutes.
 
 ![](/assets/img/posts/i-spent-30-minutes-as-a-suspected-terrorist/cb2114c9-de89-49b7-8a4e-a396b4374763.webp){: width="1440" height="1440" loading="lazy" }
-
-The final products. Couldn’t be happier
+_The final products. Couldn’t be happier_
