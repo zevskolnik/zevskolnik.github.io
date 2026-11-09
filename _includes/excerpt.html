@@ -1,0 +1,3 @@
+{%- assign ex = include.post.excerpt | strip_html | strip -%}
+{%- if ex.size < 40 -%}{%- assign ex = include.post.content | strip_html | strip -%}{%- endif -%}
+{{- ex | truncate: 210 -}}

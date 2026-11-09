@@ -25,7 +25,7 @@ What could go wrong?
 
 After a good night’s rest, we threw our bags into storage and made our way through a chaotic series of vans and chicken buses to get us towards our mountain.
 
-![](/assets/img/posts/hiking-in-an-active-warzone-at-2am/chicken-bus-chaos-1.webp){: w="1438" h="1438" }
+![](/assets/img/posts/hiking-in-an-active-warzone-at-2am/chicken-bus-chaos-1.webp){: width="1438" height="1438" loading="lazy" }
 
 50/50 chance of getting on the right chicken bus
 
@@ -65,7 +65,7 @@ Note that this is all happening in Spanish, and while Victor knows what’s goin
 
 Victor and I decide that gangsters like to sleep in, especially after a big day of shooting the rival gang, and so we set our alarms for 2am and say good night.
 
-![](/assets/img/posts/hiking-in-an-active-warzone-at-2am/heading-out-into-the-night.webp){: w="1438" h="1438" }
+![](/assets/img/posts/hiking-in-an-active-warzone-at-2am/heading-out-into-the-night.webp){: width="1438" height="1438" loading="lazy" }
 
 Don’t mind us, were just some friendly gringos
 
@@ -97,7 +97,7 @@ Further up the trail, we see other groups hiking for the awaiting sunrise.
 
 Finally making it to the summit, we enjoy the beauty of morning, greeting us and our new friends. Sharing snacks and a view, alongside our valuables happily still in our pockets, I’m glad I said yes to the forward German man at the hostel.
 
-![](/assets/img/posts/hiking-in-an-active-warzone-at-2am/sunrises-are-the-best.webp){: w="1438" h="1506" }
+![](/assets/img/posts/hiking-in-an-active-warzone-at-2am/sunrises-are-the-best.webp){: width="1438" height="1506" loading="lazy" }
 
 Vale la pena (worth it)
 
@@ -109,10 +109,10 @@ Hikes aren’t always a questionable life decision, but when they are, at least 
 
 <div class="gallery" markdown="1">
 
-![Our hotel room’s wonderful shower](/assets/img/posts/hiking-in-an-active-warzone-at-2am/our-wonderful-bathroom.webp){: w="1125" h="2000" }
+![Our hotel room’s wonderful shower](/assets/img/posts/hiking-in-an-active-warzone-at-2am/our-wonderful-bathroom.webp){: width="1125" height="2000" loading="lazy" }
 
-![Robbers are just friends you haven’t met yet](/assets/img/posts/hiking-in-an-active-warzone-at-2am/a-robber-is-just-a-friend-you-havent-met-yet.webp){: w="1080" h="810" }
+![Robbers are just friends you haven’t met yet](/assets/img/posts/hiking-in-an-active-warzone-at-2am/a-robber-is-just-a-friend-you-havent-met-yet.webp){: width="1080" height="810" loading="lazy" }
 
-![A great ‘last meal’ all things considered](/assets/img/posts/hiking-in-an-active-warzone-at-2am/pretty-great-last-meal.webp){: w="1125" h="2000" }
+![A great ‘last meal’ all things considered](/assets/img/posts/hiking-in-an-active-warzone-at-2am/pretty-great-last-meal.webp){: width="1125" height="2000" loading="lazy" }
 
 </div>

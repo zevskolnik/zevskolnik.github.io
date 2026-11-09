@@ -47,7 +47,7 @@ Belem
     -   Huge monastery
 -   My favourite part of Belem is the pasteis de belem. Basically these little Portuguese custard tarts that you’ll be eating all over. These are delicious, and the Belem bakery is famous for their take on them. However, my heart (and stomach) still side with Manteigaria in Lisbon when it comes to Portuguese tarts (the pasteis de nata)
 
-![](/assets/img/posts/lisbon-food-and-activity-guide/pasteis-de-belem.webp){: w="640" h="480" }
+![](/assets/img/posts/lisbon-food-and-activity-guide/pasteis-de-belem.webp){: width="640" height="480" loading="lazy" }
 
 Pasteis de Belem (good, but not as good as de nata)
 
@@ -67,7 +67,7 @@ Football game
 -   They’re insane. The Ultra section tickets are the cheapest, and absolutely absurd. As a heads up, the seats are first come first serve there, and the fans can get real rowdy. Between people throwing garbage at the opposing team and having an eagle fly around the stadium as part of the pre-show, it was wild and one of my favourite nights
 -   Make sure to buy a scarf for 5 euros in the tunnel!
 
-![](/assets/img/posts/lisbon-food-and-activity-guide/soccorguyyelling.webp){: w="1232" h="829" }
+![](/assets/img/posts/lisbon-food-and-activity-guide/soccorguyyelling.webp){: width="1232" height="829" loading="lazy" }
 
 This was 3 minutes into the game. Things escalated quickly
 
@@ -118,7 +118,7 @@ Manteigaria
 -   You **have** to go here and get a pasteis de nata. Not even a question.
 -   Go in the back to see how they’re made
 
-![](/assets/img/posts/lisbon-food-and-activity-guide/img-4230.webp){: w="1600" h="1600" }
+![](/assets/img/posts/lisbon-food-and-activity-guide/img-4230.webp){: width="1600" height="1600" loading="lazy" }
 
 Completely different to the pasteis de belem!
 
@@ -133,7 +133,7 @@ Frangasqueira Nacional
 -   Note that it’s take out only, but you get a huge bucket of chicken, ribs and sausages for super cheap and then go find a park or a bench!
 -   Make sure to also get all the sides, especially the rice!
 
-![](/assets/img/posts/lisbon-food-and-activity-guide/img-4202.webp){: w="1600" h="1200" }
+![](/assets/img/posts/lisbon-food-and-activity-guide/img-4202.webp){: width="1600" height="1200" loading="lazy" }
 
 What dreams are made of
 
@@ -152,7 +152,7 @@ Ramiros
 -   Incredible seafood joint, I’ve never seen such big shrimps. The crab was also incredible. Definitely a bit more expensive, but sooo good
 -   The waiter may want you to try barnacles. I wasn’t a huge fan.
 
-![](/assets/img/posts/lisbon-food-and-activity-guide/img-2564.webp){: w="1500" h="2000" }
+![](/assets/img/posts/lisbon-food-and-activity-guide/img-2564.webp){: width="1500" height="2000" loading="lazy" }
 
 Massive!
 

@@ -1,0 +1,20 @@
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <img src="{{ site.logo | relative_url }}" alt="Hello, my name is NOT JEFF" width="140" height="103">
+      <span class="brand-text">
+        <span class="brand-name">{{ site.title }}</span>
+        <span class="brand-tag">{{ site.tagline }}</span>
+      </span>
+    </a>
+    <button class="menu-toggle" type="button" aria-label="Open menu" aria-expanded="false">&#9776;</button>
+    <nav class="nav" aria-label="Main">
+      <a href="{{ '/newsletters/' | relative_url }}">Newsletters</a>
+      <a href="{{ '/stories/' | relative_url }}">Stories</a>
+      <a href="{{ '/guides/' | relative_url }}">Guides</a>
+      <a href="{{ '/countries-visited/' | relative_url }}">Map</a>
+      <a href="{{ '/about/' | relative_url }}">About</a>
+      <a class="btn" href="{{ '/subscribe/' | relative_url }}">Subscribe</a>
+    </nav>
+  </div>
+</header>

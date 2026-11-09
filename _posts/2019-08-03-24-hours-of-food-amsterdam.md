@@ -17,7 +17,7 @@ With markets and restaurants galore, Amsterdam has a lot happening in the food s
 
 One of my first meals was a pastrami, walnut, brie, and pickle sandwich. No, that wasn’t me roaming through a fridge at 3AM hacking a Frankenstein sandwich together. That was on a menu. In a restaurant.
 
-![](/assets/img/posts/24-hours-of-food-amsterdam/image-2.webp){: w="914" h="872" }
+![](/assets/img/posts/24-hours-of-food-amsterdam/image-2.webp){: width="914" height="872" loading="lazy" }
 
 I mean it wasn’t bad…
 
@@ -29,7 +29,7 @@ While that wouldn’t be the first restaurant I’d check out, there’s a ton o
 
 If you’re lucky enough to have a Dutch friend that you’re staying with, you have to get them to make you a hakeshlacke. Comprising white bread, butter and sprinkles, this is as traditional Dutch as it gets. I thought my friend was joking when she served this to me for breakfast, but then she pulled out the box. These sprinkles are _specifically for_ breakfast. I repeat: the Dutch have breakfast sprinkles.
 
-![](/assets/img/posts/24-hours-of-food-amsterdam/image-3.webp){: w="526" h="767" }
+![](/assets/img/posts/24-hours-of-food-amsterdam/image-3.webp){: width="526" height="767" loading="lazy" }
 
 Doing brekkie like a local
 
@@ -45,7 +45,7 @@ Here you can find amazing spicy chicken wings, pizza, and a flurry of other good
 
 Found at the Zeevishandel De Graaf Roos stall, this fish shop takes everything you could find in the ocean, tosses it in their amazing batter and throws it into the deep fryer. You’ll smell the stall way before you see it, but with a constant quick moving line, this is the place to eat.
 
-![](/assets/img/posts/24-hours-of-food-amsterdam/image-4.webp){: w="919" h="920" }
+![](/assets/img/posts/24-hours-of-food-amsterdam/image-4.webp){: width="919" height="920" loading="lazy" }
 
 You’ll scarf this down faster than you can say Zeevishandel De Graaf Roos
 
@@ -63,7 +63,7 @@ Visiting the Cheese Museum, you’ll have the chance to give your lactose intole
 
 Did I mention it’s free?
 
-![](/assets/img/posts/24-hours-of-food-amsterdam/image-5.webp){: w="938" h="871" }
+![](/assets/img/posts/24-hours-of-food-amsterdam/image-5.webp){: width="938" height="871" loading="lazy" }
 
 Exotic and freeeee!
 
@@ -77,7 +77,7 @@ Now, onto dinner.
 
 With an exceptional amount of restaurants to choose from in this world class city, one of my favourites was a middle eastern restaurant called Bazar. Situated in what looks like a converted synagogue, this place does a mean (and beautifully presented) chicken.
 
-![](/assets/img/posts/24-hours-of-food-amsterdam/image-6.webp){: w="939" h="843" }
+![](/assets/img/posts/24-hours-of-food-amsterdam/image-6.webp){: width="939" height="843" loading="lazy" }
 
 Kleurrijk en lekker (colourful and delicious)
 
@@ -89,7 +89,7 @@ With fantastic hummus, great portions and cheap prices, this place serves up an 
 
 All over the city are 24 hour food slots that operate like vending machines but for hot food. There’s a wall filled with various options (burgers, fishsticks, etc.), and on the other side are people cooking away. You pay for the meal, unlock your little door and gnosh away!
 
-![](/assets/img/posts/24-hours-of-food-amsterdam/image-8.webp){: w="922" h="728" }
+![](/assets/img/posts/24-hours-of-food-amsterdam/image-8.webp){: width="922" height="728" loading="lazy" }
 
 Something about this feels dystopian
 
@@ -99,6 +99,6 @@ So, if the introvert in you in craving some nourishment at 2AM but you can’t b
 
 Hopefully one day you can come back to this city and experience it for all of it’s deliciousness, one kibbling at a time.
 
-![](/assets/img/posts/24-hours-of-food-amsterdam/image-9.webp){: w="691" h="794" }
+![](/assets/img/posts/24-hours-of-food-amsterdam/image-9.webp){: width="691" height="794" loading="lazy" }
 
 Honourable mention: the hot dogs here are funny

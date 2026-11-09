@@ -29,7 +29,7 @@ On the walking tour I took (would highly recommend taking one, especially given 
 
 Temple Bar is in the heart of Dublin, and a ‘go-to’ place for tourists who want to drink some Irish drinks and dance some Irish jigs, with the caveat that it’s with a bunch of other foreigners. Our tour guide seemed to know the exact prices for a Guinness at every establishment we passed, and Temple Bar, although iconic, was overpriced and not the place to spend a whole night.
 
-![](/assets/img/posts/a-quick-gaelic-getaway/matthew-t-rader-pgwf-jk5rhu-unsplash.webp){: w="1600" h="1285" }
+![](/assets/img/posts/a-quick-gaelic-getaway/matthew-t-rader-pgwf-jk5rhu-unsplash.webp){: width="1600" height="1285" loading="lazy" }
 
 Surprisingly not a local
 
@@ -49,7 +49,7 @@ After meeting up with my couchsurfing host, I learned that she was also hosting 
 
 While I barely had a recollection of the night, I thought the idea sounded like fun! So, the next morning we drew up some signs on cardboard and pitched our thumbs by the highway.
 
-![](/assets/img/posts/a-quick-gaelic-getaway/img-3748.webp){: w="1600" h="1200" }
+![](/assets/img/posts/a-quick-gaelic-getaway/img-3748.webp){: width="1600" height="1200" loading="lazy" }
 
 A smile might have helped
 
@@ -61,7 +61,7 @@ Jumping over fences, walking alongside creeks, and getting stared down by angry 
 
 So cool. Of course I had to snap a pic with the uke.
 
-![This image has an empty alt attribute; its file name is IMG_3855-991x1024.jpg](/assets/img/posts/a-quick-gaelic-getaway/img-3855.webp){: w="1600" h="1654" }
+![This image has an empty alt attribute; its file name is IMG_3855-991x1024.jpg](/assets/img/posts/a-quick-gaelic-getaway/img-3855.webp){: width="1600" height="1654" loading="lazy" }
 
 They’re after me lucky charms!
 
@@ -69,7 +69,7 @@ Happy and fed, we kept on our walk until eventually making it to the legendary C
 
 With the sun out and sky blue, there was an abundance of tourists who had bussed up to the cliffs that afternoon. I feel a busy place flush with stereotypical group tours tends to cheapen the beauty of whatever you’re looking at, but thankfully we had enough space to keep to our own.
 
-![](/assets/img/posts/a-quick-gaelic-getaway/img-3823.webp){: w="1600" h="1200" }
+![](/assets/img/posts/a-quick-gaelic-getaway/img-3823.webp){: width="1600" height="1200" loading="lazy" }
 
 Just barely enough cliffs to go around
 

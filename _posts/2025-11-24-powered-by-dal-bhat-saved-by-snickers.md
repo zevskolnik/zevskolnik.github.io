@@ -17,7 +17,7 @@ Roughly 60% of my last 35 meals have been dal bhat.
 
 My heart is full of gratitude, and despite the chaos and cramped limbs, I’m excited for whatever’s next.
 
-![](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4354.webp){: w="1500" h="2000" }
+![](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4354.webp){: width="1500" height="2000" loading="lazy" }
 
 Dal Bhat, eaten twice daily by 80% of Nepal
 
@@ -27,7 +27,7 @@ Followed by 11 days of walking.
 
 11 days of serene views, serendipitous friendships, extreme altitude sports, and embracing the moniker “banana man”.
 
-![](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4978.webp){: w="1500" h="2000" }
+![](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4978.webp){: width="1500" height="2000" loading="lazy" }
 
 On Tuesdays we wear yellow
 
@@ -47,7 +47,7 @@ Days 4 – 5
 -   I organize a soccer match with Nepalis and foreigners at 3,500m, epic monastery and mountains as the backdrop.
 -   We adopt a 19-year-old Nepali who overpacked by 10kg, forgot a sleeping bag, and ran out of cash. Redeemable mostly through his comedic timing. Without us, he’d currently be living among mountain goats.
 
-![](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4451.webp){: w="727" h="1280" }
+![](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4451.webp){: width="727" height="1280" loading="lazy" }
 
 Trekkers by day. Futbolistas by afternoon
 
@@ -65,7 +65,7 @@ Days 9 – 11
 -   Friend orders “local” chicken. We meet all members of the supply chain. Gruesome but humbling.
 -   Local kid mafia blocks the road out with rope until paid. Efficient entrepreneurial model.
 
-![](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4899-1-edited.webp){: w="1500" h="2000" }
+![](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4899-1-edited.webp){: width="1500" height="2000" loading="lazy" }
 
 Wouldn’t wake up at 3am for anything less
 
@@ -82,20 +82,20 @@ Until we meet again, my dear Himalayas.
 
 <div class="gallery" markdown="1">
 
-![Getting here was hard](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4925.webp){: w="1500" h="2000" }
+![Getting here was hard](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4925.webp){: width="1500" height="2000" loading="lazy" }
 
-![High altitude frisbee](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4875.webp){: w="1139" h="2000" }
+![High altitude frisbee](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4875.webp){: width="1139" height="2000" loading="lazy" }
 
-![Sunrise mountains in Namrung](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4480.webp){: w="1500" h="2000" }
+![Sunrise mountains in Namrung](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4480.webp){: width="1500" height="2000" loading="lazy" }
 
-![Child mafia holding up the road](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-5059.webp){: w="1500" h="2000" }
+![Child mafia holding up the road](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-5059.webp){: width="1500" height="2000" loading="lazy" }
 
-![Base camp baby!!](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/fullsizerender.webp){: w="1500" h="2000" }
+![Base camp baby!!](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/fullsizerender.webp){: width="1500" height="2000" loading="lazy" }
 
-![Monastery backdrop during 3500m football match](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4403.webp){: w="1500" h="2000" }
+![Monastery backdrop during 3500m football match](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4403.webp){: width="1500" height="2000" loading="lazy" }
 
-![My good friend Lily and I](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4632.webp){: w="1500" h="2000" }
+![My good friend Lily and I](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4632.webp){: width="1500" height="2000" loading="lazy" }
 
-![Yaks hanging out](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4531.webp){: w="1500" h="2000" }
+![Yaks hanging out](/assets/img/posts/powered-by-dal-bhat-saved-by-snickers/img-4531.webp){: width="1500" height="2000" loading="lazy" }
 
 </div>

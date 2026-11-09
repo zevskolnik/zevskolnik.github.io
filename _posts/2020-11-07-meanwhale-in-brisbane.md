@@ -2,6 +2,7 @@
 title: "Meanwhale in Brisbane"
 date: 2020-11-07 05:30:59
 categories: [Newsletters]
+card_image: /assets/img/posts/meanwhale-in-brisbane/zevandkat-1.webp
 image:
   path: /assets/img/posts/meanwhale-in-brisbane/whaleunderwater-1.webp
   alt: "Meanwhale in Brisbane"
@@ -25,7 +26,7 @@ After driving up the coast, we hopped on a boat with 10 other whale enthusiasts 
 
 Two whales, straight ahead!
 
-![](/assets/img/posts/meanwhale-in-brisbane/whaleunderwater-1.webp){: w="900" h="900" }
+![](/assets/img/posts/meanwhale-in-brisbane/whaleunderwater-1.webp){: width="900" height="900" loading="lazy" }
 
 The depths below
 
@@ -55,8 +56,8 @@ Zev
 
 <div class="gallery" markdown="1">
 
-![](/assets/img/posts/meanwhale-in-brisbane/zevandkat-1.webp){: w="1200" h="1200" }
+![](/assets/img/posts/meanwhale-in-brisbane/zevandkat-1.webp){: width="1200" height="1200" loading="lazy" }
 
-![](/assets/img/posts/meanwhale-in-brisbane/dolphinfriend-1.webp){: w="1200" h="1200" }
+![](/assets/img/posts/meanwhale-in-brisbane/dolphinfriend-1.webp){: width="1200" height="1200" loading="lazy" }
 
 </div>

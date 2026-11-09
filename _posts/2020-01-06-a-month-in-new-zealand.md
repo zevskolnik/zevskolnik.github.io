@@ -19,7 +19,7 @@ Her name is Kune, and she oinks. Because she’s a pig. You know, like, literall
 
 The fattest, most bumbly piggy I’ve ever met, and she’s adorably hilarious.
 
-![Kune, my chubby, porky, babe](/assets/img/posts/a-month-in-new-zealand/kune-my-chubby-porky-babe.webp){: w="1512" h="1587" }
+![Kune, my chubby, porky, babe](/assets/img/posts/a-month-in-new-zealand/kune-my-chubby-porky-babe.webp){: width="1512" height="1587" loading="lazy" }
 
 Let me give you some backstory.
 
@@ -57,7 +57,7 @@ Story 3 (The most important)
 
 With plans to do the famous Tongaririo Crossing, a 20km day hike, my Scottish friend Emel and I found a cute organic farm to stay at for a few nights. Filled with WWOOFers (farm hands who work in exchange for food and accommodation) and the best stars I’d ever seen, the farm was a beautiful breath of fresh air.
 
-![](/assets/img/posts/a-month-in-new-zealand/halfway-through-the-tongariro-crossing-at-emerald-lake-1.webp){: w="1600" h="1200" }
+![](/assets/img/posts/a-month-in-new-zealand/halfway-through-the-tongariro-crossing-at-emerald-lake-1.webp){: width="1600" height="1200" loading="lazy" }
 
 Emerald Lake. Halfway through the Tongariro Crossing
 
@@ -81,24 +81,24 @@ Zev
 
 <div class="gallery" markdown="1">
 
-![On the white water rafting trip](/assets/img/posts/a-month-in-new-zealand/on-the-white-water-rafting-trip.webp){: w="1134" h="794" }
+![On the white water rafting trip](/assets/img/posts/a-month-in-new-zealand/on-the-white-water-rafting-trip.webp){: width="1134" height="794" loading="lazy" }
 
-![Traditional Maori meal called a Hangi, cooked underground](/assets/img/posts/a-month-in-new-zealand/traditional-maori-meal-called-a-hangi-cooked-underground.webp){: w="1500" h="2000" }
+![Traditional Maori meal called a Hangi, cooked underground](/assets/img/posts/a-month-in-new-zealand/traditional-maori-meal-called-a-hangi-cooked-underground.webp){: width="1500" height="2000" loading="lazy" }
 
-![A Hobbit Hole in Hobbiton!](/assets/img/posts/a-month-in-new-zealand/a-hobbit-hole-in-hobbiton.webp){: w="1500" h="2000" }
+![A Hobbit Hole in Hobbiton!](/assets/img/posts/a-month-in-new-zealand/a-hobbit-hole-in-hobbiton.webp){: width="1500" height="2000" loading="lazy" }
 
-![Trying to find the hot water at hot water beach. Unsuccessful](/assets/img/posts/a-month-in-new-zealand/trying-to-find-the-hot-water-at-hot-water-beach-unsuccessful.webp){: w="1500" h="2000" }
+![Trying to find the hot water at hot water beach. Unsuccessful](/assets/img/posts/a-month-in-new-zealand/trying-to-find-the-hot-water-at-hot-water-beach-unsuccessful.webp){: width="1500" height="2000" loading="lazy" }
 
-![Mountain biking in Rotorua](/assets/img/posts/a-month-in-new-zealand/mountain-biking-in-rotorua.webp){: w="1500" h="2000" }
+![Mountain biking in Rotorua](/assets/img/posts/a-month-in-new-zealand/mountain-biking-in-rotorua.webp){: width="1500" height="2000" loading="lazy" }
 
-![Taupo hiking and views](/assets/img/posts/a-month-in-new-zealand/taupo-hiking-and-views.webp){: w="1600" h="1200" }
+![Taupo hiking and views](/assets/img/posts/a-month-in-new-zealand/taupo-hiking-and-views.webp){: width="1600" height="1200" loading="lazy" }
 
-![Fun getting towed](/assets/img/posts/a-month-in-new-zealand/fun-getting-towed.webp){: w="1500" h="2000" }
+![Fun getting towed](/assets/img/posts/a-month-in-new-zealand/fun-getting-towed.webp){: width="1500" height="2000" loading="lazy" }
 
-![A couchsurfing friend 3D printing me a keychain](/assets/img/posts/a-month-in-new-zealand/a-couchsurfing-friend-3d-printing-me-a-keychain.webp){: w="1500" h="2000" }
+![A couchsurfing friend 3D printing me a keychain](/assets/img/posts/a-month-in-new-zealand/a-couchsurfing-friend-3d-printing-me-a-keychain.webp){: width="1500" height="2000" loading="lazy" }
 
 </div>
 
-![](/assets/img/posts/a-month-in-new-zealand/aftermath-of-a-russain-street-fighting-class.webp){: w="720" h="757" }
+![](/assets/img/posts/a-month-in-new-zealand/aftermath-of-a-russain-street-fighting-class.webp){: width="720" height="757" loading="lazy" }
 
 Bonus story: day 2 in Auckland I was staying with a Couchsurfer on her bus. She invited me to a Russian street fighting class, and while I had no idea what that meant, I couldn’t really say no as it sounded awesome. As a result, I proceeded to get my butt absolutely whooped. Pretty cool black eye though, eh?

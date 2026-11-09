@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="{{ site.lang }}">
+<head>
+{% include head.html %}
+</head>
+<body class="{{ page.layout }}-page">
+{% include header.html %}
+{{ content }}
+{% include footer.html %}
+<script>
+  (function () {
+    var btn = document.querySelector('.menu-toggle');
+    var nav = document.querySelector('.nav');
+    if (btn && nav) {
+      btn.addEventListener('click', function () {
+        var open = nav.classList.toggle('open');
+        btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+      });
+    }
+    /* Click any photo in a story to see it full screen */
+    var imgs = document.querySelectorAll('.prose img, .post-cover img');
+    if (!imgs.length) return;
+    var box = document.createElement('div');
+    box.className = 'lightbox';
+    var big = document.createElement('img');
+    big.alt = '';
+    box.appendChild(big);
+    document.body.appendChild(box);
+    box.addEventListener('click', function () { box.classList.remove('open'); });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape') box.classList.remove('open'); });
+    imgs.forEach(function (img) {
+      img.addEventListener('click', function () {
+        big.src = img.currentSrc || img.src;
+        big.alt = img.alt;
+        box.classList.add('open');
+      });
+    });
+  })();
+</script>
+</body>
+</html>

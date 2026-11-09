@@ -21,9 +21,9 @@ Today is day 2/3 on our Sumatran jungle adventure, and Katrina has smelled our d
 
 <div class="gallery" markdown="1">
 
-![Daily fruit platter](/assets/img/posts/an-orangutan-ate-my-lunch/fruit.webp){: w="1500" h="2000" }
+![Daily fruit platter](/assets/img/posts/an-orangutan-ate-my-lunch/fruit.webp){: width="1500" height="2000" loading="lazy" }
 
-![Nasi lemak lunch](/assets/img/posts/an-orangutan-ate-my-lunch/lunch.webp){: w="1500" h="2000" }
+![Nasi lemak lunch](/assets/img/posts/an-orangutan-ate-my-lunch/lunch.webp){: width="1500" height="2000" loading="lazy" }
 
 </div>
 
@@ -33,7 +33,7 @@ Being followed in the forest, we end up paying a toll of 3 lunches in order to s
 
 Not my favourite brand of jungle etiquette (I believe rule 1 is don’t feed the animals), but I’m not one to argue with hungry women.
 
-![](/assets/img/posts/an-orangutan-ate-my-lunch/katrinapic.webp){: w="1600" h="1034" }
+![](/assets/img/posts/an-orangutan-ate-my-lunch/katrinapic.webp){: width="1600" height="1034" loading="lazy" }
 
 Cheekily looking hungry, hairy, and very orange
 Photo by Gabriele Campagnaro, friend on our trip
@@ -58,25 +58,25 @@ Hopefully I get to keep my lunch next time.
 
 <div class="gallery" markdown="1">
 
-![Our guide asking Katrina for the cutlery](/assets/img/posts/an-orangutan-ate-my-lunch/asking-for-the-cutlery-back.webp){: w="1500" h="2000" }
+![Our guide asking Katrina for the cutlery](/assets/img/posts/an-orangutan-ate-my-lunch/asking-for-the-cutlery-back.webp){: width="1500" height="2000" loading="lazy" }
 
-![Jungle team](/assets/img/posts/an-orangutan-ate-my-lunch/jungle-gang-3.webp){: w="1600" h="1202" }
+![Jungle team](/assets/img/posts/an-orangutan-ate-my-lunch/jungle-gang-3.webp){: width="1600" height="1202" loading="lazy" }
 
-![Dim sum in Penang](/assets/img/posts/an-orangutan-ate-my-lunch/the-gang-at-dim-sum-1.webp){: w="1500" h="2000" }
+![Dim sum in Penang](/assets/img/posts/an-orangutan-ate-my-lunch/the-gang-at-dim-sum-1.webp){: width="1500" height="2000" loading="lazy" }
 
 </div>
 
 <div class="gallery" markdown="1">
 
-![Curious baby](/assets/img/posts/an-orangutan-ate-my-lunch/curiousbaby-1.webp){: w="1600" h="1127" }
+![Curious baby](/assets/img/posts/an-orangutan-ate-my-lunch/curiousbaby-1.webp){: width="1600" height="1127" loading="lazy" }
 
-![Thomas’ Leaf Monkey](/assets/img/posts/an-orangutan-ate-my-lunch/thomasleafmonkey.webp){: w="1600" h="1169" }
+![Thomas’ Leaf Monkey](/assets/img/posts/an-orangutan-ate-my-lunch/thomasleafmonkey.webp){: width="1600" height="1169" loading="lazy" }
 
-![Hanging](/assets/img/posts/an-orangutan-ate-my-lunch/hanging-orang.webp){: w="1495" h="2000" }
+![Hanging](/assets/img/posts/an-orangutan-ate-my-lunch/hanging-orang.webp){: width="1495" height="2000" loading="lazy" }
 
-![Bukhit Lawang, town we started our hike from](/assets/img/posts/an-orangutan-ate-my-lunch/bukhit-lawang.webp){: w="1600" h="1168" }
+![Bukhit Lawang, town we started our hike from](/assets/img/posts/an-orangutan-ate-my-lunch/bukhit-lawang.webp){: width="1600" height="1168" loading="lazy" }
 
-![Looking wise](/assets/img/posts/an-orangutan-ate-my-lunch/wiseorang.webp){: w="1600" h="1101" }
+![Looking wise](/assets/img/posts/an-orangutan-ate-my-lunch/wiseorang.webp){: width="1600" height="1101" loading="lazy" }
 
 </div>
 

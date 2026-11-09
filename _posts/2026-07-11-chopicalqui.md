@@ -53,7 +53,7 @@ Juanes goes to cross an ice bridge for the final push to the top.
 
 This was not in our training, but here we are.
 
-![](/assets/img/posts/chopicalqui/epic-traverse.webp){: w="1500" h="2000" }
+![](/assets/img/posts/chopicalqui/epic-traverse.webp){: width="1500" height="2000" loading="lazy" }
 
 Finally, we get to the top.
 
@@ -73,9 +73,9 @@ Hell of a trip.
 
 <div class="gallery" markdown="1">
 
-![](/assets/img/posts/chopicalqui/mushroom-1.webp){: w="1500" h="2000" }
+![](/assets/img/posts/chopicalqui/mushroom-1.webp){: width="1500" height="2000" loading="lazy" }
 
-![](/assets/img/posts/chopicalqui/messy-camp-1.webp){: w="1500" h="2000" }
+![](/assets/img/posts/chopicalqui/messy-camp-1.webp){: width="1500" height="2000" loading="lazy" }
 
 </div>
 
@@ -99,12 +99,12 @@ Zev
 
 <div class="gallery" markdown="1">
 
-![](/assets/img/posts/chopicalqui/day-traverse-1.webp){: w="1500" h="2000" }
+![](/assets/img/posts/chopicalqui/day-traverse-1.webp){: width="1500" height="2000" loading="lazy" }
 
-![](/assets/img/posts/chopicalqui/landscape-1.webp){: w="1500" h="2000" }
+![](/assets/img/posts/chopicalqui/landscape-1.webp){: width="1500" height="2000" loading="lazy" }
 
-![](/assets/img/posts/chopicalqui/camp-nice.webp){: w="1500" h="2000" }
+![](/assets/img/posts/chopicalqui/camp-nice.webp){: width="1500" height="2000" loading="lazy" }
 
-![](/assets/img/posts/chopicalqui/ice-bridge-1.webp){: w="1500" h="2000" }
+![](/assets/img/posts/chopicalqui/ice-bridge-1.webp){: width="1500" height="2000" loading="lazy" }
 
 </div>

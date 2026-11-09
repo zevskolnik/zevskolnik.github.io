@@ -27,31 +27,31 @@ Zev
 
 <div class="gallery" markdown="1">
 
-![5 minutes later, sunny skies and rainbows!](/assets/img/posts/the-great-east-coast-aussie-roadtrip/5-minutes-later-sunny-skies-and-rainbows.webp){: w="640" h="480" }
+![5 minutes later, sunny skies and rainbows!](/assets/img/posts/the-great-east-coast-aussie-roadtrip/5-minutes-later-sunny-skies-and-rainbows.webp){: width="640" height="480" loading="lazy" }
 
-![Archer friends keeping score](/assets/img/posts/the-great-east-coast-aussie-roadtrip/archer-friends-keeping-score.webp){: w="649" h="715" }
+![Archer friends keeping score](/assets/img/posts/the-great-east-coast-aussie-roadtrip/archer-friends-keeping-score.webp){: width="649" height="715" loading="lazy" }
 
-![Baby peacocks](/assets/img/posts/the-great-east-coast-aussie-roadtrip/baby-peacocks.webp){: w="480" h="640" }
+![Baby peacocks](/assets/img/posts/the-great-east-coast-aussie-roadtrip/baby-peacocks.webp){: width="480" height="640" loading="lazy" }
 
-![Candid with the tent](/assets/img/posts/the-great-east-coast-aussie-roadtrip/candid-with-the-tent.webp){: w="640" h="480" }
+![Candid with the tent](/assets/img/posts/the-great-east-coast-aussie-roadtrip/candid-with-the-tent.webp){: width="640" height="480" loading="lazy" }
 
-![Fancy peacock checking us out](/assets/img/posts/the-great-east-coast-aussie-roadtrip/fancy-peacock-checking-us-out.webp){: w="480" h="640" }
+![Fancy peacock checking us out](/assets/img/posts/the-great-east-coast-aussie-roadtrip/fancy-peacock-checking-us-out.webp){: width="480" height="640" loading="lazy" }
 
-![Fun log art](/assets/img/posts/the-great-east-coast-aussie-roadtrip/fun-log-art.webp){: w="480" h="640" }
+![Fun log art](/assets/img/posts/the-great-east-coast-aussie-roadtrip/fun-log-art.webp){: width="480" height="640" loading="lazy" }
 
-![Getting ready to take a shot](/assets/img/posts/the-great-east-coast-aussie-roadtrip/getting-ready-to-take-a-shot.webp){: w="480" h="640" }
+![Getting ready to take a shot](/assets/img/posts/the-great-east-coast-aussie-roadtrip/getting-ready-to-take-a-shot.webp){: width="480" height="640" loading="lazy" }
 
-![Happy fella](/assets/img/posts/the-great-east-coast-aussie-roadtrip/happy-fella.webp){: w="640" h="480" }
+![Happy fella](/assets/img/posts/the-great-east-coast-aussie-roadtrip/happy-fella.webp){: width="640" height="480" loading="lazy" }
 
-![Photoshoots on the bow](/assets/img/posts/the-great-east-coast-aussie-roadtrip/photoshoots-on-the-bow.webp){: w="480" h="640" }
+![Photoshoots on the bow](/assets/img/posts/the-great-east-coast-aussie-roadtrip/photoshoots-on-the-bow.webp){: width="480" height="640" loading="lazy" }
 
-![Platypus!!!!](/assets/img/posts/the-great-east-coast-aussie-roadtrip/platypus.webp){: w="480" h="640" }
+![Platypus!!!!](/assets/img/posts/the-great-east-coast-aussie-roadtrip/platypus.webp){: width="480" height="640" loading="lazy" }
 
-![Sunrise beach kangaroos](/assets/img/posts/the-great-east-coast-aussie-roadtrip/sunrise-beach-kangaroos.webp){: w="480" h="640" }
+![Sunrise beach kangaroos](/assets/img/posts/the-great-east-coast-aussie-roadtrip/sunrise-beach-kangaroos.webp){: width="480" height="640" loading="lazy" }
 
-![Touring the rum distillery](/assets/img/posts/the-great-east-coast-aussie-roadtrip/touring-the-rum-distillery.webp){: w="481" h="640" }
+![Touring the rum distillery](/assets/img/posts/the-great-east-coast-aussie-roadtrip/touring-the-rum-distillery.webp){: width="481" height="640" loading="lazy" }
 
-![You know it&amp;#8217;s small when the town slogan is take a break](/assets/img/posts/the-great-east-coast-aussie-roadtrip/you-know-its-small-when-the-town-slogan-is-take-a-break.webp){: w="480" h="640" }
+![You know it&amp;#8217;s small when the town slogan is take a break](/assets/img/posts/the-great-east-coast-aussie-roadtrip/you-know-its-small-when-the-town-slogan-is-take-a-break.webp){: width="480" height="640" loading="lazy" }
 
 </div>
 

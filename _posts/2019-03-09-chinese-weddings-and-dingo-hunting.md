@@ -44,27 +44,27 @@ Zev
 
 <div class="gallery" markdown="1">
 
-![Ballina&amp;#8217;s Giant Prawn](/assets/img/posts/chinese-weddings-and-dingo-hunting/ballinas-giant-prawn.webp){: w="480" h="640" }
+![Ballina&amp;#8217;s Giant Prawn](/assets/img/posts/chinese-weddings-and-dingo-hunting/ballinas-giant-prawn.webp){: width="480" height="640" loading="lazy" }
 
-![Cheeky little dingo](/assets/img/posts/chinese-weddings-and-dingo-hunting/cheeky-little-dingo.webp){: w="480" h="640" }
+![Cheeky little dingo](/assets/img/posts/chinese-weddings-and-dingo-hunting/cheeky-little-dingo.webp){: width="480" height="640" loading="lazy" }
 
-![Family came to Brisbane](/assets/img/posts/chinese-weddings-and-dingo-hunting/family-came-to-brisbane.webp){: w="640" h="480" }
+![Family came to Brisbane](/assets/img/posts/chinese-weddings-and-dingo-hunting/family-came-to-brisbane.webp){: width="640" height="480" loading="lazy" }
 
-![Geometry at its finest](/assets/img/posts/chinese-weddings-and-dingo-hunting/geometry-at-its-finest.webp){: w="480" h="640" }
+![Geometry at its finest](/assets/img/posts/chinese-weddings-and-dingo-hunting/geometry-at-its-finest.webp){: width="480" height="640" loading="lazy" }
 
-![Haven&amp;#8217;t seen water in 40 days](/assets/img/posts/chinese-weddings-and-dingo-hunting/havent-seen-water-in-40-days.webp){: w="640" h="480" }
+![Haven&amp;#8217;t seen water in 40 days](/assets/img/posts/chinese-weddings-and-dingo-hunting/havent-seen-water-in-40-days.webp){: width="640" height="480" loading="lazy" }
 
-![Noosa Fairypools](/assets/img/posts/chinese-weddings-and-dingo-hunting/noosa-fairypools.webp){: w="480" h="640" }
+![Noosa Fairypools](/assets/img/posts/chinese-weddings-and-dingo-hunting/noosa-fairypools.webp){: width="480" height="640" loading="lazy" }
 
-![Sand highway](/assets/img/posts/chinese-weddings-and-dingo-hunting/sand-highway.webp){: w="480" h="640" }
+![Sand highway](/assets/img/posts/chinese-weddings-and-dingo-hunting/sand-highway.webp){: width="480" height="640" loading="lazy" }
 
-![The 4WD](/assets/img/posts/chinese-weddings-and-dingo-hunting/the-4wd.webp){: w="640" h="480" }
+![The 4WD](/assets/img/posts/chinese-weddings-and-dingo-hunting/the-4wd.webp){: width="640" height="480" loading="lazy" }
 
-![The No- As-Tie Dyed rest of the fam](/assets/img/posts/chinese-weddings-and-dingo-hunting/the-no-as-tie-dyed-rest-of-the-fam.webp){: w="360" h="640" }
+![The No- As-Tie Dyed rest of the fam](/assets/img/posts/chinese-weddings-and-dingo-hunting/the-no-as-tie-dyed-rest-of-the-fam.webp){: width="360" height="640" loading="lazy" }
 
-![The Tie Dyed Bride and Groom](/assets/img/posts/chinese-weddings-and-dingo-hunting/the-tie-dyed-bride-and-groom.webp){: w="768" h="1024" }
+![The Tie Dyed Bride and Groom](/assets/img/posts/chinese-weddings-and-dingo-hunting/the-tie-dyed-bride-and-groom.webp){: width="768" height="1024" loading="lazy" }
 
-![This winery had alpacas you could walk](/assets/img/posts/chinese-weddings-and-dingo-hunting/this-winery-had-alpacas-you-could-walk.webp){: w="480" h="640" }
+![This winery had alpacas you could walk](/assets/img/posts/chinese-weddings-and-dingo-hunting/this-winery-had-alpacas-you-could-walk.webp){: width="480" height="640" loading="lazy" }
 
 </div>
 

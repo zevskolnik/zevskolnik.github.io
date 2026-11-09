@@ -45,25 +45,25 @@ P.S. In an interesting turn of events, I ended up accepting a different job at I
 
 <div class="gallery" markdown="1">
 
-![A surprinsingly great vege meal](/assets/img/posts/portuguese-island-hopping/a-surprinsingly-great-vege-meal.webp){: w="1600" h="1200" }
+![A surprinsingly great vege meal](/assets/img/posts/portuguese-island-hopping/a-surprinsingly-great-vege-meal.webp){: width="1600" height="1200" loading="lazy" }
 
-![Beautiful lake (but no swimming)](/assets/img/posts/portuguese-island-hopping/beautiful-lake-but-no-swimming.webp){: w="1600" h="1200" }
+![Beautiful lake (but no swimming)](/assets/img/posts/portuguese-island-hopping/beautiful-lake-but-no-swimming.webp){: width="1600" height="1200" loading="lazy" }
 
-![Dave looking candid](/assets/img/posts/portuguese-island-hopping/dave-looking-candid.webp){: w="1600" h="1600" }
+![Dave looking candid](/assets/img/posts/portuguese-island-hopping/dave-looking-candid.webp){: width="1600" height="1600" loading="lazy" }
 
-![Fresh oysters](/assets/img/posts/portuguese-island-hopping/fresh-oysters.webp){: w="1600" h="1600" }
+![Fresh oysters](/assets/img/posts/portuguese-island-hopping/fresh-oysters.webp){: width="1600" height="1600" loading="lazy" }
 
-![I call this one &amp;#8216;moods&amp;#8217;](/assets/img/posts/portuguese-island-hopping/i-call-this-one-moods.webp){: w="1600" h="1600" }
+![I call this one &amp;#8216;moods&amp;#8217;](/assets/img/posts/portuguese-island-hopping/i-call-this-one-moods.webp){: width="1600" height="1600" loading="lazy" }
 
-![Landscapes galore](/assets/img/posts/portuguese-island-hopping/landscapes-galore.webp){: w="1600" h="1600" }
+![Landscapes galore](/assets/img/posts/portuguese-island-hopping/landscapes-galore.webp){: width="1600" height="1600" loading="lazy" }
 
-![Love never looked so beautiful](/assets/img/posts/portuguese-island-hopping/love-never-looked-so-beautiful.webp){: w="1440" h="1440" }
+![Love never looked so beautiful](/assets/img/posts/portuguese-island-hopping/love-never-looked-so-beautiful.webp){: width="1440" height="1440" loading="lazy" }
 
-![The gang in the Azores](/assets/img/posts/portuguese-island-hopping/the-gang-in-the-azores.webp){: w="1600" h="1200" }
+![The gang in the Azores](/assets/img/posts/portuguese-island-hopping/the-gang-in-the-azores.webp){: width="1600" height="1200" loading="lazy" }
 
-![Where the cows go moo](/assets/img/posts/portuguese-island-hopping/where-the-cows-go-moo.webp){: w="1500" h="2000" }
+![Where the cows go moo](/assets/img/posts/portuguese-island-hopping/where-the-cows-go-moo.webp){: width="1500" height="2000" loading="lazy" }
 
-![World famous Madeira street toboganning](/assets/img/posts/portuguese-island-hopping/world-famous-madeira-street-toboganning.webp){: w="1600" h="1200" }
+![World famous Madeira street toboganning](/assets/img/posts/portuguese-island-hopping/world-famous-madeira-street-toboganning.webp){: width="1600" height="1200" loading="lazy" }
 
 </div>
 

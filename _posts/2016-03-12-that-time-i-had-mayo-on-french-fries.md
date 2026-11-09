@@ -39,16 +39,16 @@ Zev
 
 <div class="gallery" markdown="1">
 
-![Delicious Belgian beer](/assets/img/posts/that-time-i-had-mayo-on-french-fries/delicious-belgian-beer.webp){: w="960" h="960" }
+![Delicious Belgian beer](/assets/img/posts/that-time-i-had-mayo-on-french-fries/delicious-belgian-beer.webp){: width="960" height="960" loading="lazy" }
 
-![Dream bachelor pad](/assets/img/posts/that-time-i-had-mayo-on-french-fries/dream-bachelor-pad.webp){: w="756" h="754" }
+![Dream bachelor pad](/assets/img/posts/that-time-i-had-mayo-on-french-fries/dream-bachelor-pad.webp){: width="756" height="754" loading="lazy" }
 
-![Interesting shots in Liege](/assets/img/posts/that-time-i-had-mayo-on-french-fries/interesting-shots-in-liege.webp){: w="960" h="960" }
+![Interesting shots in Liege](/assets/img/posts/that-time-i-had-mayo-on-french-fries/interesting-shots-in-liege.webp){: width="960" height="960" loading="lazy" }
 
-![New friends](/assets/img/posts/that-time-i-had-mayo-on-french-fries/new-friends.webp){: w="960" h="720" }
+![New friends](/assets/img/posts/that-time-i-had-mayo-on-french-fries/new-friends.webp){: width="960" height="720" loading="lazy" }
 
-![The magical glow of Bruges](/assets/img/posts/that-time-i-had-mayo-on-french-fries/the-magical-glow-of-bruges.webp){: w="206" h="206" }
+![The magical glow of Bruges](/assets/img/posts/that-time-i-had-mayo-on-french-fries/the-magical-glow-of-bruges.webp){: width="206" height="206" loading="lazy" }
 
-![Une waffle](/assets/img/posts/that-time-i-had-mayo-on-french-fries/une-waffle.webp){: w="206" h="206" }
+![Une waffle](/assets/img/posts/that-time-i-had-mayo-on-french-fries/une-waffle.webp){: width="206" height="206" loading="lazy" }
 
 </div>

@@ -11,7 +11,7 @@ This is no mere ‘good’ road. It’s not a ‘fine’ road. And it most defin
 
 Ever since landing in Oz, I’d heard amazing stories of this road trip. Filled with never-ending ocean, wildlife and a long winding road, I knew that with my month in Melbourne this was a must do.
 
-![](/assets/img/posts/the-greatest-ocean-road-in-australia/having-fun-with-the-12-apostles.webp){: w="1600" h="1202" }
+![](/assets/img/posts/the-greatest-ocean-road-in-australia/having-fun-with-the-12-apostles.webp){: width="1600" height="1202" loading="lazy" }
 
 Having fun at the famous 12 Apostles
 
@@ -23,7 +23,7 @@ Before you go
 
 The Great Ocean Road (and Victoria in general) can have crazy weather depending on what time of year you go. I went in the middle of winter (August) and encountered mud, rain, hail (!?), gale force winds, and the occasional bout of sunshine. Be sure to check the weather, and pack a raincoat, hiking boots, and make sure not to forget a sweater!
 
-![](/assets/img/posts/the-greatest-ocean-road-in-australia/all-smiles-in-the-wind-and-rain.webp){: w="1600" h="1200" }
+![](/assets/img/posts/the-greatest-ocean-road-in-australia/all-smiles-in-the-wind-and-rain.webp){: width="1600" height="1200" loading="lazy" }
 
 All smiles in the wind and rain 🙂
 
@@ -49,7 +49,7 @@ Walking around the trees feels a bit eerie, especially as it’s not visited by 
 
 While there are no signs, you can easily find it by finding The Redwoods Otways on Google Maps. Highly recommend making this a stop on your trip, especially if you’re one for a photo op!
 
-![](/assets/img/posts/the-greatest-ocean-road-in-australia/shu-admiring-the-redwood-forest.webp){: w="1500" h="2000" }
+![](/assets/img/posts/the-greatest-ocean-road-in-australia/shu-admiring-the-redwood-forest.webp){: width="1500" height="2000" loading="lazy" }
 
 Shu admiring the redwood forest
 
@@ -59,7 +59,7 @@ Right beside the redwood forest are the gorgeous Hopetoun Falls. It’s a bit of
 
 This hike was relatively easy and around 15 minutes each way. Once you get to the bottom, the falls are amazing up close! Gushing with water, the closer you can get (you may need to hop a fence or two), the more you get a whiff of mist spraying over you.
 
-![](/assets/img/posts/the-greatest-ocean-road-in-australia/playing-near-the-waterfalls.webp){: w="1500" h="2000" }
+![](/assets/img/posts/the-greatest-ocean-road-in-australia/playing-near-the-waterfalls.webp){: width="1500" height="2000" loading="lazy" }
 
 Almost fell over. Worth it.
 
@@ -79,7 +79,7 @@ Shu and I decided to retire at the lovely Surfside Backpacker hostel, where for 
 
 For your dinner options, there’s really only one strip with restaurants. Most of these spots have relatively high tourist prices (~$20 a feed), which is to be expected this far off the beaten track. However, we opted to stop in at a fish and chips place called the Apollo Bay Seafood Cafe, where most people seemed to have their tables stacked with prawns, oysters, lobster and crab. For a little over $10, we split a combo that was more than enough food, and tasty to boot.
 
-![](/assets/img/posts/the-greatest-ocean-road-in-australia/after-a-long-day-we-had-the-best-fish-and-chips.webp){: w="1500" h="2000" }
+![](/assets/img/posts/the-greatest-ocean-road-in-australia/after-a-long-day-we-had-the-best-fish-and-chips.webp){: width="1500" height="2000" loading="lazy" }
 
 Cheap and cheerful!
 
@@ -95,7 +95,7 @@ Eventually you’ll make your way to the Gibson’s Steps; a quick walk down the
 
 {% include embed/youtube.html id='7adNVzG4LlQ' %}
 
-![](/assets/img/posts/the-greatest-ocean-road-in-australia/foam-tornado-in-action.webp){: w="1500" h="2000" }
+![](/assets/img/posts/the-greatest-ocean-road-in-australia/foam-tornado-in-action.webp){: width="1500" height="2000" loading="lazy" }
 
 Thought this was just the coolest
 
@@ -107,7 +107,7 @@ This is what everyone talks about on the GOR – the Twelve Apostles. While ther
 
 The quick walk around the lookouts are worthwhile to do, as you get to appreciate the surrounding scenery and see the apostles from a few different perspectives. While they weren’t necessarily my favourite part of the trip (did I mention we saw a foam tornado!?), it’s one of those things you need to check out.
 
-![](/assets/img/posts/the-greatest-ocean-road-in-australia/the-famous-12-apostles.webp){: w="1600" h="1200" }
+![](/assets/img/posts/the-greatest-ocean-road-in-australia/the-famous-12-apostles.webp){: width="1600" height="1200" loading="lazy" }
 
 The famous 12 Apostles (though, there are only 8 left)
 
@@ -119,7 +119,7 @@ The Loch Ard Gorge is something I’d heard about from many of my friends’ who
 
 By this point you might be getting a bit tired of looking at rocks, but this one is also really cool! Watching the water splash against and around the arch is an impressive spectacle and one of those things you could stare at all day.
 
-![](/assets/img/posts/the-greatest-ocean-road-in-australia/london-arch.webp){: w="1500" h="2000" }
+![](/assets/img/posts/the-greatest-ocean-road-in-australia/london-arch.webp){: width="1500" height="2000" loading="lazy" }
 
 Nature at it’s finest
 

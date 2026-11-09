@@ -31,7 +31,7 @@ Thinking along similar lines, the road trip crew came up with a Plan C (Plan B, 
 
 Long on my Aussie bucket list, my four friends and I grabbed a few bikes and hopped on the tram, seeking refuge from the city life.
 
-![](/assets/img/posts/zev-and-the-art-of-bicycle-maintenance/img-7906.webp){: w="604" h="666" }
+![](/assets/img/posts/zev-and-the-art-of-bicycle-maintenance/img-7906.webp){: width="604" height="666" loading="lazy" }
 
 Ready to ride
 
@@ -53,7 +53,7 @@ Cruising through town after town, earning those toasties, we made it 90kms. More
 
 The beautiful scenery between the endless paddocks and happy birdlife was an awesome view, accompanied only by the crunch of our tires on gravel.
 
-![](/assets/img/posts/zev-and-the-art-of-bicycle-maintenance/img-7911.webp){: w="750" h="526" }
+![](/assets/img/posts/zev-and-the-art-of-bicycle-maintenance/img-7911.webp){: width="750" height="526" loading="lazy" }
 
 The occasional local blocking our path
 
@@ -73,14 +73,14 @@ Zev
 
 <div class="gallery" markdown="1">
 
-![Luxury campsite for night 2](/assets/img/posts/zev-and-the-art-of-bicycle-maintenance/img-7909.webp){: w="750" h="531" }
+![Luxury campsite for night 2](/assets/img/posts/zev-and-the-art-of-bicycle-maintenance/img-7909.webp){: width="750" height="531" loading="lazy" }
 
-![Awesome tunnel](/assets/img/posts/zev-and-the-art-of-bicycle-maintenance/img-7908.webp){: w="750" h="1334" }
+![Awesome tunnel](/assets/img/posts/zev-and-the-art-of-bicycle-maintenance/img-7908.webp){: width="750" height="1334" loading="lazy" }
 
-![A mountain bike’s happy place](/assets/img/posts/zev-and-the-art-of-bicycle-maintenance/img-7859.webp){: w="1500" h="2000" }
+![A mountain bike’s happy place](/assets/img/posts/zev-and-the-art-of-bicycle-maintenance/img-7859.webp){: width="1500" height="2000" loading="lazy" }
 
-![Finally finished](/assets/img/posts/zev-and-the-art-of-bicycle-maintenance/img-7905.webp){: w="750" h="546" }
+![Finally finished](/assets/img/posts/zev-and-the-art-of-bicycle-maintenance/img-7905.webp){: width="750" height="546" loading="lazy" }
 
-![Disability and/or bike seating](/assets/img/posts/zev-and-the-art-of-bicycle-maintenance/img-7865.webp){: w="1500" h="2000" }
+![Disability and/or bike seating](/assets/img/posts/zev-and-the-art-of-bicycle-maintenance/img-7865.webp){: width="1500" height="2000" loading="lazy" }
 
 </div>

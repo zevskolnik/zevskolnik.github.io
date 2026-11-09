@@ -67,27 +67,27 @@ Zev
 
 <div class="gallery" markdown="1">
 
-![Alleys and alleys](/assets/img/posts/obese-mustachioed-moroccan-men/alleys-and-alleys-1.webp){: w="960" h="1280" }
+![Alleys and alleys](/assets/img/posts/obese-mustachioed-moroccan-men/alleys-and-alleys-1.webp){: width="960" height="1280" loading="lazy" }
 
-![ATVing in the desert](/assets/img/posts/obese-mustachioed-moroccan-men/atving-in-the-desert-1.webp){: w="1600" h="1200" }
+![ATVing in the desert](/assets/img/posts/obese-mustachioed-moroccan-men/atving-in-the-desert-1.webp){: width="1600" height="1200" loading="lazy" }
 
-![Blue blue blue](/assets/img/posts/obese-mustachioed-moroccan-men/blue-blue-blue-1.webp){: w="960" h="1280" }
+![Blue blue blue](/assets/img/posts/obese-mustachioed-moroccan-men/blue-blue-blue-1.webp){: width="960" height="1280" loading="lazy" }
 
-![If you need a spoon, I have a guy](/assets/img/posts/obese-mustachioed-moroccan-men/if-you-need-a-spoon-i-have-a-guy-1.webp){: w="960" h="1280" }
+![If you need a spoon, I have a guy](/assets/img/posts/obese-mustachioed-moroccan-men/if-you-need-a-spoon-i-have-a-guy-1.webp){: width="960" height="1280" loading="lazy" }
 
-![More soap than you could ever need](/assets/img/posts/obese-mustachioed-moroccan-men/more-soap-than-you-could-ever-need-1.webp){: w="1280" h="960" }
+![More soap than you could ever need](/assets/img/posts/obese-mustachioed-moroccan-men/more-soap-than-you-could-ever-need-1.webp){: width="1280" height="960" loading="lazy" }
 
-![My hostel (or riad) for the night](/assets/img/posts/obese-mustachioed-moroccan-men/my-hostel-or-riad-for-the-night-1.webp){: w="1280" h="960" }
+![My hostel (or riad) for the night](/assets/img/posts/obese-mustachioed-moroccan-men/my-hostel-or-riad-for-the-night-1.webp){: width="1280" height="960" loading="lazy" }
 
-![Simple and incredible](/assets/img/posts/obese-mustachioed-moroccan-men/simple-and-incredible-1.webp){: w="1280" h="960" }
+![Simple and incredible](/assets/img/posts/obese-mustachioed-moroccan-men/simple-and-incredible-1.webp){: width="1280" height="960" loading="lazy" }
 
-![SO. CUTE.](/assets/img/posts/obese-mustachioed-moroccan-men/so-cute-1.webp){: w="1280" h="960" }
+![SO. CUTE.](/assets/img/posts/obese-mustachioed-moroccan-men/so-cute-1.webp){: width="1280" height="960" loading="lazy" }
 
-![The best way to do iftar](/assets/img/posts/obese-mustachioed-moroccan-men/the-best-way-to-do-iftar-1.webp){: w="1280" h="960" }
+![The best way to do iftar](/assets/img/posts/obese-mustachioed-moroccan-men/the-best-way-to-do-iftar-1.webp){: width="1280" height="960" loading="lazy" }
 
-![The blue city of Chefchaouen](/assets/img/posts/obese-mustachioed-moroccan-men/the-blue-city-of-chefchaouen-1.webp){: w="1600" h="1200" }
+![The blue city of Chefchaouen](/assets/img/posts/obese-mustachioed-moroccan-men/the-blue-city-of-chefchaouen-1.webp){: width="1600" height="1200" loading="lazy" }
 
-![Using this for an album cover one day](/assets/img/posts/obese-mustachioed-moroccan-men/using-this-for-an-album-cover-one-day-1.webp){: w="960" h="1280" }
+![Using this for an album cover one day](/assets/img/posts/obese-mustachioed-moroccan-men/using-this-for-an-album-cover-one-day-1.webp){: width="960" height="1280" loading="lazy" }
 
 </div>
 

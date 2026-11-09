@@ -1,0 +1,64 @@
+---
+layout: default
+---
+{%- assign latest = site.posts | first -%}
+<section class="hero">
+  <img src="{{ site.hero_image | relative_url }}" alt="Sunrise above the clouds from the top of Tajumulco, Guatemala" fetchpriority="high">
+  <div class="wrap">
+    <div class="hero-text">
+      <h1>Hi there. I'm not Jeff.</h1>
+      <p>I'm Zev. I travel the world while holding down a 9 to 5, and write about the stories that happen on the road. One lispy adventure at a time.</p>
+      <div class="hero-actions">
+        <a class="btn" href="{{ latest.url | relative_url }}">Read the latest story</a>
+        <a class="btn btn-ghost" href="{{ '/archive/' | relative_url }}">Browse all stories</a>
+      </div>
+    </div>
+  </div>
+  <span class="hero-credit">{{ site.hero_caption }}</span>
+</section>
+
+<main class="wrap">
+  <section class="section">
+    <div class="section-head"><h2>Latest story</h2></div>
+    {%- assign cover = latest.image.path | default: latest.image -%}
+    <a class="featured" href="{{ latest.url | relative_url }}">
+      <div class="featured-img">{% if cover %}<img src="{{ cover | relative_url }}" alt="" style="object-position: {{ latest.image_position | default: '50% 40%' }}">{% endif %}</div>
+      <div>
+        <span class="kicker">{{ latest.categories | last }} &middot; {{ latest.date | date: "%b %-d, %Y" }}</span>
+        <h3>{{ latest.title }}</h3>
+        <p>{% include excerpt.html post=latest %}</p>
+        <span class="read-more">Read the story &rarr;</span>
+      </div>
+    </a>
+  </section>
+
+  {%- assign sections = "Newsletters|Letters from the road, sent to friends and family.,Stories|The ones that needed more than a newsletter.,Guides|Where to eat, sleep and get lost." | split: "," -%}
+  {%- for s in sections -%}
+    {%- assign parts = s | split: "|" -%}
+    {%- assign cat = parts[0] -%}
+    {%- assign slug = cat | slugify -%}
+    {%- assign cat_url = '/' | append: slug | append: '/' -%}
+    {%- assign list = site.categories[cat] | where_exp: "p", "p.url != latest.url" -%}
+    {%- if list.size > 0 -%}
+    <section class="section" id="{{ slug }}">
+      <div class="section-head">
+        <div><h2>{{ cat }}</h2><p>{{ parts[1] }}</p></div>
+        <a href="{{ cat_url | relative_url }}">All {{ site.categories[cat].size }} &rarr;</a>
+      </div>
+      <div class="grid{% if cat == 'Guides' %} grid-compact{% endif %}">
+        {%- assign limit = 6 -%}{%- if cat == 'Guides' -%}{%- assign limit = 4 -%}{%- elsif cat == 'Stories' -%}{%- assign limit = 3 -%}{%- endif -%}
+        {%- for p in list limit: limit -%}{% include card.html post=p %}{%- endfor -%}
+      </div>
+    </section>
+    {%- endif -%}
+  {%- endfor -%}
+
+  <section class="about-strip">
+    <img src="{{ site.profile_image | relative_url }}" alt="Zev" width="180" height="180">
+    <div>
+      <h2>So why "No Not Jeff"?</h2>
+      <p>I was born with a lisp, and "Hi, I'm Zev" comes out as Jeff, Seth, Seb, or once, somehow, Kevin. These days I lean into it. It's the best icebreaker I've got.</p>
+      <a class="read-more" href="{{ '/about/' | relative_url }}">More about me &rarr;</a>
+    </div>
+  </section>
+</main>

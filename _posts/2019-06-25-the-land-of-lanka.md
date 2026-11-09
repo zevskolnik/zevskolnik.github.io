@@ -33,36 +33,36 @@ Zev
 
 <div class="gallery" markdown="1">
 
-![A woman picking tea in the mountains](/assets/img/posts/the-land-of-lanka/a-woman-picking-tea-in-the-mountains-1.webp){: w="480" h="640" }
+![A woman picking tea in the mountains](/assets/img/posts/the-land-of-lanka/a-woman-picking-tea-in-the-mountains-1.webp){: width="480" height="640" loading="lazy" }
 
-![Atleast 5 different curries here](/assets/img/posts/the-land-of-lanka/atleast-5-different-curries-here-1.webp){: w="480" h="640" }
+![Atleast 5 different curries here](/assets/img/posts/the-land-of-lanka/atleast-5-different-curries-here-1.webp){: width="480" height="640" loading="lazy" }
 
-![Dad showing off magic to the village children](/assets/img/posts/the-land-of-lanka/dad-showing-off-magic-to-the-village-children-1.webp){: w="480" h="640" }
+![Dad showing off magic to the village children](/assets/img/posts/the-land-of-lanka/dad-showing-off-magic-to-the-village-children-1.webp){: width="480" height="640" loading="lazy" }
 
-![Don&amp;#8217;t try this at home](/assets/img/posts/the-land-of-lanka/dont-try-this-at-home-1.webp){: w="640" h="640" }
+![Don&amp;#8217;t try this at home](/assets/img/posts/the-land-of-lanka/dont-try-this-at-home-1.webp){: width="640" height="640" loading="lazy" }
 
-![Embracing my inner feline](/assets/img/posts/the-land-of-lanka/embracing-my-inner-feline-1.webp){: w="640" h="480" }
+![Embracing my inner feline](/assets/img/posts/the-land-of-lanka/embracing-my-inner-feline-1.webp){: width="640" height="480" loading="lazy" }
 
-![Hanging out in the back of a tuktuk](/assets/img/posts/the-land-of-lanka/hanging-out-in-the-back-of-a-tuktuk-1.webp){: w="640" h="481" }
+![Hanging out in the back of a tuktuk](/assets/img/posts/the-land-of-lanka/hanging-out-in-the-back-of-a-tuktuk-1.webp){: width="640" height="481" loading="lazy" }
 
-![Impressive amount of ear hair](/assets/img/posts/the-land-of-lanka/impressive-amount-of-ear-hair-1.webp){: w="1125" h="2000" }
+![Impressive amount of ear hair](/assets/img/posts/the-land-of-lanka/impressive-amount-of-ear-hair-1.webp){: width="1125" height="2000" loading="lazy" }
 
-![Jack fruit, my new favourite](/assets/img/posts/the-land-of-lanka/jack-fruit-my-new-favourite-1.webp){: w="480" h="640" }
+![Jack fruit, my new favourite](/assets/img/posts/the-land-of-lanka/jack-fruit-my-new-favourite-1.webp){: width="480" height="640" loading="lazy" }
 
-![Jaguar having a nap](/assets/img/posts/the-land-of-lanka/jaguar-having-a-nap-1.webp){: w="640" h="480" }
+![Jaguar having a nap](/assets/img/posts/the-land-of-lanka/jaguar-having-a-nap-1.webp){: width="640" height="480" loading="lazy" }
 
-![More snacks. So good.](/assets/img/posts/the-land-of-lanka/more-snacks-so-good-1.webp){: w="480" h="640" }
+![More snacks. So good.](/assets/img/posts/the-land-of-lanka/more-snacks-so-good-1.webp){: width="480" height="640" loading="lazy" }
 
-![Pashminas are key when you need knee coverage](/assets/img/posts/the-land-of-lanka/pashminas-are-key-when-you-need-knee-coverage-1.webp){: w="480" h="640" }
+![Pashminas are key when you need knee coverage](/assets/img/posts/the-land-of-lanka/pashminas-are-key-when-you-need-knee-coverage-1.webp){: width="480" height="640" loading="lazy" }
 
-![Quick stop over in Singapore](/assets/img/posts/the-land-of-lanka/quick-stop-over-in-singapore-1.webp){: w="480" h="640" }
+![Quick stop over in Singapore](/assets/img/posts/the-land-of-lanka/quick-stop-over-in-singapore-1.webp){: width="480" height="640" loading="lazy" }
 
-![Sammy with a new coconut and a scraped one](/assets/img/posts/the-land-of-lanka/sammy-with-a-new-coconut-and-a-scraped-one-1.webp){: w="480" h="640" }
+![Sammy with a new coconut and a scraped one](/assets/img/posts/the-land-of-lanka/sammy-with-a-new-coconut-and-a-scraped-one-1.webp){: width="480" height="640" loading="lazy" }
 
-![Some delicious snacks](/assets/img/posts/the-land-of-lanka/some-delicious-snacks-1.webp){: w="480" h="640" }
+![Some delicious snacks](/assets/img/posts/the-land-of-lanka/some-delicious-snacks-1.webp){: width="480" height="640" loading="lazy" }
 
-![The coconut palace in the markets](/assets/img/posts/the-land-of-lanka/the-coconut-palace-in-the-markets-1.webp){: w="480" h="640" }
+![The coconut palace in the markets](/assets/img/posts/the-land-of-lanka/the-coconut-palace-in-the-markets-1.webp){: width="480" height="640" loading="lazy" }
 
-![The fam](/assets/img/posts/the-land-of-lanka/the-fam-1.webp){: w="640" h="480" }
+![The fam](/assets/img/posts/the-land-of-lanka/the-fam-1.webp){: width="640" height="480" loading="lazy" }
 
 </div>

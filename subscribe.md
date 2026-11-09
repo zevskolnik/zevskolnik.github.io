@@ -1,7 +1,9 @@
 ---
+layout: page
 title: Subscribe
-icon: fas fa-envelope-open-text
-order: 5
+kicker: The newsletter
+permalink: /subscribe/
+hide_subscribe: true
 ---
 
 Every so often I send out a newsletter with the latest story from the road. No spam, just the occasional email when something ridiculous happens.

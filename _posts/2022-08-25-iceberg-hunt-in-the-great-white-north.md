@@ -31,7 +31,7 @@ He requested a photo, gave me a blessing, and we parted ways.
 
 Only in Newfoundland.
 
-![](/assets/img/posts/iceberg-hunt-in-the-great-white-north/with-the-salvos-major.webp){: w="1500" h="2000" }
+![](/assets/img/posts/iceberg-hunt-in-the-great-white-north/with-the-salvos-major.webp){: width="1500" height="2000" loading="lazy" }
 
 I am the very model of a modern major-general
 
@@ -45,9 +45,9 @@ My parents and I were visiting the province to explore Quirpon Island. A desolat
 
 <div class="gallery" markdown="1">
 
-![An idyllic lack of everything in Quirpon](/assets/img/posts/iceberg-hunt-in-the-great-white-north/genericquirpon.webp){: w="1500" h="2000" }
+![An idyllic lack of everything in Quirpon](/assets/img/posts/iceberg-hunt-in-the-great-white-north/genericquirpon.webp){: width="1500" height="2000" loading="lazy" }
 
-![Yes, the ice was licked. It was cold](/assets/img/posts/iceberg-hunt-in-the-great-white-north/icebergwithmom-1.webp){: w="1280" h="960" }
+![Yes, the ice was licked. It was cold](/assets/img/posts/iceberg-hunt-in-the-great-white-north/icebergwithmom-1.webp){: width="1280" height="960" loading="lazy" }
 
 </div>
 
@@ -83,21 +83,21 @@ PS. If anyone is in Newfoundland or Nova Scotia sometime soon, I very sadly didn
 
 <div class="gallery" markdown="1">
 
-![wellmaintainedhike](/assets/img/posts/iceberg-hunt-in-the-great-white-north/wellmaintainedhike.webp){: w="1500" h="2000" }
+![wellmaintainedhike](/assets/img/posts/iceberg-hunt-in-the-great-white-north/wellmaintainedhike.webp){: width="1500" height="2000" loading="lazy" }
 
-![humpbacks](/assets/img/posts/iceberg-hunt-in-the-great-white-north/humpbacks.webp){: w="1600" h="1200" }
+![humpbacks](/assets/img/posts/iceberg-hunt-in-the-great-white-north/humpbacks.webp){: width="1600" height="1200" loading="lazy" }
 
-![slowdeathoficeberg](/assets/img/posts/iceberg-hunt-in-the-great-white-north/slowdeathoficeberg.webp){: w="1600" h="1200" }
+![slowdeathoficeberg](/assets/img/posts/iceberg-hunt-in-the-great-white-north/slowdeathoficeberg.webp){: width="1600" height="1200" loading="lazy" }
 
-![gettinginajam](/assets/img/posts/iceberg-hunt-in-the-great-white-north/gettinginajam.webp){: w="1600" h="1200" }
+![gettinginajam](/assets/img/posts/iceberg-hunt-in-the-great-white-north/gettinginajam.webp){: width="1600" height="1200" loading="lazy" }
 
-![flyfishing](/assets/img/posts/iceberg-hunt-in-the-great-white-north/flyfishing.webp){: w="1500" h="2000" }
+![flyfishing](/assets/img/posts/iceberg-hunt-in-the-great-white-north/flyfishing.webp){: width="1500" height="2000" loading="lazy" }
 
-![friendlyfox](/assets/img/posts/iceberg-hunt-in-the-great-white-north/friendlyfox.webp){: w="1500" h="2000" }
+![friendlyfox](/assets/img/posts/iceberg-hunt-in-the-great-white-north/friendlyfox.webp){: width="1500" height="2000" loading="lazy" }
 
-![exchangebuddies](/assets/img/posts/iceberg-hunt-in-the-great-white-north/exchangebuddies.webp){: w="1600" h="1200" }
+![exchangebuddies](/assets/img/posts/iceberg-hunt-in-the-great-white-north/exchangebuddies.webp){: width="1600" height="1200" loading="lazy" }
 
-![homenote](/assets/img/posts/iceberg-hunt-in-the-great-white-north/homenote.webp){: w="1500" h="2000" }
+![homenote](/assets/img/posts/iceberg-hunt-in-the-great-white-north/homenote.webp){: width="1500" height="2000" loading="lazy" }
 
 </div>
 

@@ -13,7 +13,7 @@ Where the drinking water is questionable, the grounds mice-infested, and a sunbu
 
 Sold yet?
 
-![](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/with-the-blue-boys.webp){: w="960" h="720" }
+![](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/with-the-blue-boys.webp){: width="960" height="720" loading="lazy" }
 
 The Blue Boys and Myself
 
@@ -47,9 +47,9 @@ One of the biggest highlights of the area is the 4,000 year old aboriginal cave 
 
 <div class="gallery" markdown="1">
 
-![](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/cave-art-3-min-3.webp){: w="1600" h="1600" }
+![](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/cave-art-3-min-3.webp){: width="1600" height="1600" loading="lazy" }
 
-![](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/cave-art-4-min-1.webp){: w="1600" h="1599" }
+![](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/cave-art-4-min-1.webp){: width="1600" height="1599" loading="lazy" }
 
 </div>
 
@@ -57,7 +57,7 @@ Arriving at our first campsite, Big Bend, it was great to throw around the frisb
 
 I also received an excellent tutorial on cooking dehydrated food, using a camping stove for the first time.
 
-![](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/big-bend-1.webp){: w="1500" h="2000" }
+![](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/big-bend-1.webp){: width="1500" height="2000" loading="lazy" }
 
 Big Bend Campsite
 
@@ -77,7 +77,7 @@ With that in mind, we hopped in the car and began our long drive back to Brisban
 
 Unsurprisingly, not the most popular sport in Outback Queensland.
 
-![](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/disc-golf.webp){: w="816" h="612" }
+![](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/disc-golf.webp){: width="816" height="612" loading="lazy" }
 
 Only ones on the green today
 
@@ -95,22 +95,22 @@ Zev
 
 <div class="gallery" markdown="1">
 
-![Campfire](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/campfire.webp){: w="960" h="720" }
+![Campfire](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/campfire.webp){: width="960" height="720" loading="lazy" }
 
-![Bridge](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/bridge.webp){: w="1500" h="2000" }
+![Bridge](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/bridge.webp){: width="1500" height="2000" loading="lazy" }
 
-![Hiking](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/hiking.webp){: w="1500" h="2000" }
+![Hiking](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/hiking.webp){: width="1500" height="2000" loading="lazy" }
 
-![The Gorge](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/the-gorge.webp){: w="1500" h="2000" }
+![The Gorge](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/the-gorge.webp){: width="1500" height="2000" loading="lazy" }
 
-![Dinnertime](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/dinnertime.webp){: w="1600" h="1200" }
+![Dinnertime](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/dinnertime.webp){: width="1600" height="1200" loading="lazy" }
 
-![Emus!!!](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/emus.webp){: w="1500" h="2000" }
+![Emus!!!](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/emus.webp){: width="1500" height="2000" loading="lazy" }
 
-![Sunrise](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/sunrise.webp){: w="1500" h="2000" }
+![Sunrise](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/sunrise.webp){: width="1500" height="2000" loading="lazy" }
 
-![Ukes](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/ukes.webp){: w="960" h="720" }
+![Ukes](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/ukes.webp){: width="960" height="720" loading="lazy" }
 
-![Blood Donation](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/blood-donation.webp){: w="1160" h="1544" }
+![Blood Donation](/assets/img/posts/the-ballad-of-moose-ranger-and-the-blue-boys/blood-donation.webp){: width="1160" height="1544" loading="lazy" }
 
 </div>

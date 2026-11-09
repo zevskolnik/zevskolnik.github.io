@@ -15,7 +15,7 @@ Having grown up with many Filipino friends, it had been on my bucket list for ye
 
 So with a remote job in hand, I jumped on a plane to explore the Pearl of the Orient.
 
-![](/assets/img/posts/the-witch-doctors-of-siquijor/image.webp){: w="1200" h="1200" }
+![](/assets/img/posts/the-witch-doctors-of-siquijor/image.webp){: width="1200" height="1200" loading="lazy" }
 
 After an excessive number of planes (4!), I’d landed at my destination – Siargao island.
 
@@ -25,7 +25,7 @@ Even after a rough start on the island (my bags got lost, someone hit my car bac
 
 I jumped on the back of a scooter with a guy I had just met, and we went to the Sunset Bridge to find some balut – fertilized developing duck embryo.
 
-![](/assets/img/posts/the-witch-doctors-of-siquijor/image-2.webp){: w="1500" h="2000" }
+![](/assets/img/posts/the-witch-doctors-of-siquijor/image-2.webp){: width="1500" height="2000" loading="lazy" }
 
 Well known cure for hard times
 
@@ -39,9 +39,9 @@ A stranger truly is a friend you haven’t met yet.
 
 <div class="gallery" markdown="1">
 
-![](/assets/img/posts/the-witch-doctors-of-siquijor/1-6.webp){: w="1500" h="2000" }
+![](/assets/img/posts/the-witch-doctors-of-siquijor/1-6.webp){: width="1500" height="2000" loading="lazy" }
 
-![](/assets/img/posts/the-witch-doctors-of-siquijor/2.webp){: w="1500" h="2000" }
+![](/assets/img/posts/the-witch-doctors-of-siquijor/2.webp){: width="1500" height="2000" loading="lazy" }
 
 </div>
 
@@ -65,7 +65,7 @@ Taking pause, I considered whether this was a bad idea or not. A. I might be get
 
 But hey. Sometimes, you need to live a little!
 
-![](/assets/img/posts/the-witch-doctors-of-siquijor/image-4.webp){: w="1600" h="1600" }
+![](/assets/img/posts/the-witch-doctors-of-siquijor/image-4.webp){: width="1600" height="1600" loading="lazy" }
 
 Jungle rules out here friends
 
@@ -83,7 +83,7 @@ After the experience, the blanket was shook out, and the daughter excitedly told
 
 I walked away from the house with my shoulders covered in geriatric spittle, and as spiritually free of flies as one can be.
 
-![](/assets/img/posts/the-witch-doctors-of-siquijor/image-5.webp){: w="900" h="900" }
+![](/assets/img/posts/the-witch-doctors-of-siquijor/image-5.webp){: width="900" height="900" loading="lazy" }
 
 Spirits won’t talk to you unless you’re clad in LV and Gucci
 
@@ -105,7 +105,7 @@ You know, just like traditional medicine.
 
 Luckily (?) I only had a single black dot/bad spirit in my bowl. It continued to show up for another two cleansings, and then was finally purged. Apparently some people’s bowls come out completely black, while others are good to go after one round.
 
-![](/assets/img/posts/the-witch-doctors-of-siquijor/image-7.webp){: w="1500" h="2000" }
+![](/assets/img/posts/the-witch-doctors-of-siquijor/image-7.webp){: width="1500" height="2000" loading="lazy" }
 
 One way to spend a vacation
 
@@ -122,14 +122,14 @@ Video of the full bolo-bolo experience
 
 <div class="gallery" markdown="1">
 
-![](/assets/img/posts/the-witch-doctors-of-siquijor/3.webp){: w="1200" h="900" }
+![](/assets/img/posts/the-witch-doctors-of-siquijor/3.webp){: width="1200" height="900" loading="lazy" }
 
-![](/assets/img/posts/the-witch-doctors-of-siquijor/7.webp){: w="900" h="1200" }
+![](/assets/img/posts/the-witch-doctors-of-siquijor/7.webp){: width="900" height="1200" loading="lazy" }
 
-![](/assets/img/posts/the-witch-doctors-of-siquijor/6.webp){: w="1132" h="1509" }
+![](/assets/img/posts/the-witch-doctors-of-siquijor/6.webp){: width="1132" height="1509" loading="lazy" }
 
-![](/assets/img/posts/the-witch-doctors-of-siquijor/5.webp){: w="586" h="780" }
+![](/assets/img/posts/the-witch-doctors-of-siquijor/5.webp){: width="586" height="780" loading="lazy" }
 
-![](/assets/img/posts/the-witch-doctors-of-siquijor/4.webp){: w="1500" h="2000" }
+![](/assets/img/posts/the-witch-doctors-of-siquijor/4.webp){: width="1500" height="2000" loading="lazy" }
 
 </div>

@@ -21,7 +21,7 @@ Sure to bring bear spray and move our heavy-duty food barrel away from our camp,
 
 After all, we were 4 handsome, athletic young men. Of course we could take on whatever troubles came our way.
 
-![](/assets/img/posts/bear-nuzzles-in-the-back-country/good-looking-fellas.webp){: w="1600" h="900" }
+![](/assets/img/posts/bear-nuzzles-in-the-back-country/good-looking-fellas.webp){: width="1600" height="900" loading="lazy" }
 
 Objectively Handsome, Athletic Young Men
 
@@ -51,7 +51,7 @@ Oops.
 
  “Yep all good boys, nothing to worry about”, Steve said to the other tent, before going back to bed.
 
-![](/assets/img/posts/bear-nuzzles-in-the-back-country/duskcanoescropped.webp){: w="745" h="411" }
+![](/assets/img/posts/bear-nuzzles-in-the-back-country/duskcanoescropped.webp){: width="745" height="411" loading="lazy" }
 
 Some tasty looking bear snacks in that canoe
 
@@ -79,25 +79,25 @@ By way of updates, besides the trip to Kilarney, in August/September I spent a f
 
 Canada’s an amazing place to explore and I hope to be back again soon to see more of you, and more of what the country has in store.
 
-![](/assets/img/posts/bear-nuzzles-in-the-back-country/canada-you-gorgeous-thing-1.webp){: w="1600" h="1200" }
+![](/assets/img/posts/bear-nuzzles-in-the-back-country/canada-you-gorgeous-thing-1.webp){: width="1600" height="1200" loading="lazy" }
 
 <div class="gallery" markdown="1">
 
-![Moose Ranger at it again](/assets/img/posts/bear-nuzzles-in-the-back-country/moose-ranger-at-it-again.webp){: w="1500" h="2000" }
+![Moose Ranger at it again](/assets/img/posts/bear-nuzzles-in-the-back-country/moose-ranger-at-it-again.webp){: width="1500" height="2000" loading="lazy" }
 
-![Gents and fire](/assets/img/posts/bear-nuzzles-in-the-back-country/gents-and-fire.webp){: w="1500" h="2000" }
+![Gents and fire](/assets/img/posts/bear-nuzzles-in-the-back-country/gents-and-fire.webp){: width="1500" height="2000" loading="lazy" }
 
-![Boys in a car](/assets/img/posts/bear-nuzzles-in-the-back-country/boys-in-a-car.webp){: w="1600" h="1200" }
+![Boys in a car](/assets/img/posts/bear-nuzzles-in-the-back-country/boys-in-a-car.webp){: width="1600" height="1200" loading="lazy" }
 
-![](/assets/img/posts/bear-nuzzles-in-the-back-country/20230902-172049-original.webp){: w="1500" h="2000" }
+![](/assets/img/posts/bear-nuzzles-in-the-back-country/20230902-172049-original.webp){: width="1500" height="2000" loading="lazy" }
 
-![Climbing buds](/assets/img/posts/bear-nuzzles-in-the-back-country/climbing-buds.webp){: w="1500" h="2000" }
+![Climbing buds](/assets/img/posts/bear-nuzzles-in-the-back-country/climbing-buds.webp){: width="1500" height="2000" loading="lazy" }
 
-![Don&amp;#8217;t fall](/assets/img/posts/bear-nuzzles-in-the-back-country/dont-fall.webp){: w="1500" h="2000" }
+![Don&amp;#8217;t fall](/assets/img/posts/bear-nuzzles-in-the-back-country/dont-fall.webp){: width="1500" height="2000" loading="lazy" }
 
-![Hiking buds](/assets/img/posts/bear-nuzzles-in-the-back-country/hiking-buds.webp){: w="1502" h="2000" }
+![Hiking buds](/assets/img/posts/bear-nuzzles-in-the-back-country/hiking-buds.webp){: width="1502" height="2000" loading="lazy" }
 
-![Skipping rocks](/assets/img/posts/bear-nuzzles-in-the-back-country/skipping-rocks.webp){: w="1500" h="2000" }
+![Skipping rocks](/assets/img/posts/bear-nuzzles-in-the-back-country/skipping-rocks.webp){: width="1500" height="2000" loading="lazy" }
 
 </div>
 

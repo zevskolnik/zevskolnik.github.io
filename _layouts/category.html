@@ -1,0 +1,14 @@
+---
+layout: default
+---
+{%- assign list = site.categories[page.category] -%}
+<main class="wrap">
+  <header class="post-head">
+    <span class="kicker">{{ list.size }} {% if list.size == 1 %}story{% else %}stories{% endif %}</span>
+    <h1>{{ page.title }}</h1>
+    {% if page.intro %}<p class="intro">{{ page.intro }}</p>{% endif %}
+  </header>
+  <div class="grid">
+    {%- for p in list -%}{% include card.html post=p %}{%- endfor -%}
+  </div>
+</main>

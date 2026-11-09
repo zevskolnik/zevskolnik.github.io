@@ -1,7 +1,9 @@
 ---
-title: Countries Visited
-icon: fas fa-globe-americas
-order: 4
+layout: page
+title: Countries visited
+kicker: The map
+permalink: /countries-visited/
+wide: true
 ---
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/jsvectormap@1.6.0/dist/jsvectormap.min.css">
@@ -23,8 +25,8 @@ order: 4
     selectedRegions: visited,
     regionsSelectable: false,
     markers: dots,
-    markerStyle: { initial: { fill: '#2a9d8f', stroke: '#ffffff', r: 4 } },
-    regionStyle: { initial: { fill: '#d6d9de' }, selected: { fill: '#2a9d8f' }, hover: { fillOpacity: 0.8 } }
+    markerStyle: { initial: { fill: '#e0812f', stroke: '#ffffff', r: 4 } },
+    regionStyle: { initial: { fill: '#e6dfd3' }, selected: { fill: '#e0812f' }, hover: { fillOpacity: 0.8 } }
   });
 </script>
 

@@ -23,7 +23,7 @@ I’d finished off my half marathon and was ready for a new physical challenge. 
 
 After convincing my flatmate Olivia to sign up with me, I realized what triathlon distances really meant. A 1.5km swim, 40km bike, 10km run. Individually, I can understand what that entails. An afternoon’s exercise for your average athlete. The issue, was doing those three items in succession.
 
-![](/assets/img/posts/2020-triathlon-1-5km-swim-40km-bike-6-month-quarantine/no-idea-what-were-getting-into-min.webp){: w="1600" h="1200" }
+![](/assets/img/posts/2020-triathlon-1-5km-swim-40km-bike-6-month-quarantine/no-idea-what-were-getting-into-min.webp){: width="1600" height="1200" loading="lazy" }
 
 No idea what we’re getting into
 
@@ -69,14 +69,14 @@ PS I wrote a tune about coronavirus for a contest a month ago. While I didn’t 
 
 <div class="gallery" markdown="1">
 
-![Bike Repair Shop](/assets/img/posts/2020-triathlon-1-5km-swim-40km-bike-6-month-quarantine/fixingthebike.webp){: w="1242" h="1242" }
+![Bike Repair Shop](/assets/img/posts/2020-triathlon-1-5km-swim-40km-bike-6-month-quarantine/fixingthebike.webp){: width="1242" height="1242" loading="lazy" }
 
-![The best part is when it&#039;s over](/assets/img/posts/2020-triathlon-1-5km-swim-40km-bike-6-month-quarantine/posttrihappies.webp){: w="1600" h="900" }
+![The best part is when it&#039;s over](/assets/img/posts/2020-triathlon-1-5km-swim-40km-bike-6-month-quarantine/posttrihappies.webp){: width="1600" height="900" loading="lazy" }
 
-![About to begin](/assets/img/posts/2020-triathlon-1-5km-swim-40km-bike-6-month-quarantine/pretriwithcaps.webp){: w="1200" h="1200" }
+![About to begin](/assets/img/posts/2020-triathlon-1-5km-swim-40km-bike-6-month-quarantine/pretriwithcaps.webp){: width="1200" height="1200" loading="lazy" }
 
-![The result](/assets/img/posts/2020-triathlon-1-5km-swim-40km-bike-6-month-quarantine/tritime.webp){: w="1200" h="1200" }
+![The result](/assets/img/posts/2020-triathlon-1-5km-swim-40km-bike-6-month-quarantine/tritime.webp){: width="1200" height="1200" loading="lazy" }
 
-![Franky St Brewing Co](/assets/img/posts/2020-triathlon-1-5km-swim-40km-bike-6-month-quarantine/franky-st-brewing-co-min-1.webp){: w="1600" h="1200" }
+![Franky St Brewing Co](/assets/img/posts/2020-triathlon-1-5km-swim-40km-bike-6-month-quarantine/franky-st-brewing-co-min-1.webp){: width="1600" height="1200" loading="lazy" }
 
 </div>

@@ -1,0 +1,26 @@
+{% unless page.hide_subscribe %}
+<section class="subscribe-band" id="subscribe">
+  <div class="wrap">
+    <div>
+      <h2>Get the next story in your inbox</h2>
+      <p>A newsletter every so often, when something ridiculous happens on the road. No spam.</p>
+    </div>
+    {% include signup.html %}
+  </div>
+</section>
+{% endunless %}
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="foot-brand">
+      <img src="{{ site.logo | relative_url }}" alt="" width="140" height="103">
+      <div><strong>{{ site.title }}</strong><br>&copy; {{ site.time | date: "%Y" }} {{ site.author.name }}</div>
+    </div>
+    <div class="foot-links">
+      <a href="{{ '/archive/' | relative_url }}">All stories</a>
+      <a href="{{ '/countries-visited/' | relative_url }}">Countries visited</a>
+      <a href="{{ '/about/' | relative_url }}">About</a>
+      <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+      <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+    </div>
+  </div>
+</footer>

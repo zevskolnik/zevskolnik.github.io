@@ -21,7 +21,7 @@ Sydney is the city that has it all. Between the beach, the weather and the endle
 
 As soon as I arrived, it seemed as though my friends and I would go from restaurant to restaurant, eating our way through heavenly portion of healthy (albeit expensive) food. With a fresh take on an acai bowl on every block, Sydney has more than enough eateries to keep you occupied during your time here. In fact, I had over 100 places on my list to go to, and sadly only managed to hit around a third of them!
 
-![](/assets/img/posts/24-hours-of-food-sydney/img-7060.webp){: w="1500" h="2000" }
+![](/assets/img/posts/24-hours-of-food-sydney/img-7060.webp){: width="1500" height="2000" loading="lazy" }
 
 Good acai ain’t no joke.
 
@@ -37,7 +37,7 @@ With only 24 hours and so much to eat, you’ll need to make sure you spend your
 
 It’s important to note that Sydney’s brunch game has got ‘it’. Now I don’t mean that they do brunch alright. I mean that they kill their brunch game. There are endless restaurants here that can supply you with instragram worthy deliciousness whether you’re looking for a potato skin tower (Mad Spuds Café) or green pea pancakes (Porch & Parlour). Both of which I tried. Both of which were amazing.
 
-![](/assets/img/posts/24-hours-of-food-sydney/img-7377.webp){: w="1600" h="1600" }
+![](/assets/img/posts/24-hours-of-food-sydney/img-7377.webp){: width="1600" height="1600" loading="lazy" }
 
 Everyone knows vertical food tastes better.
 
@@ -49,7 +49,7 @@ One of my go-to spots to start off the day was Bondi Wholefoods. If you’re a h
 
 When here, I would usually go for the longevity bowl, that’s filled with all sorts of healthy bits (kale, avocado, quinoa, fermented veggies, etc. etc.) baked and sauced in delicious ways. It’s absolutely pricey at $24, but an amazing way to start your day and carry you through to lunch.
 
-![This image has an empty alt attribute; its file name is IMG_7252-1024x768.jpg](/assets/img/posts/24-hours-of-food-sydney/img-7252.webp){: w="1600" h="1200" }
+![This image has an empty alt attribute; its file name is IMG_7252-1024x768.jpg](/assets/img/posts/24-hours-of-food-sydney/img-7252.webp){: width="1600" height="1200" loading="lazy" }
 
 Get in my belly!
 
@@ -75,7 +75,7 @@ One of my all time favourite snacks that I stumbled upon was this tiny Chinatown
 
 I have no idea what he puts on it or what it’s made actually of, but damn that’s some good pork.
 
-![](/assets/img/posts/24-hours-of-food-sydney/img-7174.webp){: w="1500" h="2000" }
+![](/assets/img/posts/24-hours-of-food-sydney/img-7174.webp){: width="1500" height="2000" loading="lazy" }
 
 I only eat meat with 4 corners.
 

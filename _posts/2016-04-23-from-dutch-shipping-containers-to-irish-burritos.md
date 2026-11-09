@@ -39,31 +39,31 @@ Zev
 
 <div class="gallery" markdown="1">
 
-![Amazing Irish Street Musicians](/assets/img/posts/from-dutch-shipping-containers-to-irish-burritos/amazing-irish-street-musicians.webp){: w="1500" h="2000" }
+![Amazing Irish Street Musicians](/assets/img/posts/from-dutch-shipping-containers-to-irish-burritos/amazing-irish-street-musicians.webp){: width="1500" height="2000" loading="lazy" }
 
-![Cliffs of Moher](/assets/img/posts/from-dutch-shipping-containers-to-irish-burritos/cliffs-of-moher.webp){: w="1600" h="1200" }
+![Cliffs of Moher](/assets/img/posts/from-dutch-shipping-containers-to-irish-burritos/cliffs-of-moher.webp){: width="1600" height="1200" loading="lazy" }
 
-![Dutch Breakfast](/assets/img/posts/from-dutch-shipping-containers-to-irish-burritos/dutch-breakfast.webp){: w="640" h="1136" }
+![Dutch Breakfast](/assets/img/posts/from-dutch-shipping-containers-to-irish-burritos/dutch-breakfast.webp){: width="640" height="1136" loading="lazy" }
 
-![Hitching Action Shot](/assets/img/posts/from-dutch-shipping-containers-to-irish-burritos/hitching-action-shot.webp){: w="1600" h="1200" }
+![Hitching Action Shot](/assets/img/posts/from-dutch-shipping-containers-to-irish-burritos/hitching-action-shot.webp){: width="1600" height="1200" loading="lazy" }
 
-![Marit and I](/assets/img/posts/from-dutch-shipping-containers-to-irish-burritos/marit-and-i-1.webp){: w="1600" h="1200" }
+![Marit and I](/assets/img/posts/from-dutch-shipping-containers-to-irish-burritos/marit-and-i-1.webp){: width="1600" height="1200" loading="lazy" }
 
-![Obligatory Pint](/assets/img/posts/from-dutch-shipping-containers-to-irish-burritos/obligatory-pint.webp){: w="1500" h="2000" }
+![Obligatory Pint](/assets/img/posts/from-dutch-shipping-containers-to-irish-burritos/obligatory-pint.webp){: width="1500" height="2000" loading="lazy" }
 
-![Phil and Finnish Friends](/assets/img/posts/from-dutch-shipping-containers-to-irish-burritos/phil-and-finnish-friends.webp){: w="1600" h="1200" }
+![Phil and Finnish Friends](/assets/img/posts/from-dutch-shipping-containers-to-irish-burritos/phil-and-finnish-friends.webp){: width="1600" height="1200" loading="lazy" }
 
-![Safety First!](/assets/img/posts/from-dutch-shipping-containers-to-irish-burritos/safety-first.webp){: w="1600" h="1600" }
+![Safety First!](/assets/img/posts/from-dutch-shipping-containers-to-irish-burritos/safety-first.webp){: width="1600" height="1600" loading="lazy" }
 
-![Sea of Bikes](/assets/img/posts/from-dutch-shipping-containers-to-irish-burritos/sea-of-bikes.webp){: w="1600" h="1600" }
+![Sea of Bikes](/assets/img/posts/from-dutch-shipping-containers-to-irish-burritos/sea-of-bikes.webp){: width="1600" height="1600" loading="lazy" }
 
-![Shipping Container Living](/assets/img/posts/from-dutch-shipping-containers-to-irish-burritos/shipping-container-living.webp){: w="1500" h="2000" }
+![Shipping Container Living](/assets/img/posts/from-dutch-shipping-containers-to-irish-burritos/shipping-container-living.webp){: width="1500" height="2000" loading="lazy" }
 
-![Stella&amp;#8217;s Photoshoot](/assets/img/posts/from-dutch-shipping-containers-to-irish-burritos/stellas-photoshoot.webp){: w="1500" h="2000" }
+![Stella&amp;#8217;s Photoshoot](/assets/img/posts/from-dutch-shipping-containers-to-irish-burritos/stellas-photoshoot.webp){: width="1500" height="2000" loading="lazy" }
 
-![The Rare Dutch Sun + Canal](/assets/img/posts/from-dutch-shipping-containers-to-irish-burritos/the-rare-dutch-sun-canal.webp){: w="1600" h="1600" }
+![The Rare Dutch Sun + Canal](/assets/img/posts/from-dutch-shipping-containers-to-irish-burritos/the-rare-dutch-sun-canal.webp){: width="1600" height="1600" loading="lazy" }
 
-![We Saw the End&amp;#8230;No Pot of Gold](/assets/img/posts/from-dutch-shipping-containers-to-irish-burritos/we-saw-the-end-no-pot-of-gold.webp){: w="1600" h="1654" }
+![We Saw the End&amp;#8230;No Pot of Gold](/assets/img/posts/from-dutch-shipping-containers-to-irish-burritos/we-saw-the-end-no-pot-of-gold.webp){: width="1600" height="1654" loading="lazy" }
 
 </div>
 

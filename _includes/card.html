@@ -1,0 +1,11 @@
+{%- assign p = include.post -%}
+{%- assign cover = p.card_image | default: p.image.path | default: p.image -%}
+<a class="card" href="{{ p.url | relative_url }}">
+  <div class="card-img">
+    {%- if cover -%}<img loading="lazy" src="{{ cover | relative_url }}" alt="" style="object-position: {{ p.image_position | default: '50% 30%' }}">{%- else -%}<span class="card-noimg"><img src="{{ site.logo | relative_url }}" alt="" width="140" height="103"></span>{%- endif -%}
+  </div>
+  <span class="kicker">{{ p.categories | last }}</span>
+  <h3>{{ p.title }}</h3>
+  <p>{% include excerpt.html post=p %}</p>
+  <span class="meta">{{ p.date | date: "%b %-d, %Y" }} &middot; {% include read-time.html content=p.content %}</span>
+</a>

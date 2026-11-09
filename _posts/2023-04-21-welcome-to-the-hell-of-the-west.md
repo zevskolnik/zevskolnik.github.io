@@ -37,7 +37,7 @@ Am I excited?
 
 Absolutely.
 
-![](/assets/img/posts/welcome-to-the-hell-of-the-west/goondipic1-1.webp){: w="920" h="676" }
+![](/assets/img/posts/welcome-to-the-hell-of-the-west/goondipic1-1.webp){: width="920" height="676" loading="lazy" }
 
 Much too chirpy pre 6am
 
@@ -47,7 +47,7 @@ Getting intimate with protein shakes and energy gels, I did my best to make 6am 
 
 Over 12 weeks, I rarely missed a session, although did give myself a few days to check out Heron Island with my parents, and maybe took off a sick day or two.
 
-![](/assets/img/posts/welcome-to-the-hell-of-the-west/goondipic2.webp){: w="749" h="621" }
+![](/assets/img/posts/welcome-to-the-hell-of-the-west/goondipic2.webp){: width="749" height="621" loading="lazy" }
 
 My training plan
 
@@ -115,8 +115,8 @@ At least, not until next year 😉
 
 Video of my finish: [https://vimeo.com/819770712?share=copy](https://vimeo.com/819770712?share=copy)
 
-![](/assets/img/posts/welcome-to-the-hell-of-the-west/goondipic5.webp){: w="750" h="851" }
+![](/assets/img/posts/welcome-to-the-hell-of-the-west/goondipic5.webp){: width="750" height="851" loading="lazy" }
 
-![](/assets/img/posts/welcome-to-the-hell-of-the-west/goondipic3.webp){: w="1024" h="768" }
+![](/assets/img/posts/welcome-to-the-hell-of-the-west/goondipic3.webp){: width="1024" height="768" loading="lazy" }
 
-![](/assets/img/posts/welcome-to-the-hell-of-the-west/goondipic4.webp){: w="748" h="849" }
+![](/assets/img/posts/welcome-to-the-hell-of-the-west/goondipic4.webp){: width="748" height="849" loading="lazy" }

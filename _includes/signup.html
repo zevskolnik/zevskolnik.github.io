@@ -1,0 +1,6 @@
+<form class="signup" action="{{ site.mailchimp.action | escape }}" method="post" target="_blank">
+  <input type="text" name="FNAME" autocomplete="given-name" placeholder="First name" aria-label="First name">
+  <input type="email" name="EMAIL" autocomplete="email" placeholder="Email address" aria-label="Email address" required>
+  <div class="hp" aria-hidden="true"><input type="text" name="{{ site.mailchimp.honeypot }}" tabindex="-1" value=""></div>
+  <button type="submit">Subscribe</button>
+</form>

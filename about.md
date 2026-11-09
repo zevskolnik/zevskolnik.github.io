@@ -1,8 +1,12 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 6
+layout: page
+title: About me
+kicker: Hi, I'm Zev
+permalink: /about/
+hide_subscribe: true
 ---
+
+![Zev](/assets/img/site/zev.webp){: .about-photo width="220" height="220" }
 
 I’m Zev. But some of you might know me as Jeff.
 

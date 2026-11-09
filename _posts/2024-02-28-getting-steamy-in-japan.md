@@ -27,7 +27,7 @@ Ahhh…serenity.
 
 \*if you have tattoos there are many onsens which won’t allow you entrance unless you can cover them up with a patch
 
-![](/assets/img/posts/getting-steamy-in-japan/making-friends-in-zen.webp){: w="1497" h="1857" }
+![](/assets/img/posts/getting-steamy-in-japan/making-friends-in-zen.webp){: width="1497" height="1857" loading="lazy" }
 
 Making friends in Zen
 
@@ -47,7 +47,7 @@ Speaking of uniqueness, the snow! Japan gets snowfall dumps like no other, and i
 
 Myself and 8 friends were based in Niseko, 2 hours out from Sapporo. Exploring the 4 areas of Niseko and doing a day trip to Rutsusu (my favourite day of snowboarding ever), I spent the week doing 95% off-piste runs, carving through trees and hiking through snowy backcountry.
 
-![](/assets/img/posts/getting-steamy-in-japan/rowan-in-powder.webp){: w="1500" h="2000" }
+![](/assets/img/posts/getting-steamy-in-japan/rowan-in-powder.webp){: width="1500" height="2000" loading="lazy" }
 
 My friend Rowan after snowboarding into a hole
 
@@ -61,9 +61,9 @@ When finally there, you get a 360 degree view of the neighbouring mountains and 
 
 <div class="gallery" markdown="1">
 
-![](/assets/img/posts/getting-steamy-in-japan/pizza-box-chair.webp){: w="1500" h="2000" }
+![](/assets/img/posts/getting-steamy-in-japan/pizza-box-chair.webp){: width="1500" height="2000" loading="lazy" }
 
-![](/assets/img/posts/getting-steamy-in-japan/hiking-lineup-in-snow.webp){: w="1500" h="2000" }
+![](/assets/img/posts/getting-steamy-in-japan/hiking-lineup-in-snow.webp){: width="1500" height="2000" loading="lazy" }
 
 </div>
 
@@ -73,20 +73,20 @@ Thank you Japan for the great trip. I can’t wait until the next time I’m bac
 
 <div class="gallery" markdown="1">
 
-![Ichiran ramen, served in a booth. Solo dining at its finest](/assets/img/posts/getting-steamy-in-japan/best-ramen.webp){: w="1500" h="2000" }
+![Ichiran ramen, served in a booth. Solo dining at its finest](/assets/img/posts/getting-steamy-in-japan/best-ramen.webp){: width="1500" height="2000" loading="lazy" }
 
-![Sumos in action. Would HIGHLY recommend going to a match](/assets/img/posts/getting-steamy-in-japan/sumos-getting-ready.webp){: w="1500" h="2000" }
+![Sumos in action. Would HIGHLY recommend going to a match](/assets/img/posts/getting-steamy-in-japan/sumos-getting-ready.webp){: width="1500" height="2000" loading="lazy" }
 
-![Showcasing today’s offering in the Tsukji Fish Market](/assets/img/posts/getting-steamy-in-japan/fishheads.webp){: w="1500" h="2000" }
+![Showcasing today’s offering in the Tsukji Fish Market](/assets/img/posts/getting-steamy-in-japan/fishheads.webp){: width="1500" height="2000" loading="lazy" }
 
-![3 levels of tuna. Blue is best, gold second, white worst (but still good)](/assets/img/posts/getting-steamy-in-japan/3-cuts-of-tuna.webp){: w="1500" h="2000" }
+![3 levels of tuna. Blue is best, gold second, white worst (but still good)](/assets/img/posts/getting-steamy-in-japan/3-cuts-of-tuna.webp){: width="1500" height="2000" loading="lazy" }
 
-![Made a friend at the sumo match](/assets/img/posts/getting-steamy-in-japan/new-sumo-friend.webp){: w="1500" h="2000" }
+![Made a friend at the sumo match](/assets/img/posts/getting-steamy-in-japan/new-sumo-friend.webp){: width="1500" height="2000" loading="lazy" }
 
-![I loved these tiny alleys everywhere](/assets/img/posts/getting-steamy-in-japan/picturesque-alleyway.webp){: w="1500" h="2000" }
+![I loved these tiny alleys everywhere](/assets/img/posts/getting-steamy-in-japan/picturesque-alleyway.webp){: width="1500" height="2000" loading="lazy" }
 
-![Omoide Yokocho. Alley filled with tiny stalls, cozily seating 5-10 people](/assets/img/posts/getting-steamy-in-japan/me-in-an-alley.webp){: w="1500" h="2000" }
+![Omoide Yokocho. Alley filled with tiny stalls, cozily seating 5-10 people](/assets/img/posts/getting-steamy-in-japan/me-in-an-alley.webp){: width="1500" height="2000" loading="lazy" }
 
-![Tokyo doing what Tokyo does. Lit up in busy neon wonder](/assets/img/posts/getting-steamy-in-japan/neon-tokyo.webp){: w="1500" h="2000" }
+![Tokyo doing what Tokyo does. Lit up in busy neon wonder](/assets/img/posts/getting-steamy-in-japan/neon-tokyo.webp){: width="1500" height="2000" loading="lazy" }
 
 </div>

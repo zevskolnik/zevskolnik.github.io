@@ -19,7 +19,7 @@ I’m here to learn about Buddhism and let monks run my schedule for a few days,
 
 Everyone is provided white clothing, although most items have a purple tinge from laundry.
 
-![](/assets/img/posts/how-does-a-monk-deal-with-a-mosquito/image0.webp){: w="1500" h="2000" }
+![](/assets/img/posts/how-does-a-monk-deal-with-a-mosquito/image0.webp){: width="1500" height="2000" loading="lazy" }
 
 Sadly ‘cowboy chic’ is not on the monk-approved fashion list
 
@@ -41,7 +41,7 @@ Not exactly the path to enlightenment.
 
 From the outside it looked like a cult. And I suppose from the inside too. But in a comforting ‘free food and synchronized chanting’ sort of way.
 
-![](/assets/img/posts/how-does-a-monk-deal-with-a-mosquito/image4.webp){: w="1500" h="2000" }
+![](/assets/img/posts/how-does-a-monk-deal-with-a-mosquito/image4.webp){: width="1500" height="2000" loading="lazy" }
 
 There’s nothing wrong with a little cult-iness. Right?
 

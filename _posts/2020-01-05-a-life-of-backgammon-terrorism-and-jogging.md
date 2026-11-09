@@ -51,20 +51,20 @@ Zev
 
 <div class="gallery" markdown="1">
 
-![The run!](/assets/img/posts/a-life-of-backgammon-terrorism-and-jogging/unnamed-1.webp){: w="480" h="657" }
+![The run!](/assets/img/posts/a-life-of-backgammon-terrorism-and-jogging/unnamed-1.webp){: width="480" height="657" loading="lazy" }
 
-![All finished! :D](/assets/img/posts/a-life-of-backgammon-terrorism-and-jogging/unnamed-7-2.webp){: w="480" h="640" }
+![All finished! :D](/assets/img/posts/a-life-of-backgammon-terrorism-and-jogging/unnamed-7-2.webp){: width="480" height="640" loading="lazy" }
 
-![Not Health &amp; Safety approved](/assets/img/posts/a-life-of-backgammon-terrorism-and-jogging/unnamed-6-1.webp){: w="480" h="480" }
+![Not Health &amp; Safety approved](/assets/img/posts/a-life-of-backgammon-terrorism-and-jogging/unnamed-6-1.webp){: width="480" height="480" loading="lazy" }
 
-![Pretty, pretty happy](/assets/img/posts/a-life-of-backgammon-terrorism-and-jogging/unnamed-5-1.webp){: w="480" h="480" }
+![Pretty, pretty happy](/assets/img/posts/a-life-of-backgammon-terrorism-and-jogging/unnamed-5-1.webp){: width="480" height="480" loading="lazy" }
 
-![Burning on the board](/assets/img/posts/a-life-of-backgammon-terrorism-and-jogging/unnamed-4-1.webp){: w="480" h="360" }
+![Burning on the board](/assets/img/posts/a-life-of-backgammon-terrorism-and-jogging/unnamed-4-1.webp){: width="480" height="360" loading="lazy" }
 
-![Forge good. Fire hot.](/assets/img/posts/a-life-of-backgammon-terrorism-and-jogging/unnamed-3-1.webp){: w="480" h="480" }
+![Forge good. Fire hot.](/assets/img/posts/a-life-of-backgammon-terrorism-and-jogging/unnamed-3-1.webp){: width="480" height="480" loading="lazy" }
 
-![Hard at work](/assets/img/posts/a-life-of-backgammon-terrorism-and-jogging/unnamed-2-1.webp){: w="480" h="480" }
+![Hard at work](/assets/img/posts/a-life-of-backgammon-terrorism-and-jogging/unnamed-2-1.webp){: width="480" height="480" loading="lazy" }
 
-![Finished products](/assets/img/posts/a-life-of-backgammon-terrorism-and-jogging/unnamed-1-1.webp){: w="480" h="480" }
+![Finished products](/assets/img/posts/a-life-of-backgammon-terrorism-and-jogging/unnamed-1-1.webp){: width="480" height="480" loading="lazy" }
 
 </div>

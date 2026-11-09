@@ -17,7 +17,7 @@ Whether it’s from construction workers digging a hole, a roadside barbecue sta
 
 “Bula!”\*
 
-![](/assets/img/posts/lifes-better-on-fiji-time/bula-boy.webp){: w="1500" h="2000" }
+![](/assets/img/posts/lifes-better-on-fiji-time/bula-boy.webp){: width="1500" height="2000" loading="lazy" }
 
 Blending in with the locals
 
@@ -57,7 +57,7 @@ As a visitor, it’s customary to bring kava root, called waka, to be given to t
 
 Afterwards, the waka gets pounded to a white powder and the nightly kava ritual begins. As a guest of honour, I was usually first to drink and quickly was taught the customs on how to accept the mud-water looking beverage.
 
-![](/assets/img/posts/lifes-better-on-fiji-time/waka-1.webp){: w="750" h="973" }
+![](/assets/img/posts/lifes-better-on-fiji-time/waka-1.webp){: width="750" height="973" loading="lazy" }
 
 Pounding the waka
 
@@ -91,16 +91,16 @@ PS. I’ll be visiting Toronto mid June. If you’re around, would love to catch
 
 <div class="gallery" markdown="1">
 
-![Standard Fijian meal. Way too much food!](/assets/img/posts/lifes-better-on-fiji-time/standard-fijian-meal-way-too-much-food.webp){: w="1331" h="998" }
+![Standard Fijian meal. Way too much food!](/assets/img/posts/lifes-better-on-fiji-time/standard-fijian-meal-way-too-much-food.webp){: width="1331" height="998" loading="lazy" }
 
-![Hanging out with the Fijian children](/assets/img/posts/lifes-better-on-fiji-time/hanging-out-with-the-fijian-children.webp){: w="812" h="1081" }
+![Hanging out with the Fijian children](/assets/img/posts/lifes-better-on-fiji-time/hanging-out-with-the-fijian-children.webp){: width="812" height="1081" loading="lazy" }
 
-![Fijian birthday party](/assets/img/posts/lifes-better-on-fiji-time/fijian-birthday-party.webp){: w="756" h="1008" }
+![Fijian birthday party](/assets/img/posts/lifes-better-on-fiji-time/fijian-birthday-party.webp){: width="756" height="1008" loading="lazy" }
 
-![5 star lamb shank](/assets/img/posts/lifes-better-on-fiji-time/5-star-lamb-shank.webp){: w="768" h="1024" }
+![5 star lamb shank](/assets/img/posts/lifes-better-on-fiji-time/5-star-lamb-shank.webp){: width="768" height="1024" loading="lazy" }
 
-![Triton&amp;#8217;s Trumpet](/assets/img/posts/lifes-better-on-fiji-time/tritons-trumpet.webp){: w="756" h="1008" }
+![Triton&amp;#8217;s Trumpet](/assets/img/posts/lifes-better-on-fiji-time/tritons-trumpet.webp){: width="756" height="1008" loading="lazy" }
 
-![Enjoying the Fijian view](/assets/img/posts/lifes-better-on-fiji-time/enjoying-the-fijian-view.webp){: w="756" h="1008" }
+![Enjoying the Fijian view](/assets/img/posts/lifes-better-on-fiji-time/enjoying-the-fijian-view.webp){: width="756" height="1008" loading="lazy" }
 
 </div>

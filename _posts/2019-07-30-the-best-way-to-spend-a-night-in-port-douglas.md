@@ -17,7 +17,7 @@ Lots to see and do, and so little time!
 
 My first night in Cairns can be summed up in two words: jelly wrestling. While I thought I had seen it all during my time at Western University, apparently Gilligan’s Hostel takes it up to a whole other level. Reminiscent of the movie Old School, the club/hostel has crazy party themed activities each night. While it’s not something I’d like to see my hypothetical daughter involved in, watching people wrestle in an inflatable pool full of jelly was a new one for the books, and fun for all involved.
 
-![](/assets/img/posts/the-best-way-to-spend-a-night-in-port-douglas/img-7466.webp){: w="1500" h="2000" }
+![](/assets/img/posts/the-best-way-to-spend-a-night-in-port-douglas/img-7466.webp){: width="1500" height="2000" loading="lazy" }
 
 As sanitary as it gets.
 
@@ -51,7 +51,7 @@ Soon after arriving, the host of the race shows up. Apparently cane toads are in
 
 What started as a few dozen toads has quickly become a major issue, as more than a **billion** toads are estimated to be hopping around down under.
 
-![](/assets/img/posts/the-best-way-to-spend-a-night-in-port-douglas/jaunathan-gagnon-v5ag4qufyx8-unsplash.webp){: w="1600" h="1068" }
+![](/assets/img/posts/the-best-way-to-spend-a-night-in-port-douglas/jaunathan-gagnon-v5ag4qufyx8-unsplash.webp){: width="1600" height="1068" loading="lazy" }
 
 No bueno.
 
@@ -75,7 +75,7 @@ As the box is lifted, each racer is given a party blower to make noise and encou
 
 Incredible.
 
-![](/assets/img/posts/the-best-way-to-spend-a-night-in-port-douglas/img-7483.webp){: w="1500" h="2000" }
+![](/assets/img/posts/the-best-way-to-spend-a-night-in-port-douglas/img-7483.webp){: width="1500" height="2000" loading="lazy" }
 
 Absolute mayhem.
 

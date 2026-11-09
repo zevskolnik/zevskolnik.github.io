@@ -11,7 +11,7 @@ image:
 
 Portugal’s an awesome place to live, as everything’s really cheap, the subway is well connected, and the city in general is really safe. You’re going to be paying anywhere from 200-500 euros a month for your pad, with 200 having some roaches for roommates and 500 being a sweet solo apartment.
 
-![](/assets/img/posts/a-semester-abroad-and-general-guide-to-lisbon/image-1.webp){: w="621" h="486" }
+![](/assets/img/posts/a-semester-abroad-and-general-guide-to-lisbon/image-1.webp){: width="621" height="486" loading="lazy" }
 
 Ideally you want to be near Saldanha (red + yellow), or Marques de Pombal (blue + yellow), because both make it really easy to get to school, and to enjoy the nightlife. If you’re going to school, it’ll likely be between Laranjeiras (blue) and Cidade Universitaria (yellow), and is quick to get to once you’re on one of those lines. Personally, **I’d rather be by Marques de Pombal, as the blue line is the best connected**, and Saldanha is a bit more expensive. Anywhere in the general area that’s circled though is fine.
 
