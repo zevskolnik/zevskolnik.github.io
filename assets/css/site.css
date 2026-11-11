@@ -121,7 +121,7 @@ a { color: inherit; }
 .site-footer a { color: #fff; text-decoration: none; }
 .site-footer a:hover { color: var(--orange); }
 .foot-brand { display: flex; align-items: center; gap: 14px; }
-.foot-brand img { width: 64px; transform: rotate(-4deg); }
+.foot-brand img { width: 64px; height: auto; transform: rotate(-4deg); }
 .foot-links { display: flex; gap: 22px; flex-wrap: wrap; }
 
 /* ---------- Post page ---------- */
