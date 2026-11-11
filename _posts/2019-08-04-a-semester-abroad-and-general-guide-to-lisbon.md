@@ -2,6 +2,7 @@
 title: "A Semester Abroad (and General) Guide to Lisbon"
 date: 2019-08-04 02:49:50
 categories: [Guides, General Guides]
+excerpt: "Portugal’s an awesome place to live, as everything’s really cheap, the subway is well connected, and the city in general is really safe."
 image:
   path: /assets/img/posts/a-semester-abroad-and-general-guide-to-lisbon/andreas-brucker-x87yb-jvyhw-unsplash.webp
   alt: "A Semester Abroad (and General) Guide to Lisbon"
